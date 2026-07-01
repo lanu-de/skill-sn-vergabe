@@ -42,9 +42,9 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
 3. **Vergabeunterlagen/Dokumente** — Leistungsbeschreibung, Eignungs- und
    Zuschlagskriterien sowie den (fortlaufend zu führenden) Vergabevermerk anlegen
    und den Bekanntmachungstext vorbereiten. Ausfüllbare Vorlagen liefert der Skill
-   `sn-vergabe-dokumente`; die zugrunde liegende Dokumentationspflicht (§ 5 Abs. 1
-   SächsVergabeG i. V. m. Anlage 1, ergänzend § 8 VgV/§ 20 EU VOB/A oberschwellig
-   bzw. § 20 VOB/A/§ 20 VOL/A unterschwellig) steht in
+   `sn-vergabe-dokumente`; die zugrunde liegende Dokumentationspflicht (§ 8 VgV/§ 20
+   EU VOB/A oberschwellig bzw. § 20 VOB/A/§ 20 VOL/A unterschwellig; ergänzend § 5
+   Abs. 1 SächsVergabeG i. V. m. Anlage 1) steht in
    `references/sachsen-spezifika.md` und `references/rechtsquellen.md`.
 
 4. **Bekanntmachung und Fristen** — das Verfahren veröffentlichen (Vergabeplattform

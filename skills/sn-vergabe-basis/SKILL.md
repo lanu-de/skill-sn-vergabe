@@ -35,8 +35,9 @@ SäHO denselben Grundsatz. Darauf baut die eigentliche Normenhierarchie auf:
 unterschwellig für Liefer-/Dienstleistungen die **VOL/A**, für Bauleistungen die
 **VOB/A Abschnitt 1** – **nicht** die UVgO. Sachsen hat die UVgO für seine
 Landes-/Kommunalvergaben bislang nicht eingeführt; entsprechend gibt es in Sachsen
-unterschwellig auch keine „Verhandlungsvergabe" (das ist UVgO-Terminologie), sondern
-die „Freihändige Vergabe" (VOB/A) bzw. die Verfahrensarten der VOL/A. Diese Aussage
+unterschwellig auch keine „Verhandlungsvergabe" (das ist UVgO-Terminologie); die
+entsprechende Verfahrensart heißt sowohl in der VOB/A als auch in der VOL/A
+„Freihändige Vergabe". Diese Aussage
 ist der häufigste Stolperstein, weil sie dem bundesweiten Regelfall (UVgO) widerspricht.
 
 Wo genau das steht und mit welcher amtlichen Fundstelle:
