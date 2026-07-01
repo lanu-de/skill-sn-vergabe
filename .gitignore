@@ -1,0 +1,14 @@
+# Interne Design-/Spec-Dokumente — bleiben lokal, nicht im öffentlichen Repo
+docs/
+.claude/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editoren / IDEs
+.idea/
+.vscode/
+*.swp
+*~
