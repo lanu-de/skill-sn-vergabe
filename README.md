@@ -31,9 +31,10 @@ Vergabestellen von Kommunen, Behörden und öffentlichen Einrichtungen in Sachse
 
 ## Installation
 
-Ausführliche Anleitung in [INSTALLATION.md](INSTALLATION.md) *(folgt in einer späteren
-Ausbaustufe)*. Kurz: Skills nach `~/.claude/skills/` kopieren (Claude Desktop) bzw. als
-Claude-Code-Plugin über den Marketplace installieren.
+Drei Wege — ausführlich in [INSTALLATION.md](INSTALLATION.md):
+- **Claude Desktop:** `skills/`-Ordner nach `~/.claude/skills/` kopieren.
+- **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` → `/plugin install sn-vergabe@sn-vergabe`.
+- **Manuell:** ZIP herunterladen und `skills/` ablegen.
 
 ## Rechts-Datenstand
 
