@@ -7,6 +7,10 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 ## [Unreleased]
 
 ### Hinzugefügt
-- Projektstart: Repo-Grundgerüst, Referenzdatenbasis und Sync-Werkzeug (Teilprojekt 1).
+- Repo-Grundgerüst (README mit Disclaimer, LICENSE CC BY 4.0, CONTRIBUTING).
+- Sync-/Prüf-Werkzeug `scripts/sync_shared.py` (sync + Fundstellenprüfung + CLI), getestet (5/5).
+- Referenzdatenbasis unter `shared/references/` (Datenstand 01.07.2026): Glossar,
+  Rechtsquellen (inkl. haushaltsrechtlicher Grundlage), EU-Schwellenwerte, sächsische
+  Wertgrenzen, Verfahrensarten, Fristen und Sachsen-Spezifika — je mit Fundstelle und Stand.
 
 ## [0.1.0] – in Arbeit

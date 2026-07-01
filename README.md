@@ -37,8 +37,10 @@ Claude-Code-Plugin über den Marketplace installieren.
 
 ## Rechts-Datenstand
 
-**Geprüft zum:** _in Aufbau_ — siehe Spalte „Stand" in den Referenzdaten unter
-`shared/references/`.
+**Geprüft zum:** 01.07.2026 — siehe Spalte „Stand" in den Referenzdaten unter
+`shared/references/`. Einzelne landesrechtliche Punkte sind als „(zu prüfen)" markiert
+(v. a. sächsische Bau-Wertgrenzen und die angekündigte SächsVergabeG-Novelle mit
+Tariftreue/Vergabemindestentgelt).
 
 ## Mitwirken
 
