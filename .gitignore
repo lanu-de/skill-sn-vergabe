@@ -12,3 +12,12 @@ desktop.ini
 .vscode/
 *.swp
 *~
+
+# Python / Arbeitsumgebung (projektlokal, nicht ins Repo)
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Interne Arbeitsartefakte (Fortschritts-Ledger der Ausführung)
+.superpowers/
