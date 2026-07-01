@@ -18,7 +18,7 @@ Delegierte Verordnungen der EU-Kommission neu festgesetzt und gelten über die *
 Verweisung in § 106 Abs. 2 GWB** unmittelbar, ohne dass es einer gesonderten Umsetzung im
 deutschen Recht bedarf. Alle Werte sind **Nettobeträge** (ohne Umsatzsteuer). Für eine
 sächsische Vergabestelle (Kommune, Landesbehörde, Zweckverband) ist in aller Regel die
-Zeile „Liefer-/Dienstleistungsaufträge – andere öffentliche Auftraggeber" maßgeblich, nicht
+Zeile „Liefer-/Dienstleistungsaufträge – andere öffentliche Auftraggeber“ maßgeblich, nicht
 die niedrigere Bundesbehörden-Schwelle.
 
 ## Aktuelle Schwellenwerte (gültig 01.01.2026–31.12.2027)
@@ -28,7 +28,7 @@ die niedrigere Bundesbehörden-Schwelle.
 | **Bauaufträge** (klassische Richtlinie 2014/24/EU, § 106 Abs. 2 Nr. 1 GWB) | 5.404.000 EUR (netto) | Delegierte Verordnung (EU) 2025/2152 der Kommission vom 22.10.2025 zur Änderung der RL 2014/24/EU (ABl. L 2025/2152 vom 23.10.2025): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2152 | 01.07.2026 | 01.01.2026 |
 | **Liefer-/Dienstleistungsaufträge – oberste und obere Bundesbehörden** und vergleichbare Bundeseinrichtungen (zentrale Regierungsbehörden i. S. v. Anhang I RL 2014/24/EU) | 140.000 EUR (netto) | Delegierte Verordnung (EU) 2025/2152 der Kommission vom 22.10.2025 zur Änderung der RL 2014/24/EU: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2152 | 01.07.2026 | 01.01.2026 |
 | **Liefer-/Dienstleistungsaufträge – andere öffentliche Auftraggeber** (u. a. Kommunen, Landkreise, Landesbehörden, Zweckverbände in Sachsen) | 216.000 EUR (netto) | Delegierte Verordnung (EU) 2025/2152 der Kommission vom 22.10.2025 zur Änderung der RL 2014/24/EU: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2152 | 01.07.2026 | 01.01.2026 |
-| **Freiberufliche Leistungen** (z. B. Architekten-/Ingenieurleistungen, § 73 ff. VgV) – **kein eigener Schwellenwert**: gelten vergaberechtlich als Dienstleistungsauftrag (§ 103 Abs. 4 GWB) und unterliegen **demselben Schwellenwert wie „andere öffentliche Auftraggeber"** (216.000 EUR) bzw. 140.000 EUR bei oberster/oberer Bundesbehörde. Nicht zu verwechseln mit der gesonderten (höheren) Schwelle für „soziale und andere besondere Dienstleistungen" nach Anhang XIV RL 2014/24/EU (750.000 EUR, betrifft andere Leistungsarten, z. B. bestimmte Gesundheits- und Sozialdienstleistungen). | = 216.000 EUR bzw. 140.000 EUR (kein eigener Wert) | § 106 Abs. 2 Nr. 1 GWB i. V. m. Art. 4 RL 2014/24/EU: https://www.gesetze-im-internet.de/gwb/__106.html | 01.07.2026 | 01.01.2026 |
+| **Freiberufliche Leistungen** (z. B. Architekten-/Ingenieurleistungen, § 73 ff. VgV) – **kein eigener Schwellenwert**: gelten vergaberechtlich als Dienstleistungsauftrag (§ 103 Abs. 4 GWB) und unterliegen **demselben Schwellenwert wie „andere öffentliche Auftraggeber“** (216.000 EUR) bzw. 140.000 EUR bei oberster/oberer Bundesbehörde. Nicht zu verwechseln mit der gesonderten (höheren) Schwelle für „soziale und andere besondere Dienstleistungen“ nach Anhang XIV RL 2014/24/EU (750.000 EUR, betrifft andere Leistungsarten, z. B. bestimmte Gesundheits- und Sozialdienstleistungen). | = 216.000 EUR bzw. 140.000 EUR (kein eigener Wert) | § 106 Abs. 2 Nr. 1 GWB i. V. m. Art. 4 RL 2014/24/EU: https://www.gesetze-im-internet.de/gwb/__106.html | 01.07.2026 | 01.01.2026 |
 | **Konzessionen** (Bau- und Dienstleistungskonzessionen, § 105 GWB, RL 2014/23/EU) – Kurzhinweis: eigener Schwellenwert, in Sachsen selten einschlägig | 5.404.000 EUR (netto) | Delegierte Verordnung (EU) 2025/2151 der Kommission vom 22.10.2025 zur Änderung der RL 2014/23/EU: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2151 | 01.07.2026 | 01.01.2026 |
 | **Sektorenauftraggeber** (Wasser-, Energie-, Verkehrsversorgung, § 100, § 102 GWB, RL 2014/25/EU) – Kurzhinweis: eigenes Regelwerk (Sektorenverordnung – SektVO), eigene (höhere) Schwellenwerte; betrifft in Sachsen v. a. kommunale Ver-/Entsorgungsbetriebe | Bauaufträge: 5.404.000 EUR; Liefer-/Dienstleistungsaufträge: 432.000 EUR (netto) | Delegierte Verordnung (EU) 2025/2150 der Kommission vom 22.10.2025 zur Änderung der RL 2014/25/EU: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2150 | 01.07.2026 | 01.01.2026 |
 
@@ -55,7 +55,7 @@ die niedrigere Bundesbehörden-Schwelle.
   Dienste des Deutschen Bundestages (WD 7 - 3000 - 010/26 vom 05.03.2026, Abschnitt 2.1,
   mit tabellarischer Übersicht) sowie mehrere unabhängige Fachquellen (u. a. Deutscher
   Städte- und Gemeindebund, Vergabeplattform NRW, cosinex) gegengelesen; alle Quellen
-  stimmen in den genannten Beträgen überein. **Keiner der Werte ist als „zu prüfen"
+  stimmen in den genannten Beträgen überein. **Keiner der Werte ist als „zu prüfen“
   gekennzeichnet** – alle sieben Zeilen der Tabelle gelten als recherchiert bestätigt
   (Stand der Prüfung: 01.07.2026).
 - **Änderung zur Vorperiode (2024/2025):** Die Schwellenwerte sind zum 01.01.2026

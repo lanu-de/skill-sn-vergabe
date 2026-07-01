@@ -28,11 +28,11 @@ und `sn-vergabe-begleitung` bei der schrittweisen Durchführung des gewählten V
 1. **Auftragswert (netto) schätzen.** Maßgeblich ist die vom Auftraggeber vor
    Verfahrensbeginn zu schätzende voraussichtliche Vergütung ohne Umsatzsteuer; bei
    losweiser Vergabe ist ggf. der Gesamtwert aller Lose zu betrachten. Definition und
-   Abgrenzung: `references/glossar.md` (Stichworte „Auftragswert", „Los/Losvergabe").
+   Abgrenzung: `references/glossar.md` (Stichworte „Auftragswert“, „Los/Losvergabe“).
 
 2. **Ober- oder Unterschwelle bestimmen.** Den geschätzten Netto-Auftragswert mit dem
    einschlägigen EU-Schwellenwert vergleichen. Für eine sächsische Vergabestelle ist bei
-   Liefer-/Dienstleistungen in aller Regel die Zeile „andere öffentliche Auftraggeber"
+   Liefer-/Dienstleistungen in aller Regel die Zeile „andere öffentliche Auftraggeber“
    maßgeblich (nicht die niedrigere Bundesbehörden-Schwelle); bei Bauleistungen gilt ein
    eigener, deutlich höherer Schwellenwert; bei Sektorentätigkeiten wiederum ein eigener
    Wert. Aktuelle Werte und Fundstellen: `references/schwellenwerte-eu.md`.
@@ -61,9 +61,9 @@ und `sn-vergabe-begleitung` bei der schrittweisen Durchführung des gewählten V
 - **Unterschwelle Liefer-/Dienstleistungen = VOL/A, nicht UVgO.** Sachsen hat die UVgO
   für eigene Landes-/Kommunalvergaben bislang nicht eingeführt; maßgeblich ist weiterhin
   die VOL/A (1. Abschnitt). Damit gibt es in Sachsen unterschwellig **keine
-  „Verhandlungsvergabe"** (das ist UVgO-Terminologie) – die entsprechende VOL/A-Verfahrensart
-  heißt „**Freihändige Vergabe**". Ein Agent, der aus allgemeinem Wissen heraus für einen
-  sächsischen Fall auf „UVgO-Verhandlungsvergabe" schließt, liegt falsch. Hintergrund:
+  „Verhandlungsvergabe“** (das ist UVgO-Terminologie) – die entsprechende VOL/A-Verfahrensart
+  heißt „**Freihändige Vergabe**“. Ein Agent, der aus allgemeinem Wissen heraus für einen
+  sächsischen Fall auf „UVgO-Verhandlungsvergabe“ schließt, liegt falsch. Hintergrund:
   `sn-vergabe-basis`.
 - **Genuin sächsischer Wert: Freihändige Vergabe nach § 4 SächsVergabeG.** Sowohl für
   Liefer-/Dienstleistungen (i. V. m. § 3 Abs. 5 Buchst. i VOL/A) als auch für Bauleistungen
@@ -76,17 +76,17 @@ und `sn-vergabe-begleitung` bei der schrittweisen Durchführung des gewählten V
 - **Bauleistungen = VOB/A Abschnitt 1.** Unterschwellig gilt für Bauleistungen bundesweit
   und auch in Sachsen die VOB/A Abschnitt 1 (Öffentliche Ausschreibung, Beschränkte
   Ausschreibung, Freihändige Vergabe, Direktauftrag).
-- **Bau-Wertgrenze Freihändige Vergabe: Normwiderspruch „(zu prüfen)".** Zwischen der
+- **Bau-Wertgrenze Freihändige Vergabe: Normwiderspruch „(zu prüfen)“.** Zwischen der
   landesgesetzlichen Grenze des § 4 SächsVergabeG und der zum 01.01.2026 neu gefassten,
   höheren Grenze der Bundes-VOB/A (§ 3a Abs. 3) besteht ein amtlich noch nicht geklärter
   Widerspruch. Dieser Punkt ist in `references/wertgrenzen-sachsen.md` ausdrücklich als
-  **„(zu prüfen)"** gekennzeichnet und darf nicht als gesichert dargestellt werden; im
+  **„(zu prüfen)“** gekennzeichnet und darf nicht als gesichert dargestellt werden; im
   Zweifel ist von der niedrigeren landesgesetzlichen Grenze auszugehen.
 
 ## Kleiner Entscheidungsbaum
 
 Der folgende Ablauf bildet nur die *Relation* zu den jeweiligen Schwellen/Wertgrenzen ab
-(„≥ EU-Schwelle?", „≤ Grenze der Freihändigen Vergabe?") – die konkreten Beträge stehen
+(„≥ EU-Schwelle?“, „≤ Grenze der Freihändigen Vergabe?“) – die konkreten Beträge stehen
 ausschließlich in `references/schwellenwerte-eu.md` und `references/wertgrenzen-sachsen.md`:
 
 ```
@@ -106,7 +106,7 @@ Auftragswert (netto) geschätzt (Schritt 1)
     └─ Bau → VOB/A Abschnitt 1
         ├─ ≤ Wertgrenze Direktauftrag?                          → Direktauftrag
         ├─ ≤ Wertgrenze Freihändige Vergabe
-        │   (§ 4 SächsVergabeG vs. § 3a VOB/A – „(zu prüfen)")?  → Freihändige Vergabe
+        │   (§ 4 SächsVergabeG vs. § 3a VOB/A – „(zu prüfen)“)?  → Freihändige Vergabe
         └─ sonst                                                → Öffentliche/Beschränkte
                                                                      Ausschreibung (§ 3a VOB/A)
 ```
@@ -116,6 +116,6 @@ Auftragswert (netto) geschätzt (Schritt 1)
 Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder verbindlichen
 Auskunft die konkreten Beträge und Fristen in der jeweiligen Referenzdatei prüfen und bei
 Bedarf gegen die amtliche Primärquelle verifizieren (`revosax.sachsen.de` für
-SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)"**
+SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)“**
 markierte Punkte – insbesondere die sächsischen Bau-Wertgrenzen bei der Freihändigen
 Vergabe – nicht ungeprüft als gesichert weitergeben.

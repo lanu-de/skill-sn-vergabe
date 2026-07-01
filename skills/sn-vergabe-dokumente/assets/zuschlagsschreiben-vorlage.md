@@ -23,7 +23,7 @@ Datum: [Datum]
 Ihr Zeichen/Ihre Nachricht: [falls vorhanden]
 Unser Zeichen/Vergabenummer: [Aktenzeichen]
 
-**Betreff:** Vergabeverfahren „[Bezeichnung des Vorhabens]" — Zuschlagserteilung
+**Betreff:** Vergabeverfahren „[Bezeichnung des Vorhabens]“ — Zuschlagserteilung
 
 Sehr geehrte Damen und Herren,
 

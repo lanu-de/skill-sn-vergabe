@@ -30,7 +30,7 @@ Datum: [Datum]
 Ihr Zeichen/Ihre Nachricht: [falls vorhanden]
 Unser Zeichen/Vergabenummer: [Aktenzeichen]
 
-**Betreff:** Vergabeverfahren „[Bezeichnung des Vorhabens]" — Information über die
+**Betreff:** Vergabeverfahren „[Bezeichnung des Vorhabens]“ — Information über die
 vorgesehene Nichtberücksichtigung Ihres Angebots
 
 Sehr geehrte Damen und Herren,
@@ -55,7 +55,7 @@ Preis-Leistungs-Verhältnis im Vergleich zum Zuschlagsbieter].
 Der Vertrag darf gemäß **§ 134 Abs. 2 GWB** frühestens **[Datum, berechnet nach der
 Warte-/Stillhaltefrist gemäß § 134 Abs. 2 GWB — Fristlänge (15 bzw. 10 Kalendertage je nach
 Übermittlungsweg) und Fristbeginn (Absendung dieser Information) vor Nutzung gegen
-`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Oberschwelle",
+`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Oberschwelle“,
 prüfen (Stand 01.07.2026)]** geschlossen werden.
 
 Zuständige Nachprüfungsinstanz: Vergabekammer des Freistaates Sachsen bei der
@@ -86,7 +86,7 @@ Sollten Sie die Nichteinhaltung der Vergabevorschriften beanstanden wollen, teil
 bitte **schriftlich** unter Angabe der Gründe mit. Der Auftraggeber unterrichtet in diesem
 Fall die zuständige Nachprüfungsbehörde (§ 8 Abs. 2 SächsVergabeG). Ein Anspruch auf
 Tätigwerden der Nachprüfungsbehörde besteht nach § 8 SächsVergabeG nicht. Einzelheiten:
-`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Unterschwelle".
+`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Unterschwelle“.
 
 ---
 

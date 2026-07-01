@@ -35,9 +35,9 @@ SäHO denselben Grundsatz. Darauf baut die eigentliche Normenhierarchie auf:
 unterschwellig für Liefer-/Dienstleistungen die **VOL/A**, für Bauleistungen die
 **VOB/A Abschnitt 1** – **nicht** die UVgO. Sachsen hat die UVgO für seine
 Landes-/Kommunalvergaben bislang nicht eingeführt; entsprechend gibt es in Sachsen
-unterschwellig auch keine „Verhandlungsvergabe" (das ist UVgO-Terminologie); die
+unterschwellig auch keine „Verhandlungsvergabe“ (das ist UVgO-Terminologie); die
 entsprechende Verfahrensart heißt sowohl in der VOB/A als auch in der VOL/A
-„Freihändige Vergabe". Diese Aussage
+„Freihändige Vergabe“. Diese Aussage
 ist der häufigste Stolperstein, weil sie dem bundesweiten Regelfall (UVgO) widerspricht.
 
 Wo genau das steht und mit welcher amtlichen Fundstelle:
@@ -60,7 +60,7 @@ weiter:
 | Welche Verfahrensart passt zu Auftragswert und Leistungsart? | `sn-vergabe-verfahrenswahl` |
 | Ein Vergabedokument erstellen (Vergabevermerk, Leistungsbeschreibung, Schreiben u. a.) | `sn-vergabe-dokumente` |
 | Ein konkretes Vergabeverfahren Schritt für Schritt durchführen | `sn-vergabe-begleitung` |
-| Allgemeine/einführende Rechtsfrage, Begriffsklärung, „wo steht das?" | dieser Skill (`sn-vergabe-basis`) |
+| Allgemeine/einführende Rechtsfrage, Begriffsklärung, „wo steht das?“ | dieser Skill (`sn-vergabe-basis`) |
 
 ## Rechtsfragen beantworten
 
@@ -91,9 +91,9 @@ folgende Vorgehensweise:
 
 ## Datenstand & Aktualität
 
-Der Datenstand aller `references/`-Dateien ist **01.07.2026** (siehe Spalte „Stand"
+Der Datenstand aller `references/`-Dateien ist **01.07.2026** (siehe Spalte „Stand“
 in den jeweiligen Tabellen). Einzelne Punkte sind dort ausdrücklich als
-**„(zu prüfen)"** markiert und dürfen nicht ungeprüft als gesichert weitergegeben
+**„(zu prüfen)“** markiert und dürfen nicht ungeprüft als gesichert weitergegeben
 werden – insbesondere die sächsischen Bau-Wertgrenzen und die angekündigte, noch
 nicht in Kraft getretene Novelle des SächsVergabeG (u. a. mögliche UVgO-Einführung,
 Tariftreue/Vergabemindestentgelt). Vor jeder verbindlichen Auskunft: Stand in der

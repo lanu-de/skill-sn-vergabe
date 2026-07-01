@@ -35,7 +35,7 @@ erfüllt werden? Ggf. Bezug zu bestehenden Verträgen/Anlagen.]
 
 [Vollständige, eindeutige und erschöpfende Beschreibung von Art, Umfang, Menge und Qualität
 der zu erbringenden Leistung. Produktneutrale Formulierung (keine Bevorzugung bestimmter
-Fabrikate/Hersteller ohne sachlichen Grund und ohne den Zusatz „oder gleichwertig"). Bei
+Fabrikate/Hersteller ohne sachlichen Grund und ohne den Zusatz „oder gleichwertig“). Bei
 Bedarf technische Spezifikationen als Anlage beifügen.]
 
 | Teilleistung/Position | Beschreibung | Menge/Umfang | Qualitätsanforderung |
@@ -83,7 +83,7 @@ betroffene Kriterien.]
 [Kriterien und Gewichtung, nach denen das wirtschaftlichste Angebot ermittelt wird. In
 Sachsen unterschwellig ist die Trennung von Eignungs- und Zuschlagsprüfung zu beachten
 (vierstufiges Prüfschema, § 5 Abs. 1 SächsVergabeG i. V. m. Anlage 1) — ein „Mehr an
-Eignung" darf kein Zuschlagskriterium sein.]
+Eignung“ darf kein Zuschlagskriterium sein.]
 
 | Zuschlagskriterium | Gewichtung |
 |---|---|

@@ -16,7 +16,7 @@ Dieser Skill liefert **ausfüllbare Vorlagen** für die wiederkehrenden Dokument
 Vergabeverfahrens einer sächsischen Vergabestelle. Er setzt voraus, dass die Verfahrensart
 bereits feststeht (siehe `sn-vergabe-verfahrenswahl`) bzw. eine allgemeine Rechtsfrage
 bereits mit `sn-vergabe-basis` geklärt wurde, dessen Wegweiser für das Anliegen „Ein
-Vergabedokument erstellen" hierher verweist. Für die schrittweise Durchführung eines
+Vergabedokument erstellen“ hierher verweist. Für die schrittweise Durchführung eines
 konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschritt) siehe
 `sn-vergabe-begleitung`.
 
@@ -49,7 +49,7 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
      in Sachsen § 8 SächsVergabeG.
    - Die konkreten Fristen, Aufgreifschwellen (Auftragswert, ab dem die sächsische
      Informationspflicht überhaupt greift) und Fundstellen stehen ausschließlich in
-     `references/sachsen-spezifika.md` — dort auch als **„(zu prüfen)"** gekennzeichnete
+     `references/sachsen-spezifika.md` — dort auch als **„(zu prüfen)“** gekennzeichnete
      Punkte unbedingt beachten und nicht als gesichert weitergeben.
 4. **Vor jedem verbindlichen Einsatz** die in der jeweiligen Vorlage genannten Fundstellen
    gegen `references/rechtsquellen.md` und `references/sachsen-spezifika.md` prüfen,
@@ -62,4 +62,4 @@ Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder verbind
 Verwendung einer Vorlage die konkreten Beträge, Fristen und Paragrafen in der jeweiligen
 Referenzdatei prüfen und bei Bedarf gegen die amtliche Primärquelle verifizieren
 (`revosax.sachsen.de` für SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als
-**„(zu prüfen)"** markierte Punkte nicht ungeprüft als gesichert weitergeben.
+**„(zu prüfen)“** markierte Punkte nicht ungeprüft als gesichert weitergeben.

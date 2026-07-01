@@ -15,13 +15,13 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
 | Kürzel | Bedeutung |
 |--------|-----------|
 | GWB | Gesetz gegen Wettbewerbsbeschränkungen. Teil 4 (§§ 97–184) regelt die Vergabe von öffentlichen Aufträgen und Konzessionen (Oberschwellenbereich). |
-| VgV | Vergabeverordnung – amtlich „Verordnung über die Vergabe öffentlicher Aufträge (Vergabeverordnung – VgV)"; konkretisiert das GWB für Liefer-, Dienst- und freiberufliche Leistungen oberhalb der EU-Schwellenwerte. |
-| UVgO | Unterschwellenvergabeordnung – amtlich „Verfahrensordnung für die Vergabe öffentlicher Liefer- und Dienstleistungsaufträge unterhalb der EU-Schwellenwerte". Keine Rechtsverordnung, sondern eine Verwaltungsvorschrift (Bundesanzeiger BAnz AT 07.02.2017 B1), die von den meisten Ländern für den eigenen Anwendungsbereich eingeführt wurde. **Sachsen hat die UVgO für seine Landes-/Kommunalvergaben bislang nicht eingeführt** und wendet weiterhin die VOL/A (Ausgabe 2009) an; die UVgO-Einführung ist erst mit der angekündigten Novelle des SächsVergabeG vorgesehen (siehe `wertgrenzen-sachsen.md`). |
+| VgV | Vergabeverordnung – amtlich „Verordnung über die Vergabe öffentlicher Aufträge (Vergabeverordnung – VgV)“; konkretisiert das GWB für Liefer-, Dienst- und freiberufliche Leistungen oberhalb der EU-Schwellenwerte. |
+| UVgO | Unterschwellenvergabeordnung – amtlich „Verfahrensordnung für die Vergabe öffentlicher Liefer- und Dienstleistungsaufträge unterhalb der EU-Schwellenwerte“. Keine Rechtsverordnung, sondern eine Verwaltungsvorschrift (Bundesanzeiger BAnz AT 07.02.2017 B1), die von den meisten Ländern für den eigenen Anwendungsbereich eingeführt wurde. **Sachsen hat die UVgO für seine Landes-/Kommunalvergaben bislang nicht eingeführt** und wendet weiterhin die VOL/A (Ausgabe 2009) an; die UVgO-Einführung ist erst mit der angekündigten Novelle des SächsVergabeG vorgesehen (siehe `wertgrenzen-sachsen.md`). |
 | VOB | Vergabe- und Vertragsordnung für Bauleistungen (Teile A, B, C). |
-| VOB/A | VOB Teil A – Allgemeine Bestimmungen für die Vergabe von Bauleistungen. Abschnitt 1 = nationale Vergabe unterhalb der EU-Schwellenwerte; Abschnitt 2 = EU-weite Vergabe oberhalb der EU-Schwellenwerte (in der Praxis oft „VOB/A-EU" genannt); Abschnitt 3 = verteidigungs-/sicherheitsspezifische Aufträge. |
+| VOB/A | VOB Teil A – Allgemeine Bestimmungen für die Vergabe von Bauleistungen. Abschnitt 1 = nationale Vergabe unterhalb der EU-Schwellenwerte; Abschnitt 2 = EU-weite Vergabe oberhalb der EU-Schwellenwerte (in der Praxis oft „VOB/A-EU“ genannt); Abschnitt 3 = verteidigungs-/sicherheitsspezifische Aufträge. |
 | RPW | Richtlinie für Planungswettbewerbe (aktuelle Fassung RPW 2013). Grundlage für Planungswettbewerbe, u. a. bei freiberuflichen Leistungen (Architektur/Ingenieurwesen, § 74 ff. VgV). |
-| SächsVergabeG | Sächsisches Vergabegesetz – amtlich „Gesetz über die Vergabe öffentlicher Aufträge im Freistaat Sachsen (Sächsisches Vergabegesetz – SächsVergabeG)". Sächsisches Landesrecht; ergänzt GWB/VgV/UVgO/VOB/A um landesspezifische Vorgaben (u. a. Eignungsnachweis, freihändige Vergabe, Vergabebericht, Informations- und Nachprüfungsverfahren unterhalb der EU-Schwellenwerte). |
-| SächsVergabeDVO | Sächsische Vergabedurchführungsverordnung – amtlich „Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes". Konkretisiert das SächsVergabeG (u. a. Wertgrenzen); aktueller Rechtsstand/Wertgrenzen: siehe `wertgrenzen-sachsen.md` bzw. `sachsen-spezifika.md` (**zu prüfen** – Sachsen hat das Vergaberecht in den letzten Jahren novelliert; genaue aktuelle Fassung dort verifizieren). |
+| SächsVergabeG | Sächsisches Vergabegesetz – amtlich „Gesetz über die Vergabe öffentlicher Aufträge im Freistaat Sachsen (Sächsisches Vergabegesetz – SächsVergabeG)“. Sächsisches Landesrecht; ergänzt GWB/VgV/UVgO/VOB/A um landesspezifische Vorgaben (u. a. Eignungsnachweis, freihändige Vergabe, Vergabebericht, Informations- und Nachprüfungsverfahren unterhalb der EU-Schwellenwerte). |
+| SächsVergabeDVO | Sächsische Vergabedurchführungsverordnung – amtlich „Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes“. Konkretisiert das SächsVergabeG (u. a. Wertgrenzen); aktueller Rechtsstand/Wertgrenzen: siehe `wertgrenzen-sachsen.md` bzw. `sachsen-spezifika.md` (**zu prüfen** – Sachsen hat das Vergaberecht in den letzten Jahren novelliert; genaue aktuelle Fassung dort verifizieren). |
 | VK | Vergabekammer – Nachprüfungsinstanz für Vergabeverfahren oberhalb der EU-Schwellenwerte (§§ 155 ff. GWB). Für Sachsen zuständig: Vergabekammer des Freistaates Sachsen bei der Landesdirektion Sachsen (Sitz Leipzig). |
 | LDS | Landesdirektion Sachsen – u. a. Sitz der Vergabekammer des Freistaates Sachsen. |
 | BGBl. | Bundesgesetzblatt – amtliches Verkündungsblatt des Bundes (Fundstelle u. a. für GWB, VgV). |
@@ -48,14 +48,14 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   unterschwelliges Verfahren ohne förmliche Bekanntmachung, bei dem der Auftraggeber mit
   ausgewählten Unternehmen über Angebot und Bedingungen verhandelt, mit oder ohne
   vorherigen Teilnahmewettbewerb (§ 8 Abs. 1 u. 4, § 12 UVgO); nach VOB/A Abschnitt 1
-  weiterhin „Freihändige Vergabe" genannt.
+  weiterhin „Freihändige Vergabe“ genannt.
 - **Öffentliche Ausschreibung:** unterschwelliges Verfahren mit öffentlicher
   Bekanntmachung, an dem sich eine unbeschränkte Zahl von Unternehmen beteiligen kann
-  (unterschwelliges Pendant zum „offenen Verfahren").
+  (unterschwelliges Pendant zum „offenen Verfahren“).
 - **Beschränkte Ausschreibung:** unterschwelliges Verfahren mit (meist förmlichem)
   Teilnahmewettbewerb; der Auftraggeber fordert nach Prüfung der Teilnahmeanträge nur
   eine begrenzte Zahl von Unternehmen zur Angebotsabgabe auf (unterschwelliges Pendant
-  zum „nicht offenen Verfahren").
+  zum „nicht offenen Verfahren“).
 - **Offenes Verfahren:** oberschwelliges Verfahren, bei dem eine unbeschränkte Zahl von
   Unternehmen im Rahmen einer öffentlichen Bekanntmachung zur Angebotsabgabe
   aufgefordert wird (§ 15 VgV).

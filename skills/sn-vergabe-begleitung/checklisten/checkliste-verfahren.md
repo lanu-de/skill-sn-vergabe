@@ -5,7 +5,7 @@
 > genannten Fristen, Wertgrenzen und Aufgreifschwellen vor verbindlichem Einsatz
 > gegen `references/sachsen-spezifika.md`, `references/wertgrenzen-sachsen.md`,
 > `references/schwellenwerte-eu.md` und `references/fristen.md` prüfen
-> (Datenstand 01.07.2026; als **„(zu prüfen)"** markierte Punkte dort beachten und
+> (Datenstand 01.07.2026; als **„(zu prüfen)“** markierte Punkte dort beachten und
 > nicht ungeprüft als gesichert weitergeben).
 
 **Verfahren:** [Aktenzeichen/Bezeichnung] | **Auftraggeber:** [Bezeichnung] |
@@ -95,5 +95,5 @@
 ---
 
 *Checkliste abgeschlossen am [Datum] durch [Name, Funktion]. Datenstand der
-referenzierten Werte: 01.07.2026 — als „(zu prüfen)" markierte Punkte in den
+referenzierten Werte: 01.07.2026 — als „(zu prüfen)“ markierte Punkte in den
 Referenzdateien vor Verwendung gesondert verifizieren.*

@@ -88,6 +88,6 @@ Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder
 verbindlichen Durchführung eines Verfahrens die konkreten Beträge, Fristen und
 Paragrafen in der jeweiligen Referenzdatei prüfen und bei Bedarf gegen die
 amtliche Primärquelle verifizieren (`revosax.sachsen.de` für SächsVergabeG/VOL/A,
-`gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)"** markierte Punkte —
+`gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)“** markierte Punkte —
 insbesondere die angekündigte SächsVergabeG-Novelle und die sächsischen
 Bau-Wertgrenzen — nicht ungeprüft als gesichert weitergeben.

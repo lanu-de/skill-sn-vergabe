@@ -16,7 +16,7 @@ betreffen andere Verfahrensabschnitte und werden hier nur am Rande erwähnt.
 
 > ⚠️ **Zentrales Rechercheergebnis (kritisch für die Praxis):** Das zum **01.07.2026** in Kraft
 > getretene **Vergabebeschleunigungsgesetz** („Gesetz zur Beschleunigung der Vergabe
-> öffentlicher Aufträge", BGBl. 2026 I Nr. 137) hat die in dieser Tabelle genannten
+> öffentlicher Aufträge“, BGBl. 2026 I Nr. 137) hat die in dieser Tabelle genannten
 > **Mindestfristen der §§ 15–20 VgV inhaltlich NICHT geändert** — trotz seines
 > Beschleunigungs-Titels bleiben Angebots- und Teilnahmefristen unverändert bei den seit der
 > VgV-Fassung 2016 geltenden Werten (35/30/15/10 Tage je nach Verfahren und Tatbestand). Diese
@@ -60,7 +60,7 @@ betreffen andere Verfahrensabschnitte und werden hier nur am Rande erwähnt.
 | Oberschwelle | Innovationspartnerschaft – Teilnahmefrist | 30 Tage, gerechnet ab Absendung der Auftragsbekanntmachung | Keine Verkürzung vorgesehen | § 19 Abs. 3 VgV: https://www.gesetze-im-internet.de/vgv_2016/__19.html | 12.05.2026 / 01.07.2026 geprüft |
 | Oberschwelle | Alle Verfahren – Angemessene Fristsetzung/Verlängerungspflicht (Grundsatznorm) | Keine feste Tageszahl; die Frist ist unter Berücksichtigung der Komplexität der Leistung und der für die Angebotsausarbeitung nötigen Zeit angemessen festzulegen; zwingende Fristverlängerung, wenn zusätzliche Auskünfte nicht mind. 6 Tage vor Ablauf der Angebotsfrist (bzw. 4 Tage bei Dringlichkeitsverfahren) erteilt werden oder der Auftraggeber wesentliche Änderungen an den Vergabeunterlagen vornimmt | Nicht einschlägig (Grundsatznorm ohne eigene Verkürzungstatbestände; wirkt als Untergrenze/Korrektiv zu allen Fristen oben) | § 20 VgV: https://www.gesetze-im-internet.de/vgv_2016/__20.html | 12.05.2026 / 01.07.2026 geprüft |
 
-## Oberschwelle — Bauleistungen (VOB/A Abschnitt 2, „VOB/A-EU", §§ 10a–10d EU)
+## Oberschwelle — Bauleistungen (VOB/A Abschnitt 2, „VOB/A-EU“, §§ 10a–10d EU)
 
 | Wertbereich | Verfahren | Mindestfrist | Verkürzung möglich (Tatbestand → Frist) | Fundstelle | Stand |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@ ist stattdessen ein allgemeiner Angemessenheitsmaßstab.
 
 | Wertbereich | Verfahren | Mindestfrist | Verkürzung möglich (Tatbestand → Frist) | Fundstelle | Stand |
 |---|---|---|---|---|---|
-| Unterschwelle | Öffentliche Ausschreibung / Beschränkte Ausschreibung (mit oder ohne Teilnahmewettbewerb) / Freihändige Vergabe – Teilnahme-, Angebots- und Bindefrist | Keine gesetzlich fixierte Tageszahl. Wörtlich: „Für die Bearbeitung und Abgabe der Teilnahmeanträge und der Angebote sowie für die Geltung der Angebote sind ausreichende Fristen (Teilnahme-, Angebots- und Bindefristen) vorzusehen" (§ 10 Abs. 1 VOL/A) — die Frist muss lediglich der Komplexität der Leistung und dem Bearbeitungsaufwand angemessen sein | Kein Katalog von Regel-/Ausnahmefristen wie im Oberschwellenbereich, daher kein „Verkürzungstatbestand" im engeren Sinn. In der Vergabepraxis wird zur Konkretisierung der „Ausreichung" häufig orientierend auf die Mindestfristen der VgV zurückgegriffen, ohne dass dies rechtlich verbindlich vorgeschrieben ist — **Praxis-Konvention, keine amtliche sächsische Konkretisierung gefunden (zu prüfen)** | § 10 Abs. 1 VOL/A (Ausgabe 2009) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.vergabevorschriften.de/vol-a/10 ; https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 20.11.2009 (VOL/A-Fassung, seither unverändert) / 01.07.2026 geprüft |
+| Unterschwelle | Öffentliche Ausschreibung / Beschränkte Ausschreibung (mit oder ohne Teilnahmewettbewerb) / Freihändige Vergabe – Teilnahme-, Angebots- und Bindefrist | Keine gesetzlich fixierte Tageszahl. Wörtlich: „Für die Bearbeitung und Abgabe der Teilnahmeanträge und der Angebote sowie für die Geltung der Angebote sind ausreichende Fristen (Teilnahme-, Angebots- und Bindefristen) vorzusehen“ (§ 10 Abs. 1 VOL/A) — die Frist muss lediglich der Komplexität der Leistung und dem Bearbeitungsaufwand angemessen sein | Kein Katalog von Regel-/Ausnahmefristen wie im Oberschwellenbereich, daher kein „Verkürzungstatbestand“ im engeren Sinn. In der Vergabepraxis wird zur Konkretisierung der „Ausreichung“ häufig orientierend auf die Mindestfristen der VgV zurückgegriffen, ohne dass dies rechtlich verbindlich vorgeschrieben ist — **Praxis-Konvention, keine amtliche sächsische Konkretisierung gefunden (zu prüfen)** | § 10 Abs. 1 VOL/A (Ausgabe 2009) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.vergabevorschriften.de/vol-a/10 ; https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 20.11.2009 (VOL/A-Fassung, seither unverändert) / 01.07.2026 geprüft |
 
 ## Unterschwelle — Bauleistungen (Sachsen: VOB/A Abschnitt 1, § 10)
 
@@ -88,7 +88,7 @@ von 10 Kalendertagen** für die Angebotsfrist, im Übrigen ebenfalls den Angemes
 | Wertbereich | Verfahren | Mindestfrist | Verkürzung möglich (Tatbestand → Frist) | Fundstelle | Stand |
 |---|---|---|---|---|---|
 | Unterschwelle | Öffentliche Ausschreibung / Beschränkte Ausschreibung mit Teilnahmewettbewerb – Angebotsfrist | Ausreichende Angebotsfrist; auch bei Dringlichkeit nicht unter 10 Kalendertagen (§ 10 Abs. 1 VOB/A) | Entfällt (bereits gesetzlicher Mindestwert; auch bei Dringlichkeit keine Unterschreitung von 10 Kalendertagen zulässig) | § 10 Abs. 1 VOB/A (1. Abschnitt) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_31012019_BWI781063060120180001604634.htm ; https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 25.09.2023 (letzte Änderungsbekanntmachung VOB/A Abschnitt 1) / 01.07.2026 geprüft |
-| Unterschwelle | Beschränkte Ausschreibung mit Teilnahmewettbewerb – Bewerbungsfrist | Keine feste Tageszahl; „ausreichende Bewerbungsfrist" (§ 10 Abs. 3 VOB/A) | Nicht einschlägig (Angemessenheitsmaßstab, kein Fristenkatalog) | § 10 Abs. 3 VOB/A (1. Abschnitt): https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_31012019_BWI781063060120180001604634.htm | 25.09.2023 / 01.07.2026 geprüft |
+| Unterschwelle | Beschränkte Ausschreibung mit Teilnahmewettbewerb – Bewerbungsfrist | Keine feste Tageszahl; „ausreichende Bewerbungsfrist“ (§ 10 Abs. 3 VOB/A) | Nicht einschlägig (Angemessenheitsmaßstab, kein Fristenkatalog) | § 10 Abs. 3 VOB/A (1. Abschnitt): https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_31012019_BWI781063060120180001604634.htm | 25.09.2023 / 01.07.2026 geprüft |
 | Unterschwelle | Freihändige Vergabe – Angebotsfrist | § 10 Abs. 1 VOB/A gilt entsprechend (§ 10 Abs. 6): ausreichende Frist, auch bei Dringlichkeit nicht unter 10 Kalendertagen | Entfällt (wie Öffentliche Ausschreibung) | § 10 Abs. 1, 6 VOB/A (1. Abschnitt): https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_31012019_BWI781063060120180001604634.htm | 25.09.2023 / 01.07.2026 geprüft |
 
 ## Hinweise zur Tabelle
@@ -114,7 +114,7 @@ von 10 Kalendertagen** für die Angebotsfrist, im Übrigen ebenfalls den Angemes
   bestätigt und ist kein Recherchefehler.
 - **Elektronische Verkürzung wirkt nicht kumulativ mit der Dringlichkeitsfrist.** In §§ 15–17
   VgV verweist die Verkürzungsregel für die elektronische Übermittlung ausdrücklich auf die
-  „Frist gemäß Absatz 2" bzw. „Absatz 5" (die reguläre Grundfrist), nicht auf die
+  „Frist gemäß Absatz 2“ bzw. „Absatz 5“ (die reguläre Grundfrist), nicht auf die
   Dringlichkeitsfrist. Die beiden Verkürzungswege (Dringlichkeit einerseits, elektronische
   Übermittlung andererseits) sind daher **zwei getrennte Fristzweige** und nicht addierbar
   (z. B. offenes Verfahren: entweder 35 → 30 Tage bei elektronischer Übermittlung **oder**
@@ -135,11 +135,11 @@ von 10 Kalendertagen** für die Angebotsfrist, im Übrigen ebenfalls den Angemes
 - **Primärquellen / Prüfung:** VgV über gesetze-im-internet.de (§§ 15–20, Absatz für Absatz
   einzeln abgerufen); VOB/A Abschnitt 1 und 2 über verwaltungsvorschriften-im-internet.de;
   VOL/A (Ausgabe 2009) über vergabevorschriften.de; SächsVergabeG über revosax.sachsen.de.
-  Zur Verifikation der Aussage „keine Fristenänderung durch das Vergabebeschleunigungsgesetz"
+  Zur Verifikation der Aussage „keine Fristenänderung durch das Vergabebeschleunigungsgesetz“
   wurden zusätzlich mehrere unabhängige Fachbeiträge ausgewertet (u. a. cosinex-Blog,
   Gleiss Lutz, KPMG Law, Oppenhoff, vergabepilot.ai) — keiner nennt eine Änderung der
   §§ 15–20 VgV. Alle Angaben wurden am **01.07.2026** gegen die genannten Primärquellen
-  geprüft. Die mit „(zu prüfen)" gekennzeichneten Punkte (Dringlichkeits-Verkürzung der
+  geprüft. Die mit „(zu prüfen)“ gekennzeichneten Punkte (Dringlichkeits-Verkürzung der
   Teilnahmefrist bei wettbewerblichem Dialog/Innovationspartnerschaft nach VOB/A-EU; Praxis-
   Konvention zur Orientierung an EU-Fristen im VOL/A-Bereich) sind vor verbindlicher Nutzung
   gesondert zu verifizieren.

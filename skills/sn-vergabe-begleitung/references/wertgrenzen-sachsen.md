@@ -6,7 +6,7 @@
 
 > ⚠️ **Rechtslage in Sachsen im Unterschwellenbereich derzeit im Umbruch — vor
 > verbindlicher Nutzung jede Zeile durch eine fachkundige Person gegen die amtliche
-> Primärquelle prüfen.** Mehrere Werte sind mit **„(zu prüfen)"** gekennzeichnet, weil die
+> Primärquelle prüfen.** Mehrere Werte sind mit **„(zu prüfen)“** gekennzeichnet, weil die
 > sächsische Rechtslage entweder gesetzlich noch nicht nachgezogen wurde (SächsVergabeG von
 > 2019, Novelle angekündigt) oder das Verhältnis von Landesrecht (§ 4 SächsVergabeG) zu den
 > zum 01.01.2026 angehobenen Bundes-VOB/A-Wertgrenzen amtlich noch nicht geklärt ist. Alle
@@ -24,12 +24,12 @@ beachten:
    Unterschwellenvergabeordnung (UVgO) für die eigenen Landes-/Kommunalvergaben **noch nicht
    eingeführt** hat; die Einführung soll erst mit der (angekündigten) Novelle des
    SächsVergabeG erfolgen. Rechtsgrundlage ist § 1 Abs. 2 SächsVergabeG, der die VOL/A „in der
-   jeweils geltenden Fassung" für anwendbar erklärt. Die im Auftrag/Brief genannte Norm
-   „§ 14 UVgO" bindet eine sächsische Vergabestelle für ihre Landesvergaben daher **derzeit
+   jeweils geltenden Fassung“ für anwendbar erklärt. Die im Auftrag/Brief genannte Norm
+   „§ 14 UVgO“ bindet eine sächsische Vergabestelle für ihre Landesvergaben daher **derzeit
    nicht** unmittelbar (sie ist nur in der Bundesauftragsverwaltung einschlägig) — sie ist
    unten nur nachrichtlich aufgeführt.
 2. **Bau — VOB/A (1. Abschnitt) gilt über § 1 Abs. 2 SächsVergabeG dynamisch** („in der jeweils
-   geltenden Fassung"), d. h. grundsätzlich in der zum 01.01.2026 neu gefassten Fassung des
+   geltenden Fassung“), d. h. grundsätzlich in der zum 01.01.2026 neu gefassten Fassung des
    § 3a VOB/A. Ob die dortigen, deutlich angehobenen Wertgrenzen die niedrigere
    landesgesetzliche Obergrenze des § 4 SächsVergabeG (25.000 EUR für die freihändige
    Vergabe) verdrängen, ist amtlich noch nicht gewürdigt (siehe Hinweise).
@@ -77,13 +77,13 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
 - **Liefer-/Dienstleistungen: VOL/A statt UVgO.** In Sachsen gilt für unterschwellige
   Liefer-/Dienstleistungsvergaben weiterhin die **VOL/A (1. Abschnitt, Ausgabe 2009)**, nicht
   die UVgO (bestätigt u. a. durch die Übersicht des B_I MEDIEN „Stand der Einführung der
-  UVgO" sowie den Fachbeitrag bi-medien.de, Stand 06.05.2026: „Die Einführung der UVgO soll
-  in Sachsen durch die Novellierung des Sächsischen Vergabegesetzes in Kraft treten"). Der
+  UVgO“ sowie den Fachbeitrag bi-medien.de, Stand 06.05.2026: „Die Einführung der UVgO soll
+  in Sachsen durch die Novellierung des Sächsischen Vergabegesetzes in Kraft treten“). Der
   im Brief genannte **§ 14 UVgO (Direktauftrag)** ist daher für sächsische Landes-/
   Kommunalvergaben **derzeit nicht** einschlägig; er ist nur nachrichtlich aufgeführt (er
   gilt in Sachsen allenfalls in der Bundesauftragsverwaltung). **Achtung, Konsistenz:**
   `glossar.md`/`rechtsquellen.md` formulieren, die UVgO sei „von den Ländern (auch Sachsen)
-  … eingeführt" worden; das trifft für die sächsischen **Landes**vergaben nach hiesiger
+  … eingeführt“ worden; das trifft für die sächsischen **Landes**vergaben nach hiesiger
   Recherche **nicht** zu und sollte dort bei Gelegenheit präzisiert werden.
 - **VOL/A-Wertgrenzen für Liefer-/Dienstleistungen:** Direktkauf nach § 3 Abs. 6 VOL/A
   (Ausgabe 2009) = **500 EUR** (bei UVgO-Anwendung wären es 1.000 EUR nach § 14 UVgO);
@@ -99,7 +99,7 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   **100.000 EUR**, beschränkte Ausschreibung ohne Teilnahmewettbewerb (§ 3a Abs. 2)
   **150.000 EUR**; die frühere Staffelung nach Gewerken (§ 3a Abs. 2 Nr. 1 a. F.) und die
   bisherigen befristeten Fußnoten sind entfallen. Über den dynamischen Verweis in § 2
-  SächsVergabeG („in der jeweils geltenden Fassung") gelten diese Werte grundsätzlich auch
+  SächsVergabeG („in der jeweils geltenden Fassung“) gelten diese Werte grundsätzlich auch
   in Sachsen.
 - **Ungeklärter Widerspruch (freihändige Vergabe Bau): 25.000 EUR vs. 100.000 EUR.** § 4
   SächsVergabeG (Landesgesetz) begrenzt die freihändige Vergabe von Bauleistungen auf
@@ -108,16 +108,16 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   niedrigere Grenze in Sachsen fortschreiben; zugleich verweist § 1 Abs. 2 SächsVergabeG dynamisch
   auf die geltende VOB/A. Die **Auftragsberatungsstelle Sachsen (ABSt Sachsen)** stellt zu
   den neuen VOB/A-Wertgrenzen ausdrücklich fest: „Eine detaillierte Würdigung im
-  Zusammenhang mit dem Sächsischen Vergabegesetz steht noch aus." Bis zu einer amtlichen
+  Zusammenhang mit dem Sächsischen Vergabegesetz steht noch aus.“ Bis zu einer amtlichen
   Klärung bzw. der SächsVergabeG-Novelle ist der maßgebliche Wert **(zu prüfen)** — im
   Zweifel gilt die niedrigere landesgesetzliche Grenze. Dasselbe Klärungsbedürfnis besteht
   konsequenterweise für Direktauftrag Bau (50.000 EUR) und die beschränkte Ausschreibung
   (150.000 EUR), auch wenn § 4 SächsVergabeG diese Verfahren nicht ausdrücklich deckelt.
 - **Vergabebeschleunigungsgesetz (Bund, in Kraft 01.07.2026) — Wirkung für Sachsen.** Das
-  „Gesetz zur Beschleunigung der Vergabe öffentlicher Aufträge" (BGBl. 2026 I Nr. 137) hebt
+  „Gesetz zur Beschleunigung der Vergabe öffentlicher Aufträge“ (BGBl. 2026 I Nr. 137) hebt
   die **Direktauftragsgrenze auf 50.000 EUR** an, verankert diese jedoch in **§ 55 BHO
   (Bundeshaushaltsordnung)** und bindet damit **nur den Bund**. Es ändert **§ 14 UVgO
-  nicht**; eine Neufassung der UVgO „im Einvernehmen mit den Ländern" ist lediglich
+  nicht**; eine Neufassung der UVgO „im Einvernehmen mit den Ländern“ ist lediglich
   angestrebt. Im Übrigen betreffen die Änderungen den Oberschwellenbereich (GWB: u. a.
   §§ 97a, 107, 113, 131, 155 ff.; VgV: u. a. §§ 10a, 55, 58) sowie flankierend die Anhebung
   der Abfragegrenze des Wettbewerbsregisters und der Meldegrenze der Vergabestatistik auf
@@ -145,5 +145,5 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   amtliche Erlassbekanntmachung im Bundesanzeiger (BAnz), § 14 UVgO ebenda. Die Beträge
   wurden am **01.07.2026** gegen diese Quellen sowie mehrere unabhängige Fachquellen (ABSt
   Sachsen, Auftragsberatungsstellen Deutschland, Vergabeblog, cosinex, B_I MEDIEN,
-  aumass.de) gegengelesen. **Die als „(zu prüfen)" markierten Werte sind vor einer
+  aumass.de) gegengelesen. **Die als „(zu prüfen)“ markierten Werte sind vor einer
   verbindlichen Verwendung zwingend durch die Vergabestelle bzw. das SMWA zu verifizieren.**

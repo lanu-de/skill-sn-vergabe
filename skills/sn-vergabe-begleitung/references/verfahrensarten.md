@@ -24,12 +24,12 @@ Freihändige Vergabe, Direktauftrag/-kauf).
 der EU-Schwellenwerte gilt in Sachsen weiterhin die **VOL/A (1. Abschnitt, Ausgabe 2009)** über
 den dynamischen Verweis des § 1 Abs. 2 SächsVergabeG — **nicht** die UVgO, die von den meisten anderen
 Ländern eingeführt wurde. Die bundesweite UVgO nennt das Verhandlungsverfahren ohne förmliche
-Bekanntmachung „**Verhandlungsvergabe**" (§ 12 UVgO); dieser Begriff gilt für sächsische
+Bekanntmachung „**Verhandlungsvergabe**“ (§ 12 UVgO); dieser Begriff gilt für sächsische
 Landes-/Kommunalvergaben erst nach Inkrafttreten der angekündigten SächsVergabeG-Novelle. Bis
-dahin ist die maßgebliche sächsische Verfahrensart die „**Freihändige Vergabe**" nach VOL/A
-(unten in der Tabelle „Unterschwelle – Liefer-/Dienstleistungen"). Für Bauleistungen gilt
+dahin ist die maßgebliche sächsische Verfahrensart die „**Freihändige Vergabe**“ nach VOL/A
+(unten in der Tabelle „Unterschwelle – Liefer-/Dienstleistungen“). Für Bauleistungen gilt
 unterschwellig in Sachsen und bundesweit einheitlich die VOB/A (1. Abschnitt), die ebenfalls den
-Begriff „Freihändige Vergabe" verwendet.
+Begriff „Freihändige Vergabe“ verwendet.
 
 ## Oberschwelle — Liefer-/Dienstleistungen (VgV)
 
@@ -42,7 +42,7 @@ Begriff „Freihändige Vergabe" verwendet.
 | Oberschwelle | Liefer-/Dienstleistungen | Wettbewerblicher Dialog | Nach Teilnahmewettbewerb führt der Auftraggeber mit ausgewählten Unternehmen einen Dialog zur Ermittlung geeigneter Lösungen; abschließend Aufforderung zur Abgabe des endgültigen Angebots. Zulässigkeit: nur bei besonders komplexen Aufträgen, unter denselben Voraussetzungen wie das Verhandlungsverfahren mit Teilnahmewettbewerb (§ 14 Abs. 3 VgV). | § 18 i. V. m. § 14 Abs. 3 VgV, § 119 Abs. 5 GWB: https://www.gesetze-im-internet.de/vgv_2016/__18.html | 12.05.2026 / 01.07.2026 geprüft |
 | Oberschwelle | Liefer-/Dienstleistungen | Innovationspartnerschaft | Zweiphasiges Verfahren zur Entwicklung einer noch nicht marktverfügbaren, innovativen Liefer- oder Dienstleistung und deren anschließendem Erwerb; Teilnahmewettbewerb vorgeschaltet. Zulässigkeit: Beschaffungsbedarf darf nicht durch bereits marktverfügbare Leistungen gedeckt werden können (§ 19 Abs. 1 VgV); Zuschlag darf nicht allein nach dem niedrigsten Preis/den niedrigsten Kosten erfolgen. | § 19 VgV, § 119 Abs. 5 GWB: https://www.gesetze-im-internet.de/vgv_2016/__19.html | 12.05.2026 / 01.07.2026 geprüft |
 
-## Oberschwelle — Bauleistungen (VOB/A Abschnitt 2, „VOB/A-EU")
+## Oberschwelle — Bauleistungen (VOB/A Abschnitt 2, „VOB/A-EU“)
 
 | Wertbereich | Leistungsart | Verfahrensart | Kurzbeschreibung / Zulässigkeit | Fundstelle | Stand |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@ Begriff „Freihändige Vergabe" verwendet.
 ## Unterschwelle — Liefer-/Dienstleistungen (Sachsen: VOL/A, 1. Abschnitt)
 
 Rechtsgrundlage der Anwendbarkeit ist § 1 Abs. 2 SächsVergabeG (dynamischer Verweis auf die VOL/A „in
-der jeweils geltenden Fassung"). Zur Abgrenzung VOL/A vs. UVgO siehe Hinweis oben sowie
+der jeweils geltenden Fassung“). Zur Abgrenzung VOL/A vs. UVgO siehe Hinweis oben sowie
 `glossar.md` und `wertgrenzen-sachsen.md`.
 
 | Wertbereich | Leistungsart | Verfahrensart | Kurzbeschreibung / Zulässigkeit | Fundstelle | Stand |
@@ -70,7 +70,7 @@ der jeweils geltenden Fassung"). Zur Abgrenzung VOL/A vs. UVgO siehe Hinweis obe
 ## Unterschwelle — Bauleistungen (Sachsen: VOB/A Abschnitt 1)
 
 Rechtsgrundlage der Anwendbarkeit ist ebenfalls § 1 Abs. 2 SächsVergabeG (dynamischer Verweis), hier
-auf die VOB/A „in der jeweils geltenden Fassung" — grundsätzlich die zum 01.01.2026 neu gefasste
+auf die VOB/A „in der jeweils geltenden Fassung“ — grundsätzlich die zum 01.01.2026 neu gefasste
 Fassung des § 3a VOB/A (BMWSB-Erlass v. 17.12.2025). Zum ungeklärten Widerspruch der
 Freihändige-Vergabe-Wertgrenze mit § 4 SächsVergabeG siehe `wertgrenzen-sachsen.md`.
 
@@ -88,23 +88,23 @@ Freihändige-Vergabe-Wertgrenze mit § 4 SächsVergabeG siehe `wertgrenzen-sachs
   § 119 Abs. 2 GWB (Liefer/Dienst: i. V. m. § 14 VgV; Bau: i. V. m. § 3a Abs. 1 EU VOB/A) die
   freie Wahl zwischen offenem und nicht offenem Verfahren zu; Verhandlungsverfahren,
   wettbewerblicher Dialog und Innovationspartnerschaft sind demgegenüber nach § 119 Abs. 5 GWB
-  „nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist" — die Voraussetzungen
+  „nur zur Verfügung, soweit dies aufgrund dieses Gesetzes gestattet ist“ — die Voraussetzungen
   sind in § 14 Abs. 3/4 VgV bzw. § 3a Abs. 2–5 EU VOB/A abschließend aufgezählt. Unterschwellig
   gilt dasselbe Prinzip spiegelbildlich: Öffentliche Ausschreibung (und bei Bau zusätzlich die
   Beschränkte Ausschreibung mit Teilnahmewettbewerb) sind ohne betragsmäßige Obergrenze wählbar,
   während Beschränkte Ausschreibung ohne Teilnahmewettbewerb, Freihändige Vergabe und
   Direktauftrag/-kauf nur unterhalb bestimmter Wertgrenzen bzw. bei besonderen Gründen zulässig
   sind (§ 3 VOL/A bzw. § 3a VOB/A).
-- **UVgO-Terminologie „Verhandlungsvergabe":** Die bundesweite UVgO fasst das unterschwellige
-  Verhandlungsverfahren ohne förmliche Bekanntmachung unter dem Begriff „Verhandlungsvergabe"
+- **UVgO-Terminologie „Verhandlungsvergabe“:** Die bundesweite UVgO fasst das unterschwellige
+  Verhandlungsverfahren ohne förmliche Bekanntmachung unter dem Begriff „Verhandlungsvergabe“
   (§ 8 Abs. 1 u. 4, § 12 UVgO). Da Sachsen die UVgO für Landes-/Kommunalvergaben bislang nicht
   eingeführt hat, ist dieser Begriff dort **derzeit nicht einschlägig**; die sächsische
   Verfahrensart für Liefer-/Dienstleistungen unterhalb der EU-Schwelle heißt weiterhin
-  „Freihändige Vergabe" (VOL/A). Nach Inkrafttreten der angekündigten SächsVergabeG-Novelle
+  „Freihändige Vergabe“ (VOL/A). Nach Inkrafttreten der angekündigten SächsVergabeG-Novelle
   (geplante UVgO-Einführung) wird sich dies voraussichtlich ändern.
 - **Vergabebeschleunigungsgesetz (Bund, in Kraft 01.07.2026) — keine Änderung der
   Verfahrensarten selbst.** Recherche (cosinex, 24.04.2026) ergab, dass das „Gesetz zur
-  Beschleunigung der Vergabe öffentlicher Aufträge" (BGBl. 2026 I Nr. 137) die Verfahrensarten
+  Beschleunigung der Vergabe öffentlicher Aufträge“ (BGBl. 2026 I Nr. 137) die Verfahrensarten
   und ihre Zulässigkeitsvoraussetzungen nach § 119 GWB bzw. §§ 14–19 VgV **inhaltlich nicht**
   ändert. Geändert wurden andere Bereiche: ein neuer Losgrundsatz mit Ausnahmemöglichkeiten bei
   Infrastrukturvorhaben (§ 97a GWB, neu), höhere Wertgrenzen für Direktaufträge (§ 55 BHO, nur
@@ -114,7 +114,7 @@ Freihändige-Vergabe-Wertgrenze mit § 4 SächsVergabeG siehe `wertgrenzen-sachs
   hier gelisteten Verfahrensarten. Quelle: https://blog.cosinex.de/2026/04/24/vergabebeschleunigung/
 - **Verhältnis zu den anderen Referenzdateien:** Kürzel und Begriffserklärungen stehen in
   `glossar.md`; die vollständige Normenhierarchie mit Fundstellen in `rechtsquellen.md`; die
-  konkreten Euro-Wertgrenzen (inkl. aller offenen „(zu prüfen)"-Punkte zu Sachsen) in
+  konkreten Euro-Wertgrenzen (inkl. aller offenen „(zu prüfen)“-Punkte zu Sachsen) in
   `wertgrenzen-sachsen.md`; die aktuellen EU-Schwellenwerte (Obergrenze jedes
   Unterschwellenverfahrens) in `schwellenwerte-eu.md`.
 - **Primärquellen:** GWB/VgV über gesetze-im-internet.de (Bundesministerium der Justiz); VOB/A

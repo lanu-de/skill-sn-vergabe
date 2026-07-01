@@ -8,7 +8,7 @@
 > (SächsVergabeG)** stammt inhaltlich aus dem Jahr 2013 (rechtsbereinigte Fassung vom
 > 27.04.2019). Eine **Novelle ist angekündigt** (Einführung der UVgO, Tariftreue/
 > Vergabemindestentgelt, soziale und ökologische Kriterien, Anpassung der Wertgrenzen); ein
-> Inkrafttreten war zum Prüfstand **01.07.2026 nicht bestätigt**. Alle mit **„(zu prüfen)"**
+> Inkrafttreten war zum Prüfstand **01.07.2026 nicht bestätigt**. Alle mit **„(zu prüfen)“**
 > gekennzeichneten Angaben sind vor verbindlicher Verwendung durch eine fachkundige Person
 > gegen die amtliche Primärquelle (REVOSax, LDS/Vergabekammer, SMWA) zu verifizieren. Alle
 > Beträge sind **Nettobeträge** (ohne Umsatzsteuer).
@@ -25,16 +25,16 @@ Das SächsVergabeG ist ein **schlankes Landesgesetz mit nur elf Paragrafen** neb
 Anlage (Prüfschema zur Wertung von Angeboten zu § 5 Abs. 1). Es enthält **keine eigene
 umfassende Verfahrensordnung**, sondern verweist in § 1 Abs. 2 dynamisch auf die
 Bundes-Verfahrensordnungen **VOL/A (Ausgabe 2009)** und **VOB/A (Abschnitt 1)** „in der
-jeweils geltenden Fassung, soweit dieses Gesetz nichts anderes bestimmt". Sachsen hat die
+jeweils geltenden Fassung, soweit dieses Gesetz nichts anderes bestimmt“. Sachsen hat die
 **UVgO für seine Landes-/Kommunalvergaben bislang nicht eingeführt** und wendet für
 Liefer-/Dienstleistungen weiterhin die VOL/A an (siehe `wertgrenzen-sachsen.md`,
 `rechtsquellen.md`).
 
 **Veralteter GWB-Verweis (sächsische Besonderheit).** § 1 SächsVergabeG verweist noch auf
-**„§ 99"** (öffentliche Aufträge) und **„§ 100 Abs. 1 GWB"** (Schwellenwerte) in der
+**„§ 99“** (öffentliche Aufträge) und **„§ 100 Abs. 1 GWB“** (Schwellenwerte) in der
 GWB-Bekanntmachung vom 15.07.2005. Seit der Vergaberechtsmodernisierung 2016 entsprechen
 diese Vorschriften **§ 103 GWB** (öffentliche Aufträge) bzw. **§ 106 GWB** (Schwellenwerte);
-über die Formulierung „in der jeweils geltenden Fassung" wirkt der Verweis dynamisch fort.
+über die Formulierung „in der jeweils geltenden Fassung“ wirkt der Verweis dynamisch fort.
 Der Gesetzestext wurde an die neue GWB-Nummerierung **nicht angepasst** — bei der Auslegung
 ist die aktuelle GWB-Nummerierung heranzuziehen.
 
@@ -50,7 +50,7 @@ ist die aktuelle GWB-Nummerierung heranzuziehen.
 | § 6 | **Weitergabe von Leistungen** — Leistungen grundsätzlich im eigenen Betrieb; Nachunternehmer nur bis 50 % des Auftragswertes und nur mit Zustimmung; Nachunternehmerverzeichnis; vertragliche Mittelstands-/Weitergabepflichten | § 6 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 7 | **Sicherheitsleistung** — im Anwendungsbereich der VOB Verzicht auf Sicherheitsleistungen für Vertragserfüllung und Mängelansprüche bei Auftragssumme unter 250.000 EUR | § 7 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 8 | **Informationspflicht und Nachprüfungsverfahren (Unterschwelle!)** — Vorabinformation in Textform 10 Kalendertage vor Vertragsschluss; Beanstandung → Unterrichtung der Nachprüfungsbehörde; entfällt unterhalb 75.000 EUR (Bau) / 50.000 EUR (Liefer-/Dienstleistungen) | § 8 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
-| § 9 | **Vergabebericht** — die Staatsregierung berichtet dem Landtag alle zwei Jahre bis zum 30. Juni; Aufbereitung durch das SMWA; kommunale Berichtsmöglichkeit. **Kein Vergabevermerk** (siehe Abschnitt „Dokumentation") | § 9 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
+| § 9 | **Vergabebericht** — die Staatsregierung berichtet dem Landtag alle zwei Jahre bis zum 30. Juni; Aufbereitung durch das SMWA; kommunale Berichtsmöglichkeit. **Kein Vergabevermerk** (siehe Abschnitt „Dokumentation“) | § 9 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 10 | **Übergangsvorschrift** — vor Inkrafttreten begonnene Verfahren nach bisherigem Recht | § 10 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 11 | **Inkrafttreten, Außerkrafttreten** — Außerkrafttreten des SächsVergabeG 2002 und der SächsVergabeDVO 2002/2009 | § 11 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 
@@ -106,7 +106,7 @@ Zuschlagsbieter). Bei Eintragung in die Präqualifikationsverzeichnisse **PQ-Bau
 die Präqualifikation von Bauunternehmen e. V.) oder **PQ-VOL** (Präqualifikationsdatenbank
 für Liefer-/Dienstleistungen) **gelten die betroffenen Eignungskriterien als erfüllt**. Das
 Prüfschema der Anlage 1 (zu § 5 Abs. 1) ordnet die Eignungsprüfung als **zweite
-Wertungsstufe** ein und untersagt, ein „Mehr an Eignung" als Zuschlagskriterium der vierten
+Wertungsstufe** ein und untersagt, ein „Mehr an Eignung“ als Zuschlagskriterium der vierten
 Wertungsstufe zu berücksichtigen (Trennung von Eignungs- und Zuschlagsprüfung).
 
 ## Nachhaltige, soziale und umweltbezogene Beschaffung
@@ -124,7 +124,7 @@ Beschaffung ließ sich nicht als einschlägige Primärquelle belegen — **(zu p
 Berücksichtigung von **ILO-Kernarbeitsnormen**, Kriterien des **Fairen Handels**,
 **Lebenszykluskosten/Energieeffizienz** sowie sozialen Aspekten (u. a. Menschen mit
 Behinderung, Langzeitarbeitslose) vor. Dieser Teil ist zum Prüfstand **nicht in Kraft**
-(siehe Abschnitt „Tariftreue").
+(siehe Abschnitt „Tariftreue“).
 
 | Thema | Landesrechtlicher Stand in Sachsen | Fundstelle | Stand |
 |---|---|---|---|
@@ -167,7 +167,7 @@ Sachsen kennt **zwei getrennte Nachprüfungswege**, je nach Auftragswert:
 
 Für Vergaben **oberhalb der EU-Schwellenwerte** ist die **Vergabekammer des Freistaates
 Sachsen** zuständig. Sie ist der **Landesdirektion Sachsen (LDS)**, Dienststelle **Leipzig**,
-zugeordnet (auf der LDS-Website als „1. Vergabekammer des Freistaates Sachsen" geführt) und
+zugeordnet (auf der LDS-Website als „1. Vergabekammer des Freistaates Sachsen“ geführt) und
 für den **gesamten Freistaat Sachsen** zuständig. Anschrift: Landesdirektion Sachsen,
 Braustraße 2, 04107 Leipzig (Postanschrift Postfach 10 13 64, 04013 Leipzig). Die Nachprüfung
 erfolgt **auf Antrag**; die einschlägigen Rüge- und Fristenregelungen ergeben sich aus dem
@@ -214,9 +214,9 @@ Angebotsabgabe). Sie wird den **Dienststellen des Freistaates Sachsen** zentral 
 gestellt. Für Bauvergaben nutzt der **Staatsbetrieb Sächsisches Immobilien- und
 Baumanagement (SIB)** zusätzlich `sachsen-vergabe.de`.
 
-**Konsistenzhinweis:** `glossar.md` bezeichnet die Plattform als „Vergabemarktplatz Sachsen".
-Die amtliche/gebräuchliche Bezeichnung ist **„Vergabeplattform des Freistaates Sachsen"**
-(`evergabe.sachsen.de`); der Begriff „Vergabemarktplatz" wird v. a. von anderen Ländern
+**Konsistenzhinweis:** `glossar.md` bezeichnet die Plattform als „Vergabemarktplatz Sachsen“.
+Die amtliche/gebräuchliche Bezeichnung ist **„Vergabeplattform des Freistaates Sachsen“**
+(`evergabe.sachsen.de`); der Begriff „Vergabemarktplatz“ wird v. a. von anderen Ländern
 verwendet. Die Bezeichnung in `glossar.md` sollte bei Gelegenheit angeglichen werden.
 
 | Plattform / Zweck | Beschreibung | Fundstelle | Stand |
@@ -226,10 +226,10 @@ verwendet. Die Bezeichnung in `glossar.md` sollte bei Gelegenheit angeglichen we
 
 ## Dokumentation: Vergabevermerk vs. Vergabebericht (offener Punkt geklärt)
 
-**Ergebnis: Die Zuordnung „Vergabevermerk = § 9 SächsVergabeG" in `glossar.md` ist
+**Ergebnis: Die Zuordnung „Vergabevermerk = § 9 SächsVergabeG“ in `glossar.md` ist
 unpräzise und sollte korrigiert werden.**
 
-- **§ 9 SächsVergabeG heißt „Vergabebericht"** und regelt einen **aggregierten Bericht der
+- **§ 9 SächsVergabeG heißt „Vergabebericht“** und regelt einen **aggregierten Bericht der
   Staatsregierung an den Landtag** (alle zwei Jahre bis 30. Juni) — **nicht** die
   verfahrensbezogene Einzeldokumentation eines Vergabeverfahrens.
 - Der **Vergabevermerk** (fortlaufende Dokumentation des einzelnen Verfahrens) folgt in
@@ -237,10 +237,10 @@ unpräzise und sollte korrigiert werden.**
   (oberschwellig), § 20 VOB/A Abschnitt 1 (Bau, unterschwellig), § 20 VOL/A (Liefer-/
   Dienstleistungen, in Sachsen anwendbar). Ergänzend verlangt **§ 5 Abs. 1 SächsVergabeG
   i. V. m. Anlage 1** ausdrücklich, die stufenweise Wertung „in der Vergabedokumentation für
-  eine objektiv prüfbare Vergabeentscheidung zu dokumentieren".
-- **Empfehlung für `glossar.md`:** In der Aufzählung zum Vergabevermerk „§ 9 SächsVergabeG"
+  eine objektiv prüfbare Vergabeentscheidung zu dokumentieren“.
+- **Empfehlung für `glossar.md`:** In der Aufzählung zum Vergabevermerk „§ 9 SächsVergabeG“
   entweder streichen oder durch „§ 5 Abs. 1 i. V. m. Anlage 1 SächsVergabeG (Dokumentation
-  der Wertung)" ersetzen; § 9 SächsVergabeG ist als **Vergabebericht** (aggregiert), nicht
+  der Wertung)“ ersetzen; § 9 SächsVergabeG ist als **Vergabebericht** (aggregiert), nicht
   als Vergabevermerk zu führen.
 
 | Dokumentationsart | Rechtsgrundlage in Sachsen | Fundstelle | Stand |
@@ -253,27 +253,27 @@ unpräzise und sollte korrigiert werden.**
 - **VOL/A statt UVgO.** Sachsen hat die UVgO für Landes-/Kommunalvergaben **nicht**
   eingeführt (§ 1 Abs. 2 SächsVergabeG verweist auf VOL/A 2009). Konsistent mit
   `wertgrenzen-sachsen.md` und `rechtsquellen.md`; die dort angemerkte Präzisierung in
-  `glossar.md`/`rechtsquellen.md` (UVgO sei „auch von Sachsen eingeführt") gilt hier ebenso.
+  `glossar.md`/`rechtsquellen.md` (UVgO sei „auch von Sachsen eingeführt“) gilt hier ebenso.
 - **Einziger genuin sächsischer Betrag** ist die **25.000-EUR-Grenze der freihändigen
   Vergabe** (§ 4 SächsVergabeG); alle übrigen Euro-Grenzen der Verfahrensarten stammen aus
   VOL/A bzw. VOB/A (Bundesrecht) und gelten über § 1 Abs. 2 SächsVergabeG. Details und der
   ungeklärte Widerspruch zu den ab 01.01.2026 angehobenen VOB/A-Wertgrenzen: siehe
   `wertgrenzen-sachsen.md`.
 - **Keine geltende SächsVergabeDVO.** Durch § 11 SächsVergabeG außer Kraft; die Angaben in
-  `glossar.md`/`rechtsquellen.md` zur SächsVergabeDVO sind entsprechend als „außer Kraft"
+  `glossar.md`/`rechtsquellen.md` zur SächsVergabeDVO sind entsprechend als „außer Kraft“
   einzuordnen.
-- **Korrekturbedarf `glossar.md`:** (1) Vergabevermerk-Zitat „§ 9 SächsVergabeG" (§ 9 ist der
-  Vergabebericht — siehe Abschnitt „Dokumentation"); (2) Plattformbezeichnung
-  „Vergabemarktplatz Sachsen" → „Vergabeplattform des Freistaates Sachsen".
+- **Korrekturbedarf `glossar.md`:** (1) Vergabevermerk-Zitat „§ 9 SächsVergabeG“ (§ 9 ist der
+  Vergabebericht — siehe Abschnitt „Dokumentation“); (2) Plattformbezeichnung
+  „Vergabemarktplatz Sachsen“ → „Vergabeplattform des Freistaates Sachsen“.
 - **Novelle beobachten.** Sobald die SächsVergabeG-Novelle in Kraft tritt (UVgO-Einführung,
   Tariftreue/Vergabemindestentgelt, soziale/ökologische Kriterien, ggf. neue Wertgrenzen),
-  sind sämtliche als „(zu prüfen)" markierten Punkte sowie `wertgrenzen-sachsen.md` und
+  sind sämtliche als „(zu prüfen)“ markierten Punkte sowie `wertgrenzen-sachsen.md` und
   `rechtsquellen.md` zu aktualisieren.
 - **Primärquellen / Prüfung.** SächsVergabeG über REVOSax (amtlicher Volltext, geprüft am
   01.07.2026, Fassung 27.04.2019 / inhaltlich Gesetz vom 14.02.2013); GWB/VgV über
   gesetze-im-internet.de; Vergabekammer über die Landesdirektion Sachsen; E-Vergabe über die
   E-Government-Plattform des Freistaates Sachsen. Ergänzend gegengelesen: Auftragsberatungs­
   stelle Sachsen (ABSt Sachsen), SMWA/SMWAV, Vergabekonferenz der Landeshauptstadt Dresden
-  2026, Fachdienste (evergabe.de, vergabe24.de, cosinex, B_I MEDIEN). **Alle „(zu prüfen)"-
+  2026, Fachdienste (evergabe.de, vergabe24.de, cosinex, B_I MEDIEN). **Alle „(zu prüfen)“-
   Punkte sind vor verbindlicher Verwendung durch die Vergabestelle bzw. das SMWA zu
   verifizieren.**
