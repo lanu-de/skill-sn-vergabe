@@ -51,8 +51,8 @@ Auftragssumme gemäß § 7 SächsVergabeG (Betrag: Stand 01.07.2026 — vor Nutz
 
 [Optional: Hinweis zu Nachunternehmereinsatz — Weitergabe an Nachunternehmer grundsätzlich
 nur bis 50 % des Auftragswertes und nur mit Zustimmung des Auftraggebers (§ 6
-SächsVergabeG); Nachunternehmerverzeichnis ist beizufügen/wurde mit dem Angebot
-eingereicht.]
+SächsVergabeG; Stand 01.07.2026 — vor Nutzung gegen `references/sachsen-spezifika.md`
+prüfen); Nachunternehmerverzeichnis ist beizufügen/wurde mit dem Angebot eingereicht.]
 
 Für Rückfragen zur Auftragsabwicklung steht Ihnen [Ansprechpartner/in, Kontakt] zur
 Verfügung.

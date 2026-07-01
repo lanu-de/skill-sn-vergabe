@@ -38,9 +38,10 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
    Zuschlags-/Ablehnungsgründe u. Ä.). Kein Platzhalter darf unausgefüllt bleiben.
 3. **Sächsische Pflichtangaben beachten** — insbesondere die beiden folgenden, die in mehreren
    Vorlagen wiederkehren:
-   - **Dokumentationspflicht (Vergabevermerk):** oberschwellig § 8 VgV, unterschwellig
-     § 20 VOB/A (Bau) bzw. § 20 VOL/A (Liefer-/Dienstleistungen); ergänzend verlangt
-     § 5 Abs. 1 SächsVergabeG i. V. m. Anlage 1 die Dokumentation der stufenweisen Wertung.
+   - **Dokumentationspflicht (Vergabevermerk):** oberschwellig § 8 VgV (Liefer-/Dienst-/
+     freiberuflich) bzw. § 20 EU VOB/A (Bau); unterschwellig § 20 VOB/A Abschnitt 1 (Bau)
+     bzw. § 20 VOL/A (Liefer-/Dienstleistungen); ergänzend verlangt § 5 Abs. 1 SächsVergabeG
+     i. V. m. Anlage 1 die Dokumentation der stufenweisen Wertung.
      **Achtung:** § 9 SächsVergabeG regelt den **Vergabebericht** (aggregierter Bericht der
      Staatsregierung an den Landtag) — das ist **nicht** der Vergabevermerk des
      Einzelverfahrens.

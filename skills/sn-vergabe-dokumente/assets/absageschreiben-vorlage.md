@@ -67,9 +67,9 @@ Landesdirektion Sachsen (Dienststelle Leipzig) — Einzelheiten zu Rüge- und An
 ## Block B — Unterschwelle (§ 8 SächsVergabeG)
 
 **Voraussetzung:** Auftragswert unterschreitet den einschlägigen EU-Schwellenwert **und**
-liegt oberhalb der sächsischen Aufgreifschwelle nach § 8 Abs. 3 SächsVergabeG (konkrete
-Beträge für Bau bzw. Liefer-/Dienstleistungen: „(zu prüfen)"-Hinweise in
-`references/sachsen-spezifika.md` beachten — unterhalb dieser Schwelle besteht **keine**
+liegt oberhalb der sächsischen Aufgreifschwelle nach § 8 Abs. 3 SächsVergabeG von **75.000
+EUR (Bau)** bzw. **50.000 EUR (Liefer-/Dienstleistungen)** (Stand 01.07.2026 — vor Nutzung
+gegen `references/sachsen-spezifika.md` prüfen — unterhalb dieser Schwelle besteht **keine**
 Informationspflicht nach § 8 SächsVergabeG).
 
 Wir beabsichtigen, den Zuschlag auf das Angebot der Firma **[Name des vorgesehenen

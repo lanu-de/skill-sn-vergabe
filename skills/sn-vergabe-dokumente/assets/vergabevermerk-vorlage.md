@@ -5,14 +5,16 @@
 > Wertgrenzen vor verbindlichem Einsatz gegen `references/sachsen-spezifika.md` und
 > `references/rechtsquellen.md` prüfen (Stand 01.07.2026).
 
-**Rechtsgrundlage der Dokumentationspflicht:** oberschwellig § 8 VgV, unterschwellig
-§ 20 VOB/A (Bau) bzw. § 20 VOL/A (Liefer-/Dienstleistungen); ergänzend § 5 Abs. 1
-SächsVergabeG i. V. m. Anlage 1 (Dokumentation der stufenweisen Wertung). **Nicht
-zu verwechseln mit § 9 SächsVergabeG (Vergabebericht — aggregierter Bericht der
-Staatsregierung an den Landtag, kein Einzelverfahrens-Vermerk).**
+**Rechtsgrundlage der Dokumentationspflicht:** oberschwellig § 8 VgV (Liefer-/Dienst-/
+freiberuflich) bzw. § 20 EU VOB/A (Bau); unterschwellig § 20 VOB/A Abschnitt 1 (Bau) bzw.
+§ 20 VOL/A (Liefer-/Dienstleistungen); ergänzend § 5 Abs. 1 SächsVergabeG i. V. m. Anlage 1
+(Dokumentation der stufenweisen Wertung). **Nicht zu verwechseln mit § 9 SächsVergabeG
+(Vergabebericht — aggregierter Bericht der Staatsregierung an den Landtag, kein
+Einzelverfahrens-Vermerk).**
 
-Zutreffenden Regelungskreis markieren: ☐ Oberschwelle (§ 8 VgV) ☐ Unterschwelle, Bau
-(§ 20 VOB/A) ☐ Unterschwelle, Liefer-/Dienstleistung (§ 20 VOL/A)
+Zutreffenden Regelungskreis markieren: ☐ Oberschwelle, Liefer-/Dienstleistung (§ 8 VgV)
+☐ Oberschwelle, Bau (§ 20 EU VOB/A) ☐ Unterschwelle, Bau (§ 20 VOB/A) ☐ Unterschwelle,
+Liefer-/Dienstleistung (§ 20 VOL/A)
 
 ---
 
@@ -90,8 +92,9 @@ Prüfung dokumentieren: Preis zweifelhaft bei Abweichung > 10 % vom nächsthöhe
 
 [Verweis auf `assets/absageschreiben-vorlage.md`. Zutreffende Rechtsgrundlage markieren:
 ☐ § 134 GWB (oberschwellig) ☐ § 8 SächsVergabeG (unterschwellig, sofern Auftragswert
-oberhalb der Aufgreifschwelle liegt — konkrete Beträge/Fristen: „(zu prüfen)"-Hinweise in
-`references/sachsen-spezifika.md` beachten). Datum Versand Vorabinformation: [Datum];
+oberhalb der Aufgreifschwelle von 75.000 EUR (Bau) bzw. 50.000 EUR (Liefer-/
+Dienstleistungen) nach § 8 Abs. 3 SächsVergabeG liegt — Stand 01.07.2026, vor Nutzung gegen
+`references/sachsen-spezifika.md` prüfen). Datum Versand Vorabinformation: [Datum];
 Ablauf Warte-/Informationsfrist: [Datum, berechnet nach der jeweils einschlägigen Norm].]
 
 ## 9. Zuschlagserteilung
@@ -103,7 +106,8 @@ Ablauf Warte-/Informationsfrist: [Datum, berechnet nach der jeweils einschlägig
 
 [Raum für Verfahrensbesonderheiten, z. B. Aufhebung des Verfahrens, Rügen, Nachprüfungs-
 anträge, Losaufteilung, Nachunternehmereinsatz (§ 6 SächsVergabeG, max. 50 % des
-Auftragswertes mit Zustimmung des Auftraggebers).]
+Auftragswertes mit Zustimmung des Auftraggebers; Stand 01.07.2026 — vor Nutzung gegen
+`references/sachsen-spezifika.md` prüfen).]
 
 ---
 
