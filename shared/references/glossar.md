@@ -102,10 +102,10 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   Unternehmen für die Angebotserstellung benötigen.
 - **Bekanntmachung:** die öffentliche Ankündigung eines Vergabeverfahrens; oberschwellig
   im Amtsblatt der EU (TED), unterschwellig i. d. R. auf nationalen/regionalen
-  Vergabeplattformen (in Sachsen: Vergabemarktplatz Sachsen).
+  Vergabeplattformen (in Sachsen: Vergabeplattform des Freistaates Sachsen, `evergabe.sachsen.de`).
 - **Vergabevermerk:** die fortlaufende Dokumentation aller wesentlichen Schritte,
   Feststellungen und Entscheidungen eines Vergabeverfahrens durch den Auftraggeber
-  (Dokumentationspflicht, u. a. § 8 VgV, § 6 VOB/A, § 9 SächsVergabeG).
+  (Dokumentationspflicht, u. a. § 8 VgV, § 20 VOB/A, § 20 VOL/A; ergänzend § 5 Abs. 1 i. V. m. Anlage 1 SächsVergabeG). **Nicht** zu verwechseln mit dem *Vergabebericht* nach § 9 SächsVergabeG (aggregierter Bericht der Staatsregierung an den Landtag) — siehe `sachsen-spezifika.md`.
 - **Rüge / Nachprüfungsverfahren:** die Rüge ist die vorgerichtliche Beanstandung eines
   Vergaberechtsverstoßes gegenüber dem Auftraggeber (Obliegenheit, § 160 Abs. 3 GWB);
   das Nachprüfungsverfahren ist die anschließende Überprüfung durch die zuständige
