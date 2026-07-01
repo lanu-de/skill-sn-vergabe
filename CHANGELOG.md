@@ -12,5 +12,6 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 - Referenzdatenbasis unter `shared/references/` (Datenstand 01.07.2026): Glossar,
   Rechtsquellen (inkl. haushaltsrechtlicher Grundlage), EU-Schwellenwerte, sächsische
   Wertgrenzen, Verfahrensarten, Fristen und Sachsen-Spezifika — je mit Fundstelle und Stand.
+- Vier Skills (`sn-vergabe-basis`, `-verfahrenswahl`, `-dokumente`, `-begleitung`) mit Anbindung an die geteilte Datenbasis via `sync_shared.py`.
 
 ## [0.1.0] – in Arbeit
