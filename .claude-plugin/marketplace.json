@@ -1,0 +1,11 @@
+{
+  "name": "sn-vergabe",
+  "owner": { "name": "LANU Sachsen", "email": "andre.tegge@lanu.sachsen.de" },
+  "plugins": [
+    {
+      "name": "sn-vergabe",
+      "source": ".",
+      "description": "Vergabe-Skills für öffentliche Auftraggeber im Freistaat Sachsen (Basis, Verfahrenswahl, Dokumente, Begleitung)."
+    }
+  ]
+}
