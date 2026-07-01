@@ -2,7 +2,9 @@
 """Synchronisiert geteilte Referenzdaten in alle Skills und prueft die Fundstellenpflicht."""
 from __future__ import annotations
 
+import argparse
 import shutil
+import sys
 from pathlib import Path
 
 
@@ -65,10 +67,6 @@ def check_fundstellen(root: Path) -> list[str]:
                     if cells[idx].strip().lower() in _PLACEHOLDER:
                         errors.append(f"{md.name}:{lineno}: leere/unvollstaendige {label}")
     return errors
-
-
-import argparse
-import sys
 
 
 def main(argv: list[str] | None = None) -> int:
