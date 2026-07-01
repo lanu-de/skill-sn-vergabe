@@ -65,3 +65,34 @@ def check_fundstellen(root: Path) -> list[str]:
                     if cells[idx].strip().lower() in _PLACEHOLDER:
                         errors.append(f"{md.name}:{lineno}: leere/unvollstaendige {label}")
     return errors
+
+
+import argparse
+import sys
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Referenzdaten synchronisieren/pruefen")
+    parser.add_argument("command", choices=["sync", "check"])
+    parser.add_argument("--root", default=None, help="Repo-Wurzel (Default: Elternordner von scripts/)")
+    args = parser.parse_args(argv)
+
+    root = Path(args.root) if args.root else Path(__file__).resolve().parent.parent
+
+    if args.command == "sync":
+        written = sync(root)
+        print(f"{len(written)} Datei(en) in Skills kopiert.")
+        return 0
+
+    errors = check_fundstellen(root)
+    if errors:
+        print("Fundstellenpflicht verletzt:")
+        for e in errors:
+            print(f"  - {e}")
+        return 1
+    print("Fundstellenpflicht: alle Werte belegt.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
