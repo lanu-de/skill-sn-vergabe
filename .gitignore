@@ -21,3 +21,6 @@ __pycache__/
 
 # Interne Arbeitsartefakte (Fortschritts-Ledger der Ausführung)
 .superpowers/
+
+# Vom Nutzer bereitgestellte Primärquellen (lokal, nicht ins öffentliche Repo)
+quellen/
