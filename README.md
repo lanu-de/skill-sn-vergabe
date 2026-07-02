@@ -1,4 +1,4 @@
-# sn-vergabe – Vergabe-Skills für den Freistaat Sachsen
+# vergabe-sachsen – Vergabe-Skills für den Freistaat Sachsen
 
 Eine Sammlung von Claude-Skills, die **öffentliche Auftraggeber im Freistaat Sachsen**
 bei der Durchführung von Vergabeverfahren unterstützt: das richtige Verfahren wählen,
@@ -16,24 +16,26 @@ Vergabestellen von Kommunen, Behörden und öffentlichen Einrichtungen in Sachse
 
 ## Umfang
 
-- **Leistungsarten:** Liefer-/Dienstleistungen (VgV/UVgO), Bauleistungen (VOB/A),
-  freiberufliche Leistungen.
+- **Leistungsarten:** Liefer-/Dienstleistungen (oberschwellig VgV; unterschwellig gilt
+  in Sachsen die VOL/A — nicht die UVgO), Bauleistungen (VOB/A), freiberufliche
+  Leistungen.
 - **Wertbereiche:** Oberschwelle (EU) und Unterschwelle (national/sächsisch).
 
 ## Die Skills
 
 | Skill | Zweck |
 |-------|-------|
-| `sn-vergabe-basis` | Grundlagen, Nachschlagewerk, Rechtsfragen, Einstieg |
-| `sn-vergabe-verfahrenswahl` | Passende Verfahrensart nach Wert & Leistungsart |
-| `sn-vergabe-dokumente` | Vergabevermerk, Leistungsbeschreibung, Schreiben u. a. |
-| `sn-vergabe-begleitung` | Schritt-für-Schritt durch ein komplettes Verfahren |
+| `vergabe-sachsen-basis` | Grundlagen, Nachschlagewerk, Rechtsfragen, Einstieg |
+| `vergabe-sachsen-verfahrenswahl` | Passende Verfahrensart nach Wert & Leistungsart |
+| `vergabe-sachsen-dokumente` | Vergabevermerk, Leistungsbeschreibung, Schreiben u. a. |
+| `vergabe-sachsen-begleitung` | Schritt-für-Schritt durch ein komplettes Verfahren |
 
 ## Installation
 
-Drei Wege — ausführlich in [INSTALLATION.md](INSTALLATION.md):
+Drei Wege für Claude — ausführlich in [INSTALLATION.md](INSTALLATION.md), dort auch ein
+Abschnitt zur Nutzung mit ChatGPT:
 - **Claude Desktop:** `skills/`-Ordner nach `~/.claude/skills/` kopieren.
-- **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` → `/plugin install sn-vergabe@sn-vergabe`.
+- **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` → `/plugin install vergabe-sachsen@vergabe-sachsen`.
 - **Manuell:** ZIP herunterladen und `skills/` ablegen.
 
 ## Rechts-Datenstand

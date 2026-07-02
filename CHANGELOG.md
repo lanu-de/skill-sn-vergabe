@@ -4,6 +4,20 @@ Alle nennenswerten Änderungen an diesem Projekt werden hier dokumentiert.
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/),
 Versionierung nach [SemVer](https://semver.org/lang/de/).
 
+## [Unreleased]
+
+### Geändert
+- Plugin, Marketplace und Skills von `sn-vergabe` in `vergabe-sachsen` umbenannt
+  (GitHub-Repository unverändert `lanu-de/skill-sn-vergabe`).
+- Referenzdaten bereinigt: veralteter Konsistenz-Hinweis und Recherche-Artefakte in
+  `wertgrenzen-sachsen.md` entfernt; Glossar-Begriffsteil präzisiert (in Sachsen VOL/A
+  statt UVgO); README-Umfang entsprechend korrigiert.
+- Marketplace-Manifest: Beschreibung ergänzt; Owner „LaNU Sachsen“ (Schreibweise
+  korrigiert) mit Website https://www.lanu.de.
+
+### Hinzugefügt
+- INSTALLATION.md: Abschnitt zur Nutzung mit ChatGPT (Projekt bzw. Custom GPT).
+
 ## [0.1.0] – 2026-07-01
 
 ### Hinzugefügt
