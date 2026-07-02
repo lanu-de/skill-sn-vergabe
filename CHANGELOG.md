@@ -17,6 +17,8 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ### Hinzugefügt
 - INSTALLATION.md: Abschnitt zur Nutzung mit ChatGPT (Projekt bzw. Custom GPT).
+- GitHub Action `release-zips`: erzeugt bei jedem Release automatisch ein Zip je Skill
+  und hängt es an die Release-Seite (auch für claude.ai-Upload geeignet).
 
 ## [0.1.0] – 2026-07-01
 

@@ -1,0 +1,32 @@
+name: Skill-Zips bei Release
+
+# Baut bei jedem veröffentlichten GitHub-Release je Skill-Ordner ein Zip
+# (Wurzel = Skill-Ordner mit SKILL.md, passend für den Upload auf claude.ai)
+# und hängt die Zips als Download-Dateien an die Release-Seite an.
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  zips:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skill-Zips bauen
+        run: |
+          mkdir -p dist
+          for skill in skills/*/; do
+            name=$(basename "$skill")
+            (cd skills && zip -r "../dist/${name}.zip" "$name")
+          done
+          ls -l dist
+
+      - name: Zips an das Release anhängen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ github.event.release.tag_name }}" dist/*.zip --clobber

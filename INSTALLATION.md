@@ -28,6 +28,10 @@ Aktualisieren: `/plugin marketplace update vergabe-sachsen`.
 
 ZIP herunterladen, `skills/`-Ordner entpacken und wie unter 1. nach `~/.claude/skills/` legen.
 
+Zusätzlich hängt an jedem [GitHub-Release](https://github.com/lanu-de/skill-sn-vergabe/releases)
+ein fertiges Zip **je Skill** (automatisch erzeugt). Diese Einzel-Zips eignen sich auch für
+den Skill-Upload auf claude.ai (Einstellungen → Skills) und als Dateiquelle für Abschnitt 4.
+
 ## 4. Nutzung mit ChatGPT (Nachbau, mit Einschränkungen)
 
 ChatGPT kennt das Claude-Skill-Format nicht — eine „Installation“ wie oben gibt es dort
