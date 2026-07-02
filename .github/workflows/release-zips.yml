@@ -17,6 +17,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Release-Tag gegen Plugin-Version prüfen
+        run: |
+          tag="${{ github.event.release.tag_name }}"
+          version=$(jq -r .version .claude-plugin/plugin.json)
+          if [ "${tag#v}" != "$version" ]; then
+            echo "::error::Release-Tag '$tag' passt nicht zur Version '$version' in .claude-plugin/plugin.json — bitte Version angleichen und Release neu anlegen."
+            exit 1
+          fi
+          echo "Tag $tag passt zur Plugin-Version $version."
+
       - name: Skill-Zips bauen
         run: |
           mkdir -p dist

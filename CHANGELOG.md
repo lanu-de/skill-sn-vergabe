@@ -4,7 +4,7 @@ Alle nennenswerten Änderungen an diesem Projekt werden hier dokumentiert.
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/),
 Versionierung nach [SemVer](https://semver.org/lang/de/).
 
-## [Unreleased]
+## [0.2.0] – 2026-07-02
 
 ### Geändert
 - Plugin, Marketplace und Skills von `sn-vergabe` in `vergabe-sachsen` umbenannt
@@ -19,6 +19,8 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 - INSTALLATION.md: Abschnitt zur Nutzung mit ChatGPT (Projekt bzw. Custom GPT).
 - GitHub Action `release-zips`: erzeugt bei jedem Release automatisch ein Zip je Skill
   und hängt es an die Release-Seite (auch für claude.ai-Upload geeignet).
+- Tag-Check im Release-Workflow: bricht ab, wenn der Release-Tag nicht zur Version in
+  `.claude-plugin/plugin.json` passt.
 
 ## [0.1.0] – 2026-07-01
 
