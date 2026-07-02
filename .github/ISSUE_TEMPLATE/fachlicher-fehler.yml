@@ -1,0 +1,65 @@
+name: "Fachlicher Fehler / veralteter Rechtsstand"
+description: "Eine Angabe in den Referenzdaten ist falsch, veraltet oder missverständlich (Wertgrenze, Frist, Paragraf, Fundstelle)."
+title: "[Fachlich] "
+labels: ["bug", "documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für die Meldung! Fachliche Korrekturen sind der wertvollste Beitrag zu
+        diesem Projekt. Wichtigster Punkt: die **Fundstellenpflicht** — bitte die
+        korrekte Angabe möglichst mit einer amtlichen Primärquelle belegen
+        (revosax.sachsen.de, gesetze-im-internet.de, Bundesanzeiger, EUR-Lex).
+  - type: dropdown
+    id: datei
+    attributes:
+      label: Betroffene Datei
+      description: In welcher Referenzdatei (unter `shared/references/`) bzw. an welcher Stelle steht die fehlerhafte Angabe?
+      options:
+        - wertgrenzen-sachsen.md
+        - schwellenwerte-eu.md
+        - fristen.md
+        - verfahrensarten.md
+        - rechtsquellen.md
+        - sachsen-spezifika.md
+        - glossar.md
+        - SKILL.md eines Skills
+        - Checkliste oder Dokumentvorlage
+        - README / Sonstiges
+    validations:
+      required: true
+  - type: textarea
+    id: aktuell
+    attributes:
+      label: Aktuelle Angabe im Skill
+      description: Was steht derzeit da? (Zitat oder sinngemäß, gern mit Zeilen-/Abschnittsangabe)
+    validations:
+      required: true
+  - type: textarea
+    id: korrekt
+    attributes:
+      label: Korrekte bzw. aktuelle Angabe
+      description: Was müsste stattdessen dort stehen?
+    validations:
+      required: true
+  - type: input
+    id: fundstelle
+    attributes:
+      label: Fundstelle / Primärquelle
+      description: "Norm mit Paragraf und Link, z. B.: § 4 SächsVergabeG, https://www.revosax.sachsen.de/vorschrift/12749"
+    validations:
+      required: true
+  - type: input
+    id: stand
+    attributes:
+      label: Rechtsstand
+      description: "Seit wann gilt die korrekte Angabe (z. B. „in Kraft seit 01.01.2026“)?"
+    validations:
+      required: false
+  - type: checkboxes
+    id: geprueft
+    attributes:
+      label: Prüfung
+      options:
+        - label: Ich habe die korrekte Angabe gegen eine amtliche Primärquelle geprüft (nicht nur gegen Sekundärquellen/Blogs).
+          required: false

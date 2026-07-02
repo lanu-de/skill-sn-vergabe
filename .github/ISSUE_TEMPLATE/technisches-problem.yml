@@ -1,0 +1,41 @@
+name: "Technisches Problem"
+description: "Ein Skill funktioniert nicht wie erwartet, Probleme bei Installation, Plugin, Sync-Skript oder Release-Zips."
+title: "[Technik] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: umgebung
+    attributes:
+      label: Umgebung
+      description: Wo tritt das Problem auf?
+      options:
+        - Claude Desktop (Skills-Ordner)
+        - Claude Code (Plugin/Marketplace)
+        - claude.ai (Zip-Upload)
+        - ChatGPT (Projekt / Custom GPT)
+        - scripts/sync_shared.py
+        - GitHub Actions / Release
+        - Sonstiges
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Was ist passiert?
+      description: Beschreibung des Problems — was wurde gemacht, was war das Ergebnis?
+    validations:
+      required: true
+  - type: textarea
+    id: erwartet
+    attributes:
+      label: Erwartetes Verhalten
+      description: Was hätte stattdessen passieren sollen?
+    validations:
+      required: false
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Nachvollziehen
+      description: Falls reproduzierbar — welche Schritte führen zu dem Problem? (Bei Skill-Antworten gern den verwendeten Prompt angeben.)
+    validations:
+      required: false

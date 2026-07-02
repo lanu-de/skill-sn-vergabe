@@ -1,0 +1,26 @@
+name: "Vorschlag / neue Inhalte"
+description: "Idee für neue Themen, Vorlagen, Checklisten oder Verbesserungen der bestehenden Skills."
+title: "[Vorschlag] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Was soll ergänzt oder verbessert werden?
+      description: "Z. B. ein fehlendes Thema (etwa eine neue Dokumentvorlage), eine zusätzliche Checkliste oder eine bessere Darstellung."
+    validations:
+      required: true
+  - type: textarea
+    id: praxisbezug
+    attributes:
+      label: Praxisbezug
+      description: In welcher Situation einer sächsischen Vergabestelle hilft das? Je konkreter, desto besser.
+    validations:
+      required: false
+  - type: textarea
+    id: quellen
+    attributes:
+      label: Quellen / Fundstellen (falls vorhanden)
+      description: Einschlägige Normen oder Primärquellen, die das Thema betreffen.
+    validations:
+      required: false
