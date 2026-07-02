@@ -27,8 +27,12 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
 
 1. **Auftragswert (netto) schätzen.** Maßgeblich ist die vom Auftraggeber vor
    Verfahrensbeginn zu schätzende voraussichtliche Vergütung ohne Umsatzsteuer; bei
-   losweiser Vergabe ist ggf. der Gesamtwert aller Lose zu betrachten. Definition und
-   Abgrenzung: `references/glossar.md` (Stichworte „Auftragswert“, „Los/Losvergabe“).
+   losweiser Vergabe ist der Gesamtwert aller Lose zu betrachten, bei
+   Rahmenvereinbarungen der Gesamtwert aller geplanten Einzelaufträge, bei Optionen und
+   Vertragsverlängerungen deren Wert mit. Die vollständigen Schätzregeln (§ 3 VgV:
+   Umgehungsverbot, 20-%-Losklausel, 48-Monats-Regel u. a.) stehen in
+   `references/schwellenwerte-eu.md`, Abschnitt „Schätzung des Auftragswerts“;
+   Begriffe: `references/glossar.md`.
 
 2. **Ober- oder Unterschwelle bestimmen.** Den geschätzten Netto-Auftragswert mit dem
    einschlägigen EU-Schwellenwert vergleichen. Für eine sächsische Vergabestelle ist bei
@@ -41,7 +45,12 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
    Leistung? Freiberufliche Leistungen gelten vergaberechtlich als Dienstleistungsauftrag
    und haben **keinen eigenen** Schwellenwert (siehe `references/schwellenwerte-eu.md`).
    Von der Leistungsart hängt ab, welche Verfahrensordnung greift: VgV/VOL/A für
-   Liefer-/Dienstleistungen, VOB/A für Bauleistungen.
+   Liefer-/Dienstleistungen, VOB/A für Bauleistungen. **Achtung Sonderweg:**
+   Unterschwellige freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und
+   erschöpfend beschreibbar ist, unterliegen in Sachsen **keinem förmlichen
+   Vergabeverfahren** (§ 1 Abs. 3 SächsVergabeG, § 1 VOL/A) — siehe
+   `references/verfahrensarten.md`, Abschnitt „Unterschwelle — Freiberufliche
+   Leistungen“; oberschwellig gelten die §§ 73 ff. VgV.
 
 4. **Zulässige Verfahrensart ermitteln und sächsische Wertgrenzen prüfen.** Anhand von
    Wertbereich (Schritt 2) und Leistungsart (Schritt 3) die Tabelle in
@@ -76,6 +85,12 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
 - **Bauleistungen = VOB/A Abschnitt 1.** Unterschwellig gilt für Bauleistungen bundesweit
   und auch in Sachsen die VOB/A Abschnitt 1 (Öffentliche Ausschreibung, Beschränkte
   Ausschreibung, Freihändige Vergabe, Direktauftrag).
+- **Freiberufliche Leistungen unterschwellig: kein förmliches Verfahren.** Ist die
+  Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar (typisch: Planungs-,
+  Architekten-, Ingenieur-, Gutachterleistungen mit Lösungsspielraum), greifen weder
+  SächsVergabeG noch VOL/A (§ 1 Abs. 3 SächsVergabeG, § 1 VOL/A); zu beachten bleiben
+  Haushaltsgrundsätze, Wettbewerb durch Vergleichsangebote und Dokumentation — siehe
+  `references/sachsen-spezifika.md`.
 - **Bau-Wertgrenze Freihändige Vergabe: Normwiderspruch „(zu prüfen)“.** Zwischen der
   landesgesetzlichen Grenze des § 4 SächsVergabeG und der zum 01.01.2026 neu gefassten,
   höheren Grenze der Bundes-VOB/A (§ 3a Abs. 3) besteht ein amtlich noch nicht geklärter
@@ -96,6 +111,11 @@ Auftragswert (netto) geschätzt (Schritt 1)
 │   └─ ja → Oberschwelle: GWB/VgV bzw. VOB/A Abschnitt 2 (verfahrensarten.md)
 │
 └─ nein → Unterschwelle (Sachsen)
+    ├─ freiberufliche Leistung, Aufgabe vorab nicht eindeutig
+    │   und erschöpfend beschreibbar?                          → kein förmliches Verfahren
+    │                                                              (§ 1 Abs. 3 SächsVergabeG,
+    │                                                              § 1 VOL/A; Haushaltsrecht,
+    │                                                              Vergleichsangebote)
     ├─ Liefer-/Dienstleistung → VOL/A
     │   ├─ ≤ Bagatellwert Direktkauf (§ 3 Abs. 6 VOL/A)?      → Direktkauf
     │   ├─ ≤ Wertgrenze Freihändige Vergabe (§ 4 SächsVergabeG)? → Freihändige Vergabe
@@ -113,7 +133,8 @@ Auftragswert (netto) geschätzt (Schritt 1)
 
 ## Aktualität
 
-Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder verbindlichen
+Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche Nachprüfung
+und Ergänzungen zum **02.07.2026**. Vor jeder verbindlichen
 Auskunft die konkreten Beträge und Fristen in der jeweiligen Referenzdatei prüfen und bei
 Bedarf gegen die amtliche Primärquelle verifizieren (`revosax.sachsen.de` für
 SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)“**

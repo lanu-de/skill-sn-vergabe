@@ -21,7 +21,7 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
 | VOB/A | VOB Teil A – Allgemeine Bestimmungen für die Vergabe von Bauleistungen. Abschnitt 1 = nationale Vergabe unterhalb der EU-Schwellenwerte; Abschnitt 2 = EU-weite Vergabe oberhalb der EU-Schwellenwerte (in der Praxis oft „VOB/A-EU“ genannt); Abschnitt 3 = verteidigungs-/sicherheitsspezifische Aufträge. |
 | RPW | Richtlinie für Planungswettbewerbe (aktuelle Fassung RPW 2013). Grundlage für Planungswettbewerbe, u. a. bei freiberuflichen Leistungen (Architektur/Ingenieurwesen, § 74 ff. VgV). |
 | SächsVergabeG | Sächsisches Vergabegesetz – amtlich „Gesetz über die Vergabe öffentlicher Aufträge im Freistaat Sachsen (Sächsisches Vergabegesetz – SächsVergabeG)“. Sächsisches Landesrecht; ergänzt GWB/VgV/UVgO/VOB/A um landesspezifische Vorgaben (u. a. Eignungsnachweis, freihändige Vergabe, Vergabebericht, Informations- und Nachprüfungsverfahren unterhalb der EU-Schwellenwerte). |
-| SächsVergabeDVO | Sächsische Vergabedurchführungsverordnung – amtlich „Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes“. Konkretisiert das SächsVergabeG (u. a. Wertgrenzen); aktueller Rechtsstand/Wertgrenzen: siehe `wertgrenzen-sachsen.md` bzw. `sachsen-spezifika.md` (**zu prüfen** – Sachsen hat das Vergaberecht in den letzten Jahren novelliert; genaue aktuelle Fassung dort verifizieren). |
+| SächsVergabeDVO | Sächsische Vergabedurchführungsverordnung – amtlich „Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes“. **Außer Kraft:** durch § 11 SächsVergabeG ausdrücklich aufgehoben; es existiert derzeit keine geltende SächsVergabeDVO. Die sächsischen Wertgrenzen stehen unmittelbar im SächsVergabeG selbst — siehe `wertgrenzen-sachsen.md`, `sachsen-spezifika.md`. |
 | VK | Vergabekammer – Nachprüfungsinstanz für Vergabeverfahren oberhalb der EU-Schwellenwerte (§§ 155 ff. GWB). Für Sachsen zuständig: Vergabekammer des Freistaates Sachsen bei der Landesdirektion Sachsen (Sitz Leipzig). |
 | LDS | Landesdirektion Sachsen – u. a. Sitz der Vergabekammer des Freistaates Sachsen. |
 | BGBl. | Bundesgesetzblatt – amtliches Verkündungsblatt des Bundes (Fundstelle u. a. für GWB, VgV). |
@@ -40,15 +40,27 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
 - **Auftragswert (Schätzung des Auftragswerts):** die vom Auftraggeber vor
   Verfahrensbeginn zu schätzende voraussichtliche Vergütung (ohne Umsatzsteuer); sie
   entscheidet über die Zuordnung zu Ober-/Unterschwelle und die zulässige
-  Verfahrensart.
+  Verfahrensart. Die maßgeblichen Schätzregeln (Optionen/Vertragsverlängerungen,
+  Lose, Rahmenvereinbarungen, 48-Monats-Regel, Umgehungsverbot) stehen in § 3 VgV —
+  Überblick in `schwellenwerte-eu.md`, Abschnitt „Schätzung des Auftragswerts“.
+- **Freiberufliche Leistungen:** vergaberechtlich Dienstleistungsaufträge ohne eigenen
+  EU-Schwellenwert (§ 103 Abs. 4 GWB); oberschwellig gelten die Sonderregeln der
+  §§ 73 ff. VgV (Architekten-/Ingenieurleistungen in der Regel im Verhandlungsverfahren
+  mit Teilnahmewettbewerb, § 74 VgV). Unterschwellig gilt in Sachsen ein Sonderweg:
+  freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend
+  beschrieben werden kann, sind vom SächsVergabeG und von der VOL/A ausgenommen
+  (§ 1 Abs. 3 SächsVergabeG, § 1 VOL/A) — siehe `verfahrensarten.md`, Abschnitt
+  „Unterschwelle — Freiberufliche Leistungen“.
 - **Direktauftrag:** Beschaffung ohne förmliches Vergabeverfahren bei sehr geringem,
   national/landesrechtlich festgelegtem Auftragswert (unterschwellig, z. B. § 14 UVgO).
   Konkrete Wertgrenzen für Sachsen: siehe `wertgrenzen-sachsen.md`.
-- **Verhandlungsvergabe (UVgO) / Freihändige Vergabe (VOB/A Abschnitt 1):**
+- **Verhandlungsvergabe (UVgO) / Freihändige Vergabe (VOL/A, VOB/A Abschnitt 1):**
   unterschwelliges Verfahren ohne förmliche Bekanntmachung, bei dem der Auftraggeber mit
   ausgewählten Unternehmen über Angebot und Bedingungen verhandelt, mit oder ohne
-  vorherigen Teilnahmewettbewerb (§ 8 Abs. 1 u. 4, § 12 UVgO); nach VOB/A Abschnitt 1
-  weiterhin „Freihändige Vergabe“ genannt.
+  vorherigen Teilnahmewettbewerb (§ 8 Abs. 1 u. 4, § 12 UVgO). In Sachsen heißt die
+  Verfahrensart sowohl für Liefer-/Dienstleistungen (§ 3 Abs. 5 VOL/A) als auch für
+  Bauleistungen (§ 3 Abs. 5 VOB/A Abschnitt 1) „Freihändige Vergabe“; der UVgO-Begriff
+  „Verhandlungsvergabe“ ist in Sachsen derzeit nicht einschlägig.
 - **Öffentliche Ausschreibung:** unterschwelliges Verfahren mit öffentlicher
   Bekanntmachung, an dem sich eine unbeschränkte Zahl von Unternehmen beteiligen kann
   (unterschwelliges Pendant zum „offenen Verfahren“).
@@ -88,6 +100,17 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   Fachlose (nach Art bzw. Fachgebiet) zur Förderung des Mittelstands; eine Gesamtvergabe
   ist nur ausnahmsweise aus wirtschaftlichen oder technischen Gründen zulässig
   (§ 97 Abs. 4 GWB).
+- **Rahmenvereinbarung:** Vereinbarung mit einem oder mehreren Unternehmen, die die
+  Bedingungen für Einzelaufträge während eines bestimmten Zeitraums festlegt; keine
+  eigene Verfahrensart, sondern im jeweils zulässigen Verfahren zu vergeben
+  (§ 21 VgV oberschwellig; § 4 VOL/A unterschwellig, Laufzeit in der Regel höchstens
+  vier Jahre). Für die Schwellenwertprüfung zählt der geschätzte Gesamtwert aller
+  während der Laufzeit geplanten Einzelaufträge (§ 3 Abs. 4 VgV).
+- **Aufhebung:** Beendigung eines Vergabeverfahrens ohne Zuschlag; nur aus den in
+  § 63 VgV (oberschwellig) bzw. § 17 VOB/A / § 17 VOL/A (unterschwellig) genannten
+  Gründen sanktionslos möglich. Bieter/Bewerber sind unverzüglich zu unterrichten, die
+  Gründe im Vergabevermerk zu dokumentieren; eine ungerechtfertigte Aufhebung kann
+  Schadensersatzansprüche auslösen.
 - **Tariftreue:** Verpflichtung von Auftragnehmern (ggf. auch Nachunternehmern), bei der
   Auftragsausführung die einschlägigen Tarifverträge einzuhalten. **Zu prüfen:** ob und
   wie der Freistaat Sachsen dies aktuell regelt – Sachsen zählte zuletzt neben Bayern zu
@@ -110,6 +133,16 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   Vergaberechtsverstoßes gegenüber dem Auftraggeber (Obliegenheit, § 160 Abs. 3 GWB);
   das Nachprüfungsverfahren ist die anschließende Überprüfung durch die zuständige
   Vergabekammer. Fristen/Ablauf für Sachsen: siehe `sachsen-spezifika.md`.
+- **Wettbewerbsregister (WRegG):** bundesweites elektronisches Register über
+  Wirtschaftsdelikte von Unternehmen beim Bundeskartellamt. Öffentliche Auftraggeber
+  müssen vor Zuschlagserteilung ab einer bestimmten Auftragswertgrenze abfragen, ob für
+  den vorgesehenen Zuschlagsbieter Eintragungen (Ausschlussgründe) vorliegen
+  (§ 6 WRegG). Aktuelle Abfragegrenze: siehe `wertgrenzen-sachsen.md`
+  (Vergabebeschleunigungsgesetz).
+- **Vergabestatistik (VergStatVO):** bundesrechtliche Pflicht, vergebene öffentliche
+  Aufträge an das Statistische Bundesamt zu melden (Vergabestatistikverordnung);
+  unterschwellig erst ab einer Meldegrenze. Aktuelle Meldegrenze: siehe
+  `wertgrenzen-sachsen.md` (Vergabebeschleunigungsgesetz).
 - **Bieter / Bewerber:** Unternehmen, das ein Angebot abgegeben hat (Bieter), bzw. das
   an einem Teilnahmewettbewerb teilnimmt und einen Teilnahmeantrag gestellt hat
   (Bewerber).

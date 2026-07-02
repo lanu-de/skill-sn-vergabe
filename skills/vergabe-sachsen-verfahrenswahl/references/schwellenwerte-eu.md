@@ -75,3 +75,40 @@ die niedrigere Bundesbehörden-Schwelle.
   **nationalen/sächsischen Wertgrenzen unterhalb** dieser Schwellen (z. B. für
   Direktaufträge, Verhandlungsvergabe ohne Teilnahmewettbewerb) stehen in
   `wertgrenzen-sachsen.md`.
+
+## Schätzung des Auftragswerts (§ 3 VgV)
+
+Ob ein Schwellen- oder Wertgrenzenvergleich richtig ausfällt, hängt von der korrekten
+**Schätzung des Auftragswerts** ab. Maßgeblich ist § 3 VgV
+(https://www.gesetze-im-internet.de/vgv_2016/__3.html — alle Angaben 02.07.2026 gegen die
+Primärquelle geprüft); unterschwellig gilt § 3 VgV nicht unmittelbar, die Grundsätze
+werden aber allgemein zur Orientierung herangezogen. Die wichtigsten Regeln:
+
+- **Grundsatz (§ 3 Abs. 1 VgV):** Auszugehen ist vom voraussichtlichen **Gesamtwert** der
+  vorgesehenen Leistung **ohne Umsatzsteuer**, einschließlich aller **Optionen und
+  Vertragsverlängerungen** sowie etwaiger Prämien/Zahlungen an Bewerber oder Bieter.
+- **Umgehungsverbot (§ 3 Abs. 2 VgV):** Die Wahl der Berechnungsmethode und eine
+  Aufteilung des Auftrags dürfen nicht dazu dienen, die Anwendung der Vergabevorschriften
+  zu umgehen (kein „Kleinrechnen“ unter Schwellen- oder Wertgrenzen).
+- **Maßgeblicher Zeitpunkt (§ 3 Abs. 3 VgV):** der Tag, an dem die Auftragsbekanntmachung
+  abgesendet oder das Vergabeverfahren auf sonstige Weise eingeleitet wird.
+- **Rahmenvereinbarungen (§ 3 Abs. 4 VgV):** anzusetzen ist der geschätzte **Gesamtwert
+  aller Einzelaufträge**, die während der Laufzeit geplant sind.
+- **Lose (§ 3 Abs. 7–9 VgV):** Bei losweiser Vergabe ist der **Gesamtwert aller Lose**
+  zugrunde zu legen (bei Lieferaufträgen: aller Lose über gleichartige Leistungen).
+  Erreicht der Gesamtwert die EU-Schwelle, gilt das EU-Verfahren grundsätzlich für jedes
+  Los; Ausnahme („20-%-Klausel“): einzelne Lose unter **80.000 EUR**
+  (Liefer-/Dienstleistungen) bzw. **1.000.000 EUR** (Bau) dürfen national vergeben
+  werden, solange ihre Summe **20 % des Gesamtwerts** aller Lose nicht übersteigt.
+- **Regelmäßig wiederkehrende Aufträge (§ 3 Abs. 10 VgV):** Schätzung auf Grundlage des
+  tatsächlichen Werts entsprechender Folgeaufträge der vorangegangenen zwölf Monate bzw.
+  des geschätzten Werts der folgenden zwölf Monate.
+- **Verträge ohne Gesamtpreis / unbestimmte Laufzeit (§ 3 Abs. 11 VgV):** bei Laufzeit
+  bis 48 Monate der Gesamtwert für die Laufzeit; bei längerer oder unbestimmter Laufzeit
+  der **48-fache Monatswert**.
+- **Sächsische Besonderheit (nachrichtlich, ältere Quelle):** Für die Frage, ob die
+  Wertgrenze der Freihändigen Vergabe nach § 4 SächsVergabeG eingehalten ist, stellte der
+  SMI-Leitfaden „Hinweise zur Vergabe öffentlicher Aufträge im kommunalen Bereich“
+  (Stand Juni 2015) auf den „Umfang der einzelnen zu vergebenden Leistung“ ab. Der
+  Leitfaden ist nicht auf aktuellem Rechtsstand — **(zu prüfen)** vor verbindlicher
+  Verwendung.

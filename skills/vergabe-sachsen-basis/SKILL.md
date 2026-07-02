@@ -28,8 +28,10 @@ SäHO denselben Grundsatz. Darauf baut die eigentliche Normenhierarchie auf:
    Teil 4 → VgV bzw. VOB/A Abschnitt 2.
 2. **Unterschwelle** (Auftragswert < EU-Schwellenwert): nationale
    Verfahrensordnungen.
-3. **Sächsisches Landesrecht** (SächsVergabeG nebst Anlage): ergänzt und geht dem
-   Bundesrecht unterschwellig vor, soweit es eigene Regelungen trifft.
+3. **Sächsisches Landesrecht** (SächsVergabeG nebst Anlage): ordnet über § 1 Abs. 2
+   die Anwendung von VOL/A und VOB/A Abschnitt 1 überhaupt erst an und geht diesen
+   Vergabeordnungen als förmliches Gesetz vor, soweit es eigene Regelungen trifft
+   (z. B. § 4: Wertgrenze der Freihändigen Vergabe).
 
 **Kernfakt, den dieser Skill jeder Anfrage voranstellt:** In Sachsen gilt
 unterschwellig für Liefer-/Dienstleistungen die **VOL/A**, für Bauleistungen die
@@ -91,8 +93,9 @@ folgende Vorgehensweise:
 
 ## Datenstand & Aktualität
 
-Der Datenstand aller `references/`-Dateien ist **01.07.2026** (siehe Spalte „Stand“
-in den jeweiligen Tabellen). Einzelne Punkte sind dort ausdrücklich als
+Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
+Nachprüfung und Ergänzungen zum **02.07.2026** (siehe Spalte „Stand“ in den
+jeweiligen Tabellen). Einzelne Punkte sind dort ausdrücklich als
 **„(zu prüfen)“** markiert und dürfen nicht ungeprüft als gesichert weitergegeben
 werden – insbesondere die sächsischen Bau-Wertgrenzen und die angekündigte, noch
 nicht in Kraft getretene Novelle des SächsVergabeG (u. a. mögliche UVgO-Einführung,

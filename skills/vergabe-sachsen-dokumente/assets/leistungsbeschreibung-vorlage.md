@@ -9,8 +9,9 @@
 Auftragsgegenstand **eindeutig und erschöpfend** beschreiben, sodass allen Bietern die
 gleichen Voraussetzungen für die Angebotsabgabe geboten werden. Maßgebliche
 Verfahrensordnung je nach Leistungsart und Schwelle: § 121 GWB/§ 31 VgV (oberschwellig
-Liefer-/Dienstleistung), § 7 EU VOB/A (oberschwellig Bau), § 8 VOL/A (unterschwellig
-Liefer-/Dienstleistung, Sachsen), § 7 VOB/A Abschnitt 1 (unterschwellig Bau) — Zutreffendes
+Liefer-/Dienstleistung), § 7 EU VOB/A (oberschwellig Bau), § 7 VOL/A (unterschwellig
+Liefer-/Dienstleistung, Sachsen; § 8 VOL/A regelt die Vergabeunterlagen), § 7 VOB/A
+Abschnitt 1 (unterschwellig Bau) — Zutreffendes
 gegen `references/rechtsquellen.md` und `references/verfahrensarten.md` prüfen.
 
 ---

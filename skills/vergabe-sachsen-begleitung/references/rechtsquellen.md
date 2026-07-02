@@ -8,10 +8,12 @@ Das Vergaberecht für öffentliche Auftraggeber im Freistaat Sachsen ist mehrstu
 aufgebaut: An der Spitze steht das EU-Recht (Vergaberichtlinie 2014/24/EU), das für
 Vergaben **oberhalb** der EU-Schwellenwerte über das GWB (Teil 4) und die VgV bzw. VOB/A
 Abschnitt 2 unmittelbar in deutsches Recht umgesetzt wird. **Unterhalb** der EU-
-Schwellenwerte gilt kein EU-Recht; hier greifen die UVgO bzw. VOB/A Abschnitt 1 als vom
-Bund erarbeitete, von den Ländern eingeführte Verfahrensordnungen sowie – für Sachsen
-zusätzlich und vorrangig zu beachten – das sächsische Landesrecht (SächsVergabeG nebst
-Durchführungsregelungen). Die folgende Tabelle listet die Normen von oben (EU/Bund,
+Schwellenwerte gilt kein EU-Sekundärrecht (bei eindeutigem grenzüberschreitendem
+Interesse sind aber die Binnenmarkt-Grundsätze des EU-Primärrechts — Transparenzgebot,
+Diskriminierungsverbot, Gleichbehandlung — auch unterschwellig zu beachten); hier
+greifen als Verfahrensordnungen die UVgO bzw. VOB/A Abschnitt 1 — **in Sachsen statt
+der UVgO weiterhin die VOL/A** — sowie das vorrangig zu beachtende sächsische
+Landesrecht (SächsVergabeG). Die folgende Tabelle listet die Normen von oben (EU/Bund,
 Oberschwelle) nach unten (sächsisches Landesrecht, Unterschwelle) mit amtlicher
 Fundstelle und dem recherchierten Rechts- bzw. Prüfstand. Kürzel und Bezeichnungen sind
 konsistent mit `glossar.md`; Wertgrenzen selbst stehen in `wertgrenzen-sachsen.md`.
@@ -25,7 +27,7 @@ konsistent mit `glossar.md`; Wertgrenzen selbst stehen in `wertgrenzen-sachsen.m
 | UVgO | Unterschwellenvergabeordnung – Verfahrensordnung für die Vergabe öffentlicher Liefer- und Dienstleistungsaufträge unterhalb der EU-Schwellenwerte; als Verwaltungsvorschrift des Bundes bekannt gemacht und von den meisten Ländern eingeführt. **In Sachsen bislang nicht eingeführt** (Landes-/Kommunalvergaben weiterhin nach VOL/A 2009; UVgO-Einführung erst mit angekündigter SächsVergabeG-Novelle — siehe `wertgrenzen-sachsen.md`). | https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_02022017_IB6261902.htm | 08.02.2017 (berichtigte Fassung; Bekanntmachung BAnz AT 07.02.2017 B1, ber. BAnz AT 08.02.2017 B1) |
 | VOL/A – Abschnitt 1 (Ausgabe 2009) | Vergabe- und Vertragsordnung für Leistungen, Teil A, 1. Abschnitt: nationale Vergabe von Liefer-/Dienstleistungen unterhalb der EU-Schwellenwerte. Bundesweit weitgehend durch die UVgO abgelöst, **in Sachsen aber weiterhin maßgeblich** über den dynamischen Verweis des § 1 Abs. 2 SächsVergabeG (Sachsen hat die UVgO nicht eingeführt). | https://www.vergabevorschriften.de/vol-a/3 | 20.11.2009 (Ausgabe 2009, seither unverändert); in Sachsen anwendbar über § 1 Abs. 2 SächsVergabeG |
 | VOB/A – Abschnitt 1 | Vergabe- und Vertragsordnung für Bauleistungen, Teil A, Abschnitt 1: nationale Vergabe von Bauleistungen unterhalb der EU-Schwellenwerte (weiterhin „Freihändige Vergabe“ statt „Verhandlungsvergabe“); Bekanntmachung – Ausgabe 2019 –. | https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_31012019_BWI781063060120180001604634.htm | 25.09.2023 (letzte Änderungsbekanntmachung BAnz AT 25.09.2023 B4, ursprüngliche Bekanntmachung BAnz AT 19.02.2019 B2) |
-| SächsVergabeG | Gesetz über die Vergabe öffentlicher Aufträge im Freistaat Sachsen (Sächsisches Vergabegesetz) – ergänzt Bundes-/EU-Vergaberecht um sächsische Vorgaben (u. a. Eignungsnachweis, freihändige Vergabe/Verhandlungsvergabe, Vergabebericht, Informations- und Nachprüfungsverfahren unterhalb der EU-Schwellenwerte). | https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 27.04.2019 (rechtsbereinigter Stand; zuletzt geändert durch Art. 2 Abs. 18 des Gesetzes vom 05.04.2019, SächsGVBl. S. 245) |
+| SächsVergabeG | Gesetz über die Vergabe öffentlicher Aufträge im Freistaat Sachsen (Sächsisches Vergabegesetz) – ergänzt Bundes-/EU-Vergaberecht um sächsische Vorgaben (u. a. Eignungsnachweis, Freihändige Vergabe, Vergabebericht, Informations- und Nachprüfungsverfahren unterhalb der EU-Schwellenwerte). | https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 27.04.2019 (rechtsbereinigter Stand; zuletzt geändert durch Art. 2 Abs. 18 des Gesetzes vom 05.04.2019, SächsGVBl. S. 245) |
 | SächsVergabeDVO | Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes – soll das SächsVergabeG konkretisieren (u. a. Wertgrenzen). **Außer Kraft:** Die frühere SächsVergabeDVO (2002/2009) wurde durch **§ 11 SächsVergabeG ausdrücklich außer Kraft gesetzt**; es existiert derzeit **keine geltende SächsVergabeDVO**. Die sächsischen Wertgrenzen stehen unmittelbar im SächsVergabeG selbst (v. a. § 4) — siehe `wertgrenzen-sachsen.md`, `sachsen-spezifika.md`. | https://www.revosax.sachsen.de/vorschrift/3605-Saechsische-Vergabedurchfuehrungsverordnung | 01.07.2026 (Recherche-/Prüfdatum; Rechtsstand der Norm selbst laut REVOSax zuletzt nur bis 13.03.2013 dokumentiert) |
 
 ## Haushaltsrechtliche Grundlage der Vergabepflicht (Sachsen)

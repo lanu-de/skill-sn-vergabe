@@ -49,7 +49,7 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
 | **Freihändige Vergabe** | Liefer-/Dienstleistungen (VOL/A) | bis **25.000 EUR** (netto) | § 4 Abs. 1 Satz 1 SächsVergabeG i. V. m. § 3 Abs. 5 Buchst. i VOL/A: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (SächsVergabeG i. d. F. v. 27.04.2019) |
 | **Beschränkte Ausschreibung ohne Teilnahmewettbewerb** | Liefer-/Dienstleistungen (VOL/A) | Kein fester Euro-Wert im Gesetz; zulässig nach den Tatbeständen des § 3 VOL/A, Obergrenze = EU-Schwelle 216.000 EUR. Ein sächsischer Euro-Grenzwert konnte nicht belegt werden — **fester Wert (zu prüfen)** | § 3 VOL/A (Ausgabe 2009) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 (Prüfstand) |
 | **Beschränkte Ausschreibung mit Teilnahmewettbewerb / Öffentliche Ausschreibung** | Liefer-/Dienstleistungen (VOL/A) | bis zur EU-Schwelle **216.000 EUR** (netto, andere öffentliche Auftraggeber); darüber zwingend EU-weit (Oberschwelle) | EU-Schwelle: `schwellenwerte-eu.md`; § 106 GWB: https://www.gesetze-im-internet.de/gwb/__106.html | 01.07.2026 |
-| **Direktauftrag** | Bau (VOB/A Abschnitt 1) | bis **50.000 EUR** (netto) nach Bundes-VOB/A; Anwendung in Sachsen über den dynamischen Verweis in § 1 Abs. 2 SächsVergabeG. Verhältnis zur Landesregelung § 4 SächsVergabeG amtlich noch nicht gewürdigt — **Anwendbarkeit in Sachsen (zu prüfen)** | § 3a Abs. 4 VOB/A (Fassung 2025), BMWSB-Erlass v. 17.12.2025, BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf ; SächsVergabeG § 1 Abs. 2: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.01.2026 (VOB/A) / 01.07.2026 (Prüfstand Sachsen) |
+| **Direktauftrag** | Bau (VOB/A Abschnitt 1) | bis **50.000 EUR** (netto) nach Bundes-VOB/A; Anwendung in Sachsen über den dynamischen Verweis in § 1 Abs. 2 SächsVergabeG. Verhältnis zur Landesregelung § 4 SächsVergabeG amtlich noch nicht gewürdigt; in der Fachliteratur wird eine „berichtigende“ Auslegung vertreten (Deckelung auf 25.000 EUR über § 4 Abs. 1 SächsVergabeG, da der Direktauftrag sonst über der Grenze der Freihändigen Vergabe läge) — im Zweifel von der niedrigeren Grenze ausgehen, **Anwendbarkeit in Sachsen (zu prüfen)** | § 3a Abs. 4 VOB/A (Fassung 2025), BMWSB-Erlass v. 17.12.2025, BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf ; SächsVergabeG § 1 Abs. 2: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; Fachliteratur zur berichtigenden Auslegung: https://petersenpartners.de/en/news/unterschwellenbauvergaben-neue-vob-a-schwellenwerte-zum-1-januar-2026/ | 01.01.2026 (VOB/A) / 02.07.2026 (Prüfstand Sachsen) |
 | **Freihändige Vergabe** | Bau (VOB/A Abschnitt 1) | **25.000 EUR** (netto) als landesgesetzliche Obergrenze nach § 4 SächsVergabeG; die Bundes-VOB/A § 3a Abs. 3 sieht demgegenüber 100.000 EUR vor. Welcher Wert in Sachsen bindet, ist amtlich ungeklärt — **(zu prüfen)** | § 4 Abs. 1 Satz 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; ggü. § 3a Abs. 3 VOB/A (Fassung 2025), BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf | 01.07.2026 (Prüfstand; Widerspruch Landes-/Bundesrecht) |
 | **Beschränkte Ausschreibung ohne Teilnahmewettbewerb** | Bau (VOB/A Abschnitt 1) | bis **150.000 EUR** (netto) nach Bundes-VOB/A; Anwendung in Sachsen über § 1 Abs. 2 SächsVergabeG | § 3a Abs. 2 VOB/A (Fassung 2025), BMWSB-Erlass v. 17.12.2025, BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf | 01.01.2026 (VOB/A) / 01.07.2026 (Prüfstand Sachsen) |
 | **Beschränkte Ausschreibung mit Teilnahmewettbewerb / Öffentliche Ausschreibung** | Bau (VOB/A Abschnitt 1) | ohne betragsmäßige Obergrenze bis zur EU-Schwelle **5.404.000 EUR** (netto); darüber zwingend EU-weit (Oberschwelle) | § 3a Abs. 1 VOB/A (Fassung 2025): https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf ; EU-Schwelle: `schwellenwerte-eu.md` | 01.07.2026 |
@@ -95,9 +95,9 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   Direktauftrag (§ 3a Abs. 4) **50.000 EUR**, freihändige Vergabe (§ 3a Abs. 3)
   **100.000 EUR**, beschränkte Ausschreibung ohne Teilnahmewettbewerb (§ 3a Abs. 2)
   **150.000 EUR**; die frühere Staffelung nach Gewerken (§ 3a Abs. 2 Nr. 1 a. F.) und die
-  bisherigen befristeten Fußnoten sind entfallen. Über den dynamischen Verweis in § 2
-  SächsVergabeG („in der jeweils geltenden Fassung“) gelten diese Werte grundsätzlich auch
-  in Sachsen.
+  bisherigen befristeten Fußnoten sind entfallen. Über den dynamischen Verweis in § 1
+  Abs. 2 SächsVergabeG („in der jeweils geltenden Fassung“) gelten diese Werte
+  grundsätzlich auch in Sachsen.
 - **Ungeklärter Widerspruch (freihändige Vergabe Bau): 25.000 EUR vs. 100.000 EUR.** § 4
   SächsVergabeG (Landesgesetz) begrenzt die freihändige Vergabe von Bauleistungen auf
   25.000 EUR, während die neue Bundes-VOB/A (§ 3a Abs. 3, nur Verwaltungsvorschrift)
@@ -110,6 +110,12 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   Zweifel gilt die niedrigere landesgesetzliche Grenze. Dasselbe Klärungsbedürfnis besteht
   konsequenterweise für Direktauftrag Bau (50.000 EUR) und die beschränkte Ausschreibung
   (150.000 EUR), auch wenn § 4 SächsVergabeG diese Verfahren nicht ausdrücklich deckelt.
+  Für den Direktauftrag Bau wird in der Fachliteratur eine „berichtigende“ Auslegung des
+  § 3a Abs. 4 VOB/A durch § 4 Abs. 1 SächsVergabeG vorgeschlagen (Direktaufträge in
+  Sachsen nur bis 25.000 EUR netto), weil sonst die Beschaffung ganz ohne Verfahren
+  weiter reichte als die Freihändige Vergabe (Quelle: petersenpartners, Beitrag zu den
+  neuen VOB/A-Schwellenwerten, https://petersenpartners.de/en/news/unterschwellenbauvergaben-neue-vob-a-schwellenwerte-zum-1-januar-2026/
+  — Stand 02.07.2026 geprüft).
 - **Vergabebeschleunigungsgesetz (Bund, in Kraft 01.07.2026) — Wirkung für Sachsen.** Das
   „Gesetz zur Beschleunigung der Vergabe öffentlicher Aufträge“ (BGBl. 2026 I Nr. 137) hebt
   die **Direktauftragsgrenze auf 50.000 EUR** an, verankert diese jedoch in **§ 55 BHO

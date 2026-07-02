@@ -82,6 +82,23 @@ Freihändige-Vergabe-Wertgrenze mit § 4 SächsVergabeG siehe `wertgrenzen-sachs
 | Unterschwelle | Bau | Freihändige Vergabe | Vereinfachtes Verfahren; der Auftraggeber wendet sich an ein oder mehrere ausgewählte Unternehmen. Zulässigkeit: nach Bundes-VOB/A bis 100.000 EUR (netto, § 3a Abs. 3), nach sächsischem Landesrecht jedoch nur bis 25.000 EUR (§ 4 Abs. 1 Satz 2 SächsVergabeG) — Normwiderspruch amtlich ungeklärt; im Zweifel gilt die niedrigere landesgesetzliche Grenze **(zu prüfen)**. | § 3a Abs. 3 VOB/A (Fassung 2025) vs. § 4 Abs. 1 Satz 2 SächsVergabeG: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf ; https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.01.2026 (VOB/A) / 27.04.2019 (SächsVergabeG) / 01.07.2026 geprüft (Widerspruch ungeklärt) |
 | Unterschwelle | Bau | Direktauftrag | Beschaffung ohne förmliches Vergabeverfahren bei sehr geringem Auftragswert, unter Beachtung von Wirtschaftlichkeit/Sparsamkeit; ein Wechsel der beauftragten Unternehmen wird empfohlen. Zulässigkeit: bis 50.000 EUR (netto) nach Bundes-VOB/A; Anwendbarkeit in Sachsen über § 1 Abs. 2 SächsVergabeG plausibel, aber amtlich noch nicht gewürdigt **(zu prüfen)**. | § 3a Abs. 4 VOB/A (Fassung 2025), BMWSB-Erlass v. 17.12.2025, BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf | 01.01.2026 / 01.07.2026 geprüft |
 
+## Unterschwelle — Freiberufliche Leistungen (Sachsen: kein förmliches Verfahren)
+
+Freiberufliche Leistungen sind vergaberechtlich Dienstleistungsaufträge ohne eigenen
+EU-Schwellenwert (§ 103 Abs. 4 GWB — siehe `schwellenwerte-eu.md`). **Oberschwellig**
+gelten die Sonderregeln der §§ 73 ff. VgV (Architekten- und Ingenieurleistungen in der
+Regel im Verhandlungsverfahren mit Teilnahmewettbewerb, § 74 VgV). **Unterschwellig gilt
+in Sachsen ein Sonderweg:** § 1 Abs. 3 SächsVergabeG und § 1 VOL/A nehmen freiberufliche
+Leistungen, deren Aufgabe vorab **nicht eindeutig und erschöpfend beschrieben** werden
+kann, vom förmlichen Vergabeverfahren aus — die VOL/A-Verfahrensarten der Tabelle oben
+gelten für sie **nicht**. Details: `sachsen-spezifika.md`, Abschnitt „Freiberufliche
+Leistungen (Unterschwelle)“.
+
+| Wertbereich | Leistungsart | Verfahrensart | Kurzbeschreibung / Zulässigkeit | Fundstelle | Stand |
+|---|---|---|---|---|---|
+| Oberschwelle | Freiberufliche Leistungen (u. a. Architekten/Ingenieure) | Verhandlungsverfahren mit Teilnahmewettbewerb (Regelfall) | Sonderregeln der §§ 73 ff. VgV; Vergabe in der Regel im Verhandlungsverfahren mit Teilnahmewettbewerb (§ 74 VgV); im Übrigen gelten die allgemeinen VgV-Verfahren (Tabelle oben). | §§ 73, 74 VgV: https://www.gesetze-im-internet.de/vgv_2016/__74.html | 12.05.2026 / 02.07.2026 geprüft |
+| Unterschwelle | Freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist | **Kein förmliches Vergabeverfahren** (weder VOL/A-Verfahren noch SächsVergabeG) | Ausnahme nach § 1 Abs. 3 SächsVergabeG und § 1 VOL/A. Gleichwohl zu beachten: Haushaltsgrundsätze (§§ 7, 55 SäHO), Vergabe im Wettbewerb (mehrere Vergleichsangebote), Dokumentation; bei grenzüberschreitendem Interesse EU-Binnenmarkt-Grundsätze. Freiberufliche Leistungen mit eindeutig beschreibbarem Gegenstand fallen dagegen unter die VOL/A (Tabelle oben). | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 VOL/A: https://www.vergabevorschriften.de/vol-a/1 ; SäHO: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung | 02.07.2026 geprüft |
+
 ## Hinweise zur Tabelle
 
 - **Wahlfreiheit vs. Ausnahmecharakter:** Oberschwellig steht öffentlichen Auftraggebern nach
@@ -112,6 +129,19 @@ Freihändige-Vergabe-Wertgrenze mit § 4 SächsVergabeG siehe `wertgrenzen-sachs
   Digitalisierung (u. a. Wegfall des Vier-Augen-Prinzips bei elektronischen Angeboten). Für
   sächsisches Landesrecht (SächsVergabeG) ergibt sich daraus keine unmittelbare Änderung der
   hier gelisteten Verfahrensarten. Quelle: https://blog.cosinex.de/2026/04/24/vergabebeschleunigung/
+- **Rahmenvereinbarungen sind keine eigene Verfahrensart**, sondern werden im jeweils
+  zulässigen Verfahren geschlossen (§ 21 VgV oberschwellig:
+  https://www.gesetze-im-internet.de/vgv_2016/__21.html ; § 4 VOL/A unterschwellig,
+  Laufzeit in der Regel höchstens vier Jahre — 02.07.2026 geprüft). Für die
+  Ober-/Unterschwellen-Zuordnung zählt der geschätzte Gesamtwert **aller während der
+  Laufzeit geplanten Einzelaufträge** (§ 3 Abs. 4 VgV — siehe `schwellenwerte-eu.md`,
+  Abschnitt „Schätzung des Auftragswerts“).
+- **Aufhebung:** Ein eingeleitetes Verfahren darf nur aus den Gründen des § 63 VgV
+  (oberschwellig: https://www.gesetze-im-internet.de/vgv_2016/__63.html) bzw.
+  § 17 VOB/A / § 17 VOL/A (unterschwellig) sanktionslos aufgehoben werden;
+  Bieter/Bewerber sind unverzüglich zu unterrichten, die Gründe im Vergabevermerk zu
+  dokumentieren. Eine ungerechtfertigte Aufhebung kann Schadensersatzansprüche auslösen
+  (02.07.2026 geprüft).
 - **Verhältnis zu den anderen Referenzdateien:** Kürzel und Begriffserklärungen stehen in
   `glossar.md`; die vollständige Normenhierarchie mit Fundstellen in `rechtsquellen.md`; die
   konkreten Euro-Wertgrenzen (inkl. aller offenen „(zu prüfen)“-Punkte zu Sachsen) in

@@ -58,7 +58,8 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
 
 ## Aktualität
 
-Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder verbindlichen
+Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche Nachprüfung
+und Ergänzungen zum **02.07.2026**. Vor jeder verbindlichen
 Verwendung einer Vorlage die konkreten Beträge, Fristen und Paragrafen in der jeweiligen
 Referenzdatei prüfen und bei Bedarf gegen die amtliche Primärquelle verifizieren
 (`revosax.sachsen.de` für SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als

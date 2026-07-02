@@ -40,12 +40,20 @@ Abschnitt zur Nutzung mit ChatGPT:
 - **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` → `/plugin install vergabe-sachsen@vergabe-sachsen`.
 - **Manuell:** ZIP herunterladen und `skills/` ablegen.
 
-## Rechts-Datenstand
+## Rechts-Datenstand und Methodik
 
-**Geprüft zum:** 01.07.2026 — siehe Spalte „Stand“ in den Referenzdaten unter
-`shared/references/`. Einzelne landesrechtliche Punkte sind als „(zu prüfen)“ markiert
-(v. a. sächsische Bau-Wertgrenzen und die angekündigte SächsVergabeG-Novelle mit
+**Geprüft zum:** 01.07.2026, inhaltliche Nachprüfung und Ergänzungen zum 02.07.2026 —
+siehe Spalte „Stand“ in den Referenzdaten unter `shared/references/`. Einzelne
+landesrechtliche Punkte sind als „(zu prüfen)“ markiert (v. a. sächsische
+Bau-Wertgrenzen und die angekündigte SächsVergabeG-Novelle mit
 Tariftreue/Vergabemindestentgelt).
+
+**Methodik:** Die Referenzdaten wurden mit Unterstützung von Claude (Anthropic,
+Modell Claude Fable 5) recherchiert und gegen die in den Dateien genannten amtlichen
+Primärquellen (REVOSax, gesetze-im-internet.de, Bundesanzeiger, EUR-Lex) sowie
+unabhängige Fachquellen gegengelesen. Jede Angabe trägt Fundstelle und Prüfdatum;
+als „(zu prüfen)“ markierte Punkte sind vor verbindlicher Verwendung durch eine
+fachkundige Person zu verifizieren.
 
 ## Mitwirken
 

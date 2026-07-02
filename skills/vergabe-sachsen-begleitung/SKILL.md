@@ -69,10 +69,19 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
    `references/sachsen-spezifika.md`; Vorlage für das Absageschreiben:
    `vergabe-sachsen-dokumente`.
 
-7. **Zuschlag und Dokumentation** — nach Ablauf der Warte-/Informationsfrist den
-   Zuschlag erteilen, das Zuschlagsschreiben versenden und den Vergabevermerk
+7. **Zuschlag und Dokumentation** — vor dem Zuschlag oberschwellig das
+   **Wettbewerbsregister** für den vorgesehenen Zuschlagsbieter abfragen (§ 6 WRegG;
+   Abfragegrenze: `references/wertgrenzen-sachsen.md`), dann nach Ablauf der
+   Warte-/Informationsfrist den Zuschlag erteilen, das Zuschlagsschreiben versenden,
+   die Meldung an die **Vergabestatistik** (VergStatVO; Meldegrenze:
+   `references/wertgrenzen-sachsen.md`) übermitteln und den Vergabevermerk
    abschließen. Vorlagen: `vergabe-sachsen-dokumente`. Zum Rechtsschutz (Nachprüfung
    ober- und unterschwellig) siehe `references/sachsen-spezifika.md`.
+
+Endet das Verfahren ausnahmsweise **ohne Zuschlag (Aufhebung)**, ist das nur aus den
+Gründen des § 63 VgV bzw. § 17 VOB/A / § 17 VOL/A sanktionslos möglich; Bieter sind
+unverzüglich zu unterrichten, die Gründe im Vergabevermerk zu dokumentieren — siehe
+`references/verfahrensarten.md` (Hinweise) und `references/glossar.md` („Aufhebung“).
 
 ## Checkliste
 
@@ -84,7 +93,8 @@ Sync-Mechanismus überschrieben.
 
 ## Aktualität
 
-Der Datenstand aller `references/`-Dateien ist **01.07.2026**. Vor jeder
+Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
+Nachprüfung und Ergänzungen zum **02.07.2026**. Vor jeder
 verbindlichen Durchführung eines Verfahrens die konkreten Beträge, Fristen und
 Paragrafen in der jeweiligen Referenzdatei prüfen und bei Bedarf gegen die
 amtliche Primärquelle verifizieren (`revosax.sachsen.de` für SächsVergabeG/VOL/A,
