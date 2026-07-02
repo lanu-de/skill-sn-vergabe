@@ -86,7 +86,11 @@ folgende Vorgehensweise:
    nie eine Zahl oder Rechtsaussage ohne Beleg wiedergeben.
 4. Bei verbindlichen Werten (Wertgrenzen, Fristen, Paragrafen) zusätzlich die
    amtliche Primärquelle gegenprüfen bzw. auf sie verweisen: `revosax.sachsen.de`
-   (sächsisches Landesrecht) bzw. `gesetze-im-internet.de` (Bundesrecht).
+   (sächsisches Landesrecht) bzw. `gesetze-im-internet.de` (Bundesrecht). Ergänzend
+   als fachliche Prüfquelle für sächsische Praxis- und Wertgrenzenfragen: die
+   Auftragsberatungsstelle Sachsen (`abstsachsen.de`) — keine Primärquelle,
+   Verbindlichkeit nur aus den amtlichen Quellen (siehe
+   `references/sachsen-spezifika.md`).
 5. Passt die Frage eher zu Verfahrenswahl, Dokumenterstellung oder
    Verfahrensbegleitung, auf den entsprechenden Skill aus dem Wegweiser
    verweisen, statt die Antwort hier im Detail auszuarbeiten.

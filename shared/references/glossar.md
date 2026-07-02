@@ -24,6 +24,7 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
 | SächsVergabeDVO | Sächsische Vergabedurchführungsverordnung – amtlich „Verordnung der Sächsischen Staatsregierung zur Durchführung des Sächsischen Vergabegesetzes“. **Außer Kraft:** durch § 11 SächsVergabeG ausdrücklich aufgehoben; es existiert derzeit keine geltende SächsVergabeDVO. Die sächsischen Wertgrenzen stehen unmittelbar im SächsVergabeG selbst — siehe `wertgrenzen-sachsen.md`, `sachsen-spezifika.md`. |
 | VK | Vergabekammer – Nachprüfungsinstanz für Vergabeverfahren oberhalb der EU-Schwellenwerte (§§ 155 ff. GWB). Für Sachsen zuständig: Vergabekammer des Freistaates Sachsen bei der Landesdirektion Sachsen (Sitz Leipzig). |
 | LDS | Landesdirektion Sachsen – u. a. Sitz der Vergabekammer des Freistaates Sachsen. |
+| ABSt Sachsen | Auftragsberatungsstelle Sachsen e. V. (https://www.abstsachsen.de/) – sächsisches Kompetenzzentrum zum öffentlichen Auftragswesen; Träger sind die sächsischen Handwerkskammern, Industrie- und Handelskammern (Chemnitz, Dresden, Leipzig), die Architekten- und die Ingenieurkammer Sachsen sowie der Freistaat Sachsen (SMWA). Aufgaben: Beratung von Auftraggebern und Unternehmen, Präqualifizierung, Schulungen, Vergabekonferenzen. **Fachliche Prüfquelle, keine Primärquelle** – und nach eigener Angabe keine Rechtsberatung i. S. d. Rechtsdienstleistungsgesetzes. |
 | BGBl. | Bundesgesetzblatt – amtliches Verkündungsblatt des Bundes (Fundstelle u. a. für GWB, VgV). |
 | BAnz | Bundesanzeiger – amtliches Verkündungsblatt des Bundes, u. a. für Verwaltungsvorschriften (Fundstelle u. a. für UVgO, VOB/A, RPW). |
 | SächsGVBl. | Sächsisches Gesetz- und Verordnungsblatt – amtliches Verkündungsblatt des Freistaates Sachsen (Fundstelle u. a. für SächsVergabeG). |
@@ -138,7 +139,9 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   müssen vor Zuschlagserteilung ab einer bestimmten Auftragswertgrenze abfragen, ob für
   den vorgesehenen Zuschlagsbieter Eintragungen (Ausschlussgründe) vorliegen
   (§ 6 WRegG). Aktuelle Abfragegrenze: siehe `wertgrenzen-sachsen.md`
-  (Vergabebeschleunigungsgesetz).
+  (Vergabebeschleunigungsgesetz). Die frühere Abfrage des Gewerbezentralregisters
+  (GZR) durch öffentliche Auftraggeber ist seit dem 01.06.2025 vollständig durch das
+  Wettbewerbsregister abgelöst (vgl. ABSt Sachsen, Meldung vom 02.06.2025).
 - **Vergabestatistik (VergStatVO):** bundesrechtliche Pflicht, vergebene öffentliche
   Aufträge an das Statistische Bundesamt zu melden (Vergabestatistikverordnung);
   unterschwellig erst ab einer Meldegrenze. Aktuelle Meldegrenze: siehe

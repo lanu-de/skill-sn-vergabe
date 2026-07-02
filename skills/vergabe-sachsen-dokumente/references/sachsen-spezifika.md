@@ -249,6 +249,24 @@ Landesplattform ist gleichwohl Praxisstandard.
 | Vergabeplattform des Freistaates Sachsen | zentrale E-Vergabe (AI-Vergabemanager / AI-Vergabeplattform / AI Bietercockpit); Bekanntmachung und Angebotsabgabe elektronisch | https://www.evergabe.sachsen.de/ ; E-Government Sachsen: https://www.egovernment.sachsen.de/e-vergabe.html | 01.07.2026 geprüft |
 | Vergabeplattform SIB (Bau) | Vergabeplattform des Staatsbetriebs Sächsisches Immobilien- und Baumanagement für Bauleistungen | https://sachsen-vergabe.de/NetServer/ | 01.07.2026 geprüft |
 
+## Auftragsberatungsstelle Sachsen (ABSt Sachsen)
+
+Die **Auftragsberatungsstelle Sachsen e. V.** (gegründet 1994) ist das sächsische
+Kompetenzzentrum zu Fragen des öffentlichen Auftragswesens. Träger sind die sächsischen
+Handwerkskammern, die Industrie- und Handelskammern (Chemnitz, Dresden, Leipzig), die
+Architektenkammer Sachsen, die Ingenieurkammer Sachsen sowie der Freistaat Sachsen
+(vertreten durch das SMWA). Aufgaben: Beratung von Vergabestellen und Unternehmen zur
+Vergabe öffentlicher Aufträge, Präqualifizierung, praxisorientierte Schulungen und
+Vergabekonferenzen. **Einordnung für diese Skills:** empfohlene fachliche
+Gegenlese-Quelle für sächsische Wertgrenzen- und Praxisfragen — **keine Primärquelle**;
+nach eigener Angabe erbringt die ABSt keine Rechtsberatung im Sinne des
+Rechtsdienstleistungsgesetzes. Verbindlichkeit ergibt sich ausschließlich aus den
+amtlichen Primärquellen (REVOSax, gesetze-im-internet.de, BAnz, EUR-Lex).
+
+| Rolle | Beschreibung | Fundstelle | Stand |
+|---|---|---|---|
+| Fachliche Prüf-/Beratungsquelle für sächsische Vergabepraxis | Beratung von Auftraggebern und Unternehmen, Präqualifizierung, Schulungen; aktuelle Meldungen zu Wertgrenzen und Rechtsänderungen mit Sachsen-Bezug | ABSt Sachsen: https://www.abstsachsen.de/ (u. a. Rubrik „Aktuelles“) | 02.07.2026 geprüft |
+
 ## Dokumentation: Vergabevermerk vs. Vergabebericht
 
 Zwei ähnlich klingende, aber verschiedene Institute — nicht verwechseln:

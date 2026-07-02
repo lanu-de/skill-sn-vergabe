@@ -68,6 +68,12 @@ verwenden, woraus der **Grundsatz der Öffentlichen Ausschreibung** folgt. Für 
   2024 einen Entwurf zur Neufassung des SächsVergabeG in die Anhörung gegeben; eine
   Verabschiedung war für die zu Ende gehende Wahlperiode nicht vorgesehen. Ob und wann
   eine Neufassung in Kraft tritt, ist zu beobachten und bei Bedarf hier nachzutragen.
+- **Fachliche Prüfquelle (keine Primärquelle):** Ergänzend zu den amtlichen
+  Primärquellen empfiehlt sich für sächsische Praxis- und Wertgrenzenfragen die
+  **Auftragsberatungsstelle Sachsen (ABSt Sachsen)**, das sächsische Kompetenzzentrum
+  zum öffentlichen Auftragswesen: https://www.abstsachsen.de/ (02.07.2026 geprüft;
+  Details in `sachsen-spezifika.md` und `glossar.md`). Verbindlichkeit ergibt sich
+  gleichwohl ausschließlich aus den amtlichen Primärquellen.
 - Reine Begriffserklärungen (Kürzel, Verfahrensarten) stehen in `glossar.md`; konkrete
   Wertgrenzen in `wertgrenzen-sachsen.md`; aktuelle EU-Schwellenwerte in
   `schwellenwerte-eu.md`.

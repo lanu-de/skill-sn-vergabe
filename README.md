@@ -51,7 +51,8 @@ Tariftreue/Vergabemindestentgelt).
 **Methodik:** Die Referenzdaten wurden mit Unterstützung von Claude (Anthropic,
 Modell Claude Fable 5) recherchiert und gegen die in den Dateien genannten amtlichen
 Primärquellen (REVOSax, gesetze-im-internet.de, Bundesanzeiger, EUR-Lex) sowie
-unabhängige Fachquellen gegengelesen. Jede Angabe trägt Fundstelle und Prüfdatum;
+unabhängige Fachquellen — insbesondere die Auftragsberatungsstelle Sachsen
+([abstsachsen.de](https://www.abstsachsen.de/)) — gegengelesen. Jede Angabe trägt Fundstelle und Prüfdatum;
 als „(zu prüfen)“ markierte Punkte sind vor verbindlicher Verwendung durch eine
 fachkundige Person zu verifizieren.
 
