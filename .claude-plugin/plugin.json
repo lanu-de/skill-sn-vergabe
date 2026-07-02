@@ -1,7 +1,7 @@
 {
   "name": "vergabe-sachsen",
   "description": "Vergabe-Skills für öffentliche Auftraggeber im Freistaat Sachsen: Verfahrenswahl, Dokumente, Rechtsauskunft und Verfahrensbegleitung (Ober- und Unterschwelle).",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": { "name": "André Tegge" },
   "homepage": "https://github.com/lanu-de/skill-sn-vergabe",
   "repository": "https://github.com/lanu-de/skill-sn-vergabe",
