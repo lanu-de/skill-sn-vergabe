@@ -1,4 +1,4 @@
-# Mitwirken an sn-vergabe
+# Mitwirken an vergabe-sachsen
 
 ## Grundprinzipien
 

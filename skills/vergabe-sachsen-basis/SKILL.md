@@ -1,9 +1,9 @@
 ---
-name: sn-vergabe-basis
-description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other sn-vergabe skills.
+name: vergabe-sachsen-basis
+description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills.
 ---
 
-# sn-vergabe – Basis
+# vergabe-sachsen – Basis
 
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
@@ -15,7 +15,7 @@ description: Use when a public-sector contracting authority in the German Free S
 Dieser Skill ist der **Einstiegspunkt** für öffentliche Auftraggeber im Freistaat
 Sachsen (Kommunen, Behörden, öffentliche Einrichtungen), die eine allgemeine oder
 einführende Frage zum Vergaberecht haben: Begriffe, geltende Regelwerke, die
-Normenhierarchie – oder einen Wegweiser zu den drei anderen `sn-vergabe`-Skills
+Normenhierarchie – oder einen Wegweiser zu den drei anderen `vergabe-sachsen`-Skills
 benötigen.
 
 Die Vergabepflicht sächsischer Auftraggeber wurzelt **nicht erst im Vergaberecht,
@@ -52,15 +52,15 @@ Wo genau das steht und mit welcher amtlichen Fundstelle:
 
 ## Wegweiser
 
-Für konkrete Anliegen leitet dieser Skill an die zuständigen `sn-vergabe`-Skills
+Für konkrete Anliegen leitet dieser Skill an die zuständigen `vergabe-sachsen`-Skills
 weiter:
 
 | Anliegen | zuständiger Skill |
 |---|---|
-| Welche Verfahrensart passt zu Auftragswert und Leistungsart? | `sn-vergabe-verfahrenswahl` |
-| Ein Vergabedokument erstellen (Vergabevermerk, Leistungsbeschreibung, Schreiben u. a.) | `sn-vergabe-dokumente` |
-| Ein konkretes Vergabeverfahren Schritt für Schritt durchführen | `sn-vergabe-begleitung` |
-| Allgemeine/einführende Rechtsfrage, Begriffsklärung, „wo steht das?“ | dieser Skill (`sn-vergabe-basis`) |
+| Welche Verfahrensart passt zu Auftragswert und Leistungsart? | `vergabe-sachsen-verfahrenswahl` |
+| Ein Vergabedokument erstellen (Vergabevermerk, Leistungsbeschreibung, Schreiben u. a.) | `vergabe-sachsen-dokumente` |
+| Ein konkretes Vergabeverfahren Schritt für Schritt durchführen | `vergabe-sachsen-begleitung` |
+| Allgemeine/einführende Rechtsfrage, Begriffsklärung, „wo steht das?“ | dieser Skill (`vergabe-sachsen-basis`) |
 
 ## Rechtsfragen beantworten
 

@@ -24,7 +24,7 @@ beachten:
    Unterschwellenvergabeordnung (UVgO) für die eigenen Landes-/Kommunalvergaben **noch nicht
    eingeführt** hat; die Einführung soll erst mit der (angekündigten) Novelle des
    SächsVergabeG erfolgen. Rechtsgrundlage ist § 1 Abs. 2 SächsVergabeG, der die VOL/A „in der
-   jeweils geltenden Fassung“ für anwendbar erklärt. Die im Auftrag/Brief genannte Norm
+   jeweils geltenden Fassung“ für anwendbar erklärt. Die Norm
    „§ 14 UVgO“ bindet eine sächsische Vergabestelle für ihre Landesvergaben daher **derzeit
    nicht** unmittelbar (sie ist nur in der Bundesauftragsverwaltung einschlägig) — sie ist
    unten nur nachrichtlich aufgeführt.
@@ -78,13 +78,10 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   Liefer-/Dienstleistungsvergaben weiterhin die **VOL/A (1. Abschnitt, Ausgabe 2009)**, nicht
   die UVgO (bestätigt u. a. durch die Übersicht des B_I MEDIEN „Stand der Einführung der
   UVgO“ sowie den Fachbeitrag bi-medien.de, Stand 06.05.2026: „Die Einführung der UVgO soll
-  in Sachsen durch die Novellierung des Sächsischen Vergabegesetzes in Kraft treten“). Der
-  im Brief genannte **§ 14 UVgO (Direktauftrag)** ist daher für sächsische Landes-/
-  Kommunalvergaben **derzeit nicht** einschlägig; er ist nur nachrichtlich aufgeführt (er
-  gilt in Sachsen allenfalls in der Bundesauftragsverwaltung). **Achtung, Konsistenz:**
-  `glossar.md`/`rechtsquellen.md` formulieren, die UVgO sei „von den Ländern (auch Sachsen)
-  … eingeführt“ worden; das trifft für die sächsischen **Landes**vergaben nach hiesiger
-  Recherche **nicht** zu und sollte dort bei Gelegenheit präzisiert werden.
+  in Sachsen durch die Novellierung des Sächsischen Vergabegesetzes in Kraft treten“).
+  **§ 14 UVgO (Direktauftrag)** ist daher für sächsische Landes-/Kommunalvergaben
+  **derzeit nicht** einschlägig; er ist nur nachrichtlich aufgeführt (er gilt in Sachsen
+  allenfalls in der Bundesauftragsverwaltung).
 - **VOL/A-Wertgrenzen für Liefer-/Dienstleistungen:** Direktkauf nach § 3 Abs. 6 VOL/A
   (Ausgabe 2009) = **500 EUR** (bei UVgO-Anwendung wären es 1.000 EUR nach § 14 UVgO);
   freihändige Vergabe = **25.000 EUR** (§ 4 SächsVergabeG). Die von der Praxisdatenbank

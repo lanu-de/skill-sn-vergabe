@@ -32,8 +32,8 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
 
 - **Oberschwelle / Unterschwelle:** Wertbereiche, die durch die EU-Schwellenwerte
   (§ 106 GWB) getrennt werden. Oberhalb gilt EU-weites Vergaberecht (GWB Teil 4, VgV,
-  VOB/A Abschnitt 2); unterhalb gilt nationales/sächsisches Recht (UVgO, VOB/A
-  Abschnitt 1, SächsVergabeG).
+  VOB/A Abschnitt 2); unterhalb gilt nationales/sächsisches Recht (in Sachsen VOL/A
+  statt UVgO — siehe Kürzel-Tabelle —, VOB/A Abschnitt 1, SächsVergabeG).
 - **Schwellenwert:** der in § 106 GWB in Bezug genommene, durch EU-Recht turnusmäßig
   (alle zwei Jahre) angepasste Auftragswert, ab dem ein Auftrag zwingend oberschwellig
   (EU-weit) zu vergeben ist. Aktuelle Werte: siehe `schwellenwerte-eu.md`.

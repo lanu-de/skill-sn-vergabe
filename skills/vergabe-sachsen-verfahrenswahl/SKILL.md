@@ -1,9 +1,9 @@
 ---
-name: sn-vergabe-verfahrenswahl
+name: vergabe-sachsen-verfahrenswahl
 description: Use when a contracting authority in Saxony must determine which procurement procedure (Verfahrensart) is admissible for a specific need — driven by the estimated contract value, the type of service (Liefer-/Dienstleistung, Bau, freiberuflich), and the applicable thresholds (EU-Schwellenwerte, sächsische Wertgrenzen).
 ---
 
-# sn-vergabe – Verfahrenswahl
+# vergabe-sachsen – Verfahrenswahl
 
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
@@ -19,9 +19,9 @@ den daraus folgenden Wertgrenzen – und wird in den fünf nummerierten Schritte
 hergeleitet, jeweils mit Verweis auf die maßgebliche Referenzdatei.
 
 Für Begriffsklärungen und die vergaberechtliche Normenhierarchie insgesamt siehe
-`sn-vergabe-basis`. Steht die Verfahrensart fest, hilft `sn-vergabe-dokumente` bei der
+`vergabe-sachsen-basis`. Steht die Verfahrensart fest, hilft `vergabe-sachsen-dokumente` bei der
 Erstellung der zugehörigen Vergabeunterlagen (u. a. Vergabevermerk, Leistungsbeschreibung)
-und `sn-vergabe-begleitung` bei der schrittweisen Durchführung des gewählten Verfahrens.
+und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewählten Verfahrens.
 
 ## Entscheidungsschritte
 
@@ -64,7 +64,7 @@ und `sn-vergabe-begleitung` bei der schrittweisen Durchführung des gewählten V
   „Verhandlungsvergabe“** (das ist UVgO-Terminologie) – die entsprechende VOL/A-Verfahrensart
   heißt „**Freihändige Vergabe**“. Ein Agent, der aus allgemeinem Wissen heraus für einen
   sächsischen Fall auf „UVgO-Verhandlungsvergabe“ schließt, liegt falsch. Hintergrund:
-  `sn-vergabe-basis`.
+  `vergabe-sachsen-basis`.
 - **Genuin sächsischer Wert: Freihändige Vergabe nach § 4 SächsVergabeG.** Sowohl für
   Liefer-/Dienstleistungen (i. V. m. § 3 Abs. 5 Buchst. i VOL/A) als auch für Bauleistungen
   (i. V. m. § 3 Abs. 5 VOB/A) legt § 4 SächsVergabeG eine eigene, landesrechtliche

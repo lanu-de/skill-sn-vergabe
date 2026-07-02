@@ -1,9 +1,9 @@
 ---
-name: sn-vergabe-dokumente
+name: vergabe-sachsen-dokumente
 description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template.
 ---
 
-# sn-vergabe – Dokumente
+# vergabe-sachsen – Dokumente
 
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
@@ -14,11 +14,11 @@ description: Use when a contracting authority in Saxony needs to create or draft
 
 Dieser Skill liefert **ausfüllbare Vorlagen** für die wiederkehrenden Dokumente eines
 Vergabeverfahrens einer sächsischen Vergabestelle. Er setzt voraus, dass die Verfahrensart
-bereits feststeht (siehe `sn-vergabe-verfahrenswahl`) bzw. eine allgemeine Rechtsfrage
-bereits mit `sn-vergabe-basis` geklärt wurde, dessen Wegweiser für das Anliegen „Ein
+bereits feststeht (siehe `vergabe-sachsen-verfahrenswahl`) bzw. eine allgemeine Rechtsfrage
+bereits mit `vergabe-sachsen-basis` geklärt wurde, dessen Wegweiser für das Anliegen „Ein
 Vergabedokument erstellen“ hierher verweist. Für die schrittweise Durchführung eines
 konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschritt) siehe
-`sn-vergabe-begleitung`.
+`vergabe-sachsen-begleitung`.
 
 ## Verfügbare Vorlagen
 
@@ -32,7 +32,7 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
 ## Nutzung
 
 1. **Vorlage auswählen** anhand des Verfahrensschritts (Tabelle oben). Steht die
-   Verfahrensart selbst noch nicht fest, zunächst `sn-vergabe-verfahrenswahl` konsultieren.
+   Verfahrensart selbst noch nicht fest, zunächst `vergabe-sachsen-verfahrenswahl` konsultieren.
 2. **Alle mit `[…]` markierten Platzhalter** durch die Angaben des konkreten Vergabefalls
    ersetzen (Auftraggeber, Aktenzeichen, Datum, Bieter, Auftragswert, Angebotssumme,
    Zuschlags-/Ablehnungsgründe u. Ä.). Kein Platzhalter darf unausgefüllt bleiben.

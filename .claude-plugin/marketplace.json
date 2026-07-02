@@ -1,9 +1,10 @@
 {
-  "name": "sn-vergabe",
-  "owner": { "name": "LANU Sachsen", "email": "andre.tegge@lanu.sachsen.de" },
+  "name": "vergabe-sachsen",
+  "description": "Vergabe-Skills für öffentliche Auftraggeber im Freistaat Sachsen: Verfahrenswahl, Dokumente, Rechtsauskunft und Verfahrensbegleitung.",
+  "owner": { "name": "LaNU Sachsen", "email": "andre.tegge@lanu.sachsen.de", "url": "https://www.lanu.de" },
   "plugins": [
     {
-      "name": "sn-vergabe",
+      "name": "vergabe-sachsen",
       "source": ".",
       "description": "Vergabe-Skills für öffentliche Auftraggeber im Freistaat Sachsen (Basis, Verfahrenswahl, Dokumente, Begleitung)."
     }

@@ -20,14 +20,14 @@
 ☐ Auftragswert (netto, ohne USt.) geschätzt: [Betrag] EUR — inkl. Prüfung auf
   Losvergabe/Gesamtwert mehrerer Lose (`references/glossar.md`)
 ☐ Haushaltsrechtliche Grundlage (Wirtschaftlichkeit/Sparsamkeit, Ausschreibungspflicht)
-  beachtet (siehe `sn-vergabe-basis`)
+  beachtet (siehe `vergabe-sachsen-basis`)
 ☐ Ober- oder Unterschwelle bestimmt anhand `references/schwellenwerte-eu.md`:
   ☐ Oberschwelle ☐ Unterschwelle
 
 ## Phase 2 — Verfahrenswahl
 
 ☐ Zulässige Verfahrensart ermittelt (Entscheidungsbaum: Skill
-  `sn-vergabe-verfahrenswahl`; Übersicht: `references/verfahrensarten.md`)
+  `vergabe-sachsen-verfahrenswahl`; Übersicht: `references/verfahrensarten.md`)
 ☐ Bei Ausnahmeverfahren (z. B. Freihändige Vergabe, Verhandlungsverfahren ohne
   Teilnahmewettbewerb): einschlägiger Ausnahmetatbestand konkret benannt und mit
   Norm belegt (`references/wertgrenzen-sachsen.md`)
@@ -35,12 +35,12 @@
 
 ## Phase 3 — Vergabeunterlagen/Dokumente
 
-☐ Leistungsbeschreibung erstellt (Vorlage: Skill `sn-vergabe-dokumente` →
+☐ Leistungsbeschreibung erstellt (Vorlage: Skill `vergabe-sachsen-dokumente` →
   `assets/leistungsbeschreibung-vorlage.md`)
 ☐ Eignungs- und Zuschlagskriterien festgelegt (in Sachsen grundsätzlich
   Eigenerklärungen, § 3 SächsVergabeG; PQ-Bau-/PQ-VOL-Eintragung beachten)
 ☐ Vergabevermerk angelegt und wird fortlaufend geführt (Vorlage: Skill
-  `sn-vergabe-dokumente` → `assets/vergabevermerk-vorlage.md`; Rechtsgrundlage:
+  `vergabe-sachsen-dokumente` → `assets/vergabevermerk-vorlage.md`; Rechtsgrundlage:
   `references/sachsen-spezifika.md`)
 ☐ Bekanntmachungstext vorbereitet
 
@@ -76,7 +76,7 @@
   Dienstleistungen unterscheiden (konkrete Beträge: `references/sachsen-spezifika.md`,
   Datenstand 01.07.2026 — vor Nutzung prüfen)
 ☐ Vorabinformation an nicht berücksichtigte Bieter versandt (Vorlage: Skill
-  `sn-vergabe-dokumente` → `assets/absageschreiben-vorlage.md`) — Datum: [Datum]
+  `vergabe-sachsen-dokumente` → `assets/absageschreiben-vorlage.md`) — Datum: [Datum]
 ☐ Warte-/Informationsfrist abgelaufen, ohne dass der Auftraggeber bzw. die
   Nachprüfungsbehörde eine Beanstandung erhalten hat (Fristdauer:
   `references/sachsen-spezifika.md`, Datenstand 01.07.2026 — vor Nutzung prüfen) —
@@ -85,7 +85,7 @@
 ## Phase 7 — Zuschlag und Dokumentation
 
 ☐ Zuschlag erteilt — Datum: [Datum]
-☐ Zuschlagsschreiben versandt (Vorlage: Skill `sn-vergabe-dokumente` →
+☐ Zuschlagsschreiben versandt (Vorlage: Skill `vergabe-sachsen-dokumente` →
   `assets/zuschlagsschreiben-vorlage.md`)
 ☐ Vergabevermerk abgeschlossen und archiviert
 ☐ Bei Rüge/Nachprüfungsantrag: zuständige Stelle geprüft (Vergabekammer des

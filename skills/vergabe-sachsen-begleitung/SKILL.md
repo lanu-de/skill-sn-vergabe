@@ -1,9 +1,9 @@
 ---
-name: sn-vergabe-begleitung
+name: vergabe-sachsen-begleitung
 description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties.
 ---
 
-# sn-vergabe – Begleitung
+# vergabe-sachsen – Begleitung
 
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
@@ -14,11 +14,11 @@ description: Use when a contracting authority in Saxony is carrying out a comple
 
 Dieser Skill begleitet ein **konkretes Vergabeverfahren einer sächsischen
 Vergabestelle Schritt für Schritt** — von der Bedarfsermittlung bis zum Zuschlag
-und dessen Dokumentation. Er führt die übrigen `sn-vergabe`-Skills entlang des
+und dessen Dokumentation. Er führt die übrigen `vergabe-sachsen`-Skills entlang des
 Verfahrensablaufs zusammen: Für die Wahl der Verfahrensart verweist er auf
-`sn-vergabe-verfahrenswahl`, für die Erstellung der Vergabeunterlagen auf
-`sn-vergabe-dokumente`; für allgemeine Begriffs- und Rechtsfragen siehe
-`sn-vergabe-basis`.
+`vergabe-sachsen-verfahrenswahl`, für die Erstellung der Vergabeunterlagen auf
+`vergabe-sachsen-dokumente`; für allgemeine Begriffs- und Rechtsfragen siehe
+`vergabe-sachsen-basis`.
 
 Die sieben Phasen unten bilden den **typischen Ablauf eines Vergabeverfahrens** ab
 (Ober- wie Unterschwelle); je Phase wird auf die maßgebliche Referenzdatei und –
@@ -36,13 +36,13 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
 
 2. **Verfahrenswahl** — anhand von Wertbereich und Leistungsart die zulässige
    Verfahrensart ermitteln. Die vollständige Herleitung mit Entscheidungsbaum
-   liefert der Skill `sn-vergabe-verfahrenswahl`; die Verfahrensarten-Übersicht
+   liefert der Skill `vergabe-sachsen-verfahrenswahl`; die Verfahrensarten-Übersicht
    selbst steht in `references/verfahrensarten.md`.
 
 3. **Vergabeunterlagen/Dokumente** — Leistungsbeschreibung, Eignungs- und
    Zuschlagskriterien sowie den (fortlaufend zu führenden) Vergabevermerk anlegen
    und den Bekanntmachungstext vorbereiten. Ausfüllbare Vorlagen liefert der Skill
-   `sn-vergabe-dokumente`; die zugrunde liegende Dokumentationspflicht (§ 8 VgV/§ 20
+   `vergabe-sachsen-dokumente`; die zugrunde liegende Dokumentationspflicht (§ 8 VgV/§ 20
    EU VOB/A oberschwellig bzw. § 20 VOB/A/§ 20 VOL/A unterschwellig; ergänzend § 5
    Abs. 1 SächsVergabeG i. V. m. Anlage 1) steht in
    `references/sachsen-spezifika.md` und `references/rechtsquellen.md`.
@@ -59,7 +59,7 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
    Preisangemessenheit/Auskömmlichkeit, (4) Wirtschaftlichkeitsbewertung und
    Zuschlagsentscheidung. Die konkrete Aufgreifschwelle für Zweifel an der
    Preisangemessenheit steht in `references/sachsen-spezifika.md`; Vordruck zur
-   Dokumentation der Wertung: Vergabevermerk-Vorlage in `sn-vergabe-dokumente`.
+   Dokumentation der Wertung: Vergabevermerk-Vorlage in `vergabe-sachsen-dokumente`.
 
 6. **Vorabinformation vor Zuschlag** — nicht berücksichtigte Bieter informieren,
    bevor der Vertrag geschlossen wird: unterschwellig **§ 8 SächsVergabeG**
@@ -67,11 +67,11 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
    nach Auftragswert), oberschwellig **§ 134 GWB** (Warte-/Stillhaltefrist). Die
    konkreten Fristen und Aufgreifschwellen stehen in
    `references/sachsen-spezifika.md`; Vorlage für das Absageschreiben:
-   `sn-vergabe-dokumente`.
+   `vergabe-sachsen-dokumente`.
 
 7. **Zuschlag und Dokumentation** — nach Ablauf der Warte-/Informationsfrist den
    Zuschlag erteilen, das Zuschlagsschreiben versenden und den Vergabevermerk
-   abschließen. Vorlagen: `sn-vergabe-dokumente`. Zum Rechtsschutz (Nachprüfung
+   abschließen. Vorlagen: `vergabe-sachsen-dokumente`. Zum Rechtsschutz (Nachprüfung
    ober- und unterschwellig) siehe `references/sachsen-spezifika.md`.
 
 ## Checkliste
