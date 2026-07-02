@@ -12,7 +12,9 @@ Schritt durchführen.
 
 ## Zielgruppe
 
-Vergabestellen von Kommunen, Behörden und öffentlichen Einrichtungen in Sachsen.
+Alle, die im Freistaat Sachsen öffentliche Aufträge vergeben — ob in der Kommune, der
+Landesbehörde, im Zweckverband oder einer anderen öffentlichen Einrichtung, mit oder
+ohne eigene Vergabestelle.
 
 ## Umfang
 
