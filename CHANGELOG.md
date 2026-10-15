@@ -23,6 +23,10 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 - Disclaimer erweitert (README, INSTALLATION, alle Skills): kein Anspruch auf
   Vollständigkeit; die Verantwortung für die (rechtliche) Richtigkeit und die Verwendung
   der Ergebnisse liegt beim Nutzer, nicht bei den Skills.
+- Hinweispflicht in allen Skills: Bei Empfehlung einer Verfahrensart, Nennung von
+  Wertgrenzen/Fristen/Fundstellen als Entscheidungsgrundlage oder Erstellung eines Dokuments
+  endet die Antwort mit einem festen Hinweissatz zur Eigenverantwortung. Der Vergabevermerk
+  erhält eine Entwurfs-Schlusszeile; Schreiben an Bieter bleiben ohne Hinweis.
 
 ### Geändert
 - **INSTALLATION.md neu**: Wegweiser je Programm — claude.ai/Desktop (Plugin-Marketplace

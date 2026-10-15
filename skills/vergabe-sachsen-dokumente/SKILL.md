@@ -12,6 +12,27 @@ description: Use when a contracting authority in Saxony needs to create or draft
 > Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
 > Ergebnisse liegt beim Nutzer, nicht beim Skill.** Alle Angaben ohne Gewähr.
 
+## Hinweis an den Nutzer (verbindlich)
+
+Schließe deine Antwort mit dem folgenden Satz ab (wörtlich), sobald du
+
+- eine konkrete Verfahrensart empfiehlst,
+- eine Wertgrenze, Frist oder Fundstelle als Grundlage für eine Entscheidung nennst oder
+- ein Vergabedokument erstellst oder ausfüllst:
+
+> *Hinweis: Orientierungshilfe ohne Anspruch auf Vollständigkeit. Die Verantwortung für die
+> rechtliche Richtigkeit und die Verwendung des Ergebnisses liegt bei Ihnen; maßgeblich sind
+> die genannten Primärquellen.*
+
+Bei reinen Begriffsklärungen oder allgemeinen Erläuterungen ohne Entscheidungsbezug entfällt
+der Satz.
+
+**Im Dokument selbst:** Schreiben und Unterlagen, die an Bieter oder Dritte gehen
+(Absageschreiben, Zuschlagsschreiben, Leistungsbeschreibung), erhalten den Hinweis **nicht** —
+er steht nur in deiner Antwort. Nur der **Vergabevermerk** (internes Dokument) erhält als letzte
+Zeile: *„Entwurf erstellt mit Unterstützung der Arbeitshilfe vergabe-sachsen; die rechtliche
+Prüfung obliegt dem Bearbeiter.“*
+
 ## Überblick
 
 Dieser Skill liefert **ausfüllbare Vorlagen** für die wiederkehrenden Dokumente eines
