@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-dokumente
-description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template.
+description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template. German keywords: Vergabevermerk, Leistungsbeschreibung, Vorlage, Absageschreiben, Zuschlagsschreiben, Bekanntmachung.
 ---
 
 # vergabe-sachsen – Dokumente
@@ -8,7 +8,30 @@ description: Use when a contracting authority in Saxony needs to create or draft
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
 > Primärquellen (Gesetze, Verordnungen, Verwaltungsvorschriften) und ggf. einer
-> juristischen Beratung im Einzelfall. Alle Angaben ohne Gewähr.
+> juristischen Beratung im Einzelfall. **Ein Anspruch auf Vollständigkeit besteht nicht.
+> Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
+> Ergebnisse liegt beim Nutzer, nicht beim Skill.** Alle Angaben ohne Gewähr.
+
+## Hinweis an den Nutzer (verbindlich)
+
+Schließe deine Antwort mit dem folgenden Satz ab (wörtlich), sobald du
+
+- eine konkrete Verfahrensart empfiehlst,
+- eine Wertgrenze, Frist oder Fundstelle als Grundlage für eine Entscheidung nennst oder
+- ein Vergabedokument erstellst oder ausfüllst:
+
+> *Hinweis: Orientierungshilfe ohne Anspruch auf Vollständigkeit. Die Verantwortung für die
+> rechtliche Richtigkeit und die Verwendung des Ergebnisses liegt bei Ihnen; maßgeblich sind
+> die genannten Primärquellen.*
+
+Bei reinen Begriffsklärungen oder allgemeinen Erläuterungen ohne Entscheidungsbezug entfällt
+der Satz.
+
+**Im Dokument selbst:** Schreiben und Unterlagen, die an Bieter oder Dritte gehen
+(Absageschreiben, Zuschlagsschreiben, Leistungsbeschreibung), erhalten den Hinweis **nicht** —
+er steht nur in deiner Antwort. Nur der **Vergabevermerk** (internes Dokument) erhält als letzte
+Zeile: *„Entwurf erstellt mit Unterstützung der Arbeitshilfe vergabe-sachsen; die rechtliche
+Prüfung obliegt dem Bearbeiter.“*
 
 ## Überblick
 
@@ -59,7 +82,7 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
 ## Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche Nachprüfung
-und Ergänzungen zum **02.07.2026**. Vor jeder verbindlichen
+und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**. Vor jeder verbindlichen
 Verwendung einer Vorlage die konkreten Beträge, Fristen und Paragrafen in der jeweiligen
 Referenzdatei prüfen und bei Bedarf gegen die amtliche Primärquelle verifizieren
 (`revosax.sachsen.de` für SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als

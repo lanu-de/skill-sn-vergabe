@@ -1,8 +1,8 @@
-name: Skill-Zips bei Release
+name: Skill-Pakete bei Release
 
-# Baut bei jedem veröffentlichten GitHub-Release je Skill-Ordner ein Zip
-# (Wurzel = Skill-Ordner mit SKILL.md, passend für den Upload auf claude.ai)
-# und hängt die Zips als Download-Dateien an die Release-Seite an.
+# Baut bei jedem veröffentlichten GitHub-Release je Skill eine .skill- und eine .zip-Datei
+# (Wurzel = Skill-Ordner mit SKILL.md, passend für den Upload auf claude.ai/ChatGPT) sowie
+# das Sammel-Zip aller Skills und hängt sie als Download-Dateien an die Release-Seite an.
 
 on:
   release:
@@ -15,7 +15,7 @@ jobs:
   zips:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Release-Tag gegen Plugin-Version prüfen
         run: |
@@ -27,16 +27,21 @@ jobs:
           fi
           echo "Tag $tag passt zur Plugin-Version $version."
 
-      - name: Skill-Zips bauen
+      - name: Referenzkopien aktuell?
         run: |
-          mkdir -p dist
-          for skill in skills/*/; do
-            name=$(basename "$skill")
-            (cd skills && zip -r "../dist/${name}.zip" "$name")
-          done
+          python3 scripts/sync_shared.py sync
+          if [ -n "$(git status --porcelain)" ]; then
+            git status --porcelain
+            echo "::error::skills/*/references/ weicht von shared/references/ ab — Release-Stand ist nicht synchronisiert."
+            exit 1
+          fi
+
+      - name: Skill-Pakete bauen
+        run: |
+          python3 scripts/build_packages.py --out dist
           ls -l dist
 
-      - name: Zips an das Release anhängen
+      - name: Pakete an das Release anhängen
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release upload "${{ github.event.release.tag_name }}" dist/*.zip --clobber
+        run: gh release upload "${{ github.event.release.tag_name }}" dist/*.zip dist/*.skill --clobber

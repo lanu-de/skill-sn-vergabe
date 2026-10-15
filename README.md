@@ -8,7 +8,9 @@ Schritt durchführen.
 > ⚠️ **Disclaimer:** Diese Skills bieten **Orientierung und ersetzen keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
 > Primärquellen (Gesetze, Verordnungen, Verwaltungsvorschriften) und ggf. einer
-> juristischen Beratung im Einzelfall. Alle Angaben ohne Gewähr.
+> juristischen Beratung im Einzelfall. **Ein Anspruch auf Vollständigkeit besteht nicht.
+> Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
+> Ergebnisse liegt beim Nutzer, nicht bei den Skills.** Alle Angaben ohne Gewähr.
 
 ## Zielgruppe
 
@@ -34,15 +36,21 @@ ohne eigene Vergabestelle.
 
 ## Installation
 
-Drei Wege für Claude — ausführlich in [INSTALLATION.md](INSTALLATION.md), dort auch ein
-Abschnitt zur Nutzung mit ChatGPT:
-- **Claude Desktop:** `skills/`-Ordner nach `~/.claude/skills/` kopieren.
-- **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` → `/plugin install vergabe-sachsen@vergabe-sachsen`.
-- **Manuell:** ZIP herunterladen und `skills/` ablegen.
+Kurzfassung — Schritt für Schritt und für weitere Programme in
+[INSTALLATION.md](INSTALLATION.md):
+
+- **claude.ai / Claude Desktop:** Customize → Plugins → Add marketplace →
+  `lanu-de/skill-sn-vergabe`; alternativ die `.skill`-Dateien von der
+  [Release-Seite](https://github.com/lanu-de/skill-sn-vergabe/releases/latest) unter
+  Customize → Skills hochladen.
+- **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` →
+  `/plugin install vergabe-sachsen@vergabe-sachsen`.
+- **GitHub Copilot, Codex, Cursor, Gemini CLI u. a.:** `npx skills add lanu-de/skill-sn-vergabe`.
+- **ChatGPT:** Skills-Upload bzw. Nachbau als Projekt.
 
 ## Rechts-Datenstand und Methodik
 
-**Geprüft zum:** 01.07.2026, inhaltliche Nachprüfung und Ergänzungen zum 02.07.2026 —
+**Geprüft zum:** 01.07.2026, inhaltliche Nachprüfung und Ergänzungen zum 02.07.2026, Korrekturen zum 15.10.2026 —
 siehe Spalte „Stand“ in den Referenzdaten unter `shared/references/`. Einzelne
 landesrechtliche Punkte sind als „(zu prüfen)“ markiert (v. a. sächsische
 Bau-Wertgrenzen und die angekündigte SächsVergabeG-Novelle mit

@@ -45,7 +45,7 @@ ist die aktuelle GWB-Nummerierung heranzuziehen.
 | § 1 | **Sachlicher Anwendungsbereich** — öffentliche Aufträge unterhalb der EU-Schwellenwerte; dynamischer Verweis auf VOL/A (2009) und VOB/A (Abschnitt 1); Ausnahmen (u. a. bestimmte freiberufliche Leistungen ohne erschöpfend beschreibbaren Gegenstand) | § 1 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 2 | **Persönlicher Anwendungsbereich** — staatliche und kommunale Auftraggeber, sonstige Körperschaften/Anstalten/Stiftungen des öffentlichen Rechts (Bindung an § 55 SäHO), Zuwendungsempfänger; kommunale Auftraggeber = Gemeinden, Landkreise, Verwaltungsverbände, Zweckverbände | § 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 3 | **Nachweis der Eignung** — nur auftragsgerechtfertigte Nachweise; **grundsätzlich Eigenerklärungen**; bei Eintragung in PQ-Bau oder PQ-VOL gelten die Eignungskriterien als erfüllt | § 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
-| § 4 | **Freihändige Vergabe** — Höchstwert 25.000 EUR (Liefer-/Dienstleistungen nach § 3 Abs. 5 Buchst. i VOL/A) bzw. bis 25.000 EUR (Bau nach § 3 Abs. 5 VOB/A); Sonderfall preisgebundene Schulbücher | § 4 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
+| § 4 | **Freihändige Vergabe** — Höchstwert 25.000 EUR (Liefer-/Dienstleistungen nach § 3 Abs. 5 Buchst. i VOL/A) bzw. bis 25.000 EUR (Bau; das Gesetz verweist noch auf § 3 Abs. 5 VOB/A, heute § 3a Abs. 3 VOB/A — laut REVOSax-Redaktionshinweis „bedarf daher der Aktualisierung durch den Gesetzgeber“); Sonderfall preisgebundene Schulbücher | § 4 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 5 | **Prüfung und Wertung der Angebote** — vierstufiges Prüfschema (Anlage 1); Zuschlag auf das wirtschaftlichste Angebot; Preis zweifelhaft bei Abweichung > 10 % vom nächsthöheren/-niedrigeren Angebot | § 5 SächsVergabeG i. V. m. Anlage 1: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 6 | **Weitergabe von Leistungen** — Leistungen grundsätzlich im eigenen Betrieb; Nachunternehmer nur bis 50 % des Auftragswertes und nur mit Zustimmung; Nachunternehmerverzeichnis; vertragliche Mittelstands-/Weitergabepflichten | § 6 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | § 7 | **Sicherheitsleistung** — im Anwendungsbereich der VOB Verzicht auf Sicherheitsleistungen für Vertragserfüllung und Mängelansprüche bei Auftragssumme unter 250.000 EUR | § 7 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
@@ -115,19 +115,22 @@ Wertungsstufe zu berücksichtigen (Trennung von Eignungs- und Zuschlagsprüfung)
 Tätigkeit** erbracht werden und deren Aufgabe **vorab nicht eindeutig und erschöpfend
 beschrieben** werden kann (typisch: Planungs-, Architekten-, Ingenieur- und
 Gutachterleistungen mit Lösungsspielraum), vom Anwendungsbereich des Gesetzes aus; die
-**VOL/A enthält in § 1 dieselbe Ausnahme**. Unterschwellig ist für solche Leistungen in
+**VOL/A nimmt in § 1 Satz 2 sogar sämtliche freiberuflichen Leistungen aus** (ohne
+Beschränkung auf nicht beschreibbare Aufgaben). Unterschwellig ist für solche Leistungen in
 Sachsen daher **kein förmliches Vergabeverfahren** vorgeschrieben. Es gelten die
 Haushaltsgrundsätze (Wirtschaftlichkeit/Sparsamkeit, § 7 SäHO; Vertragsgrundsätze,
 § 55 SäHO), das Gebot der Vergabe im Wettbewerb (Einholung mehrerer Vergleichsangebote,
 Dokumentation) sowie bei eindeutigem grenzüberschreitendem Interesse die
 EU-Binnenmarkt-Grundsätze. Freiberufliche Leistungen mit **eindeutig und erschöpfend
-beschreibbarem** Gegenstand fallen dagegen unter die VOL/A. Details und die
+beschreibbarem** Gegenstand fallen zwar unter das SächsVergabeG (u. a. § 8), die
+VOL/A-Verfahren gelten wegen § 1 Satz 2 VOL/A jedoch auch für sie nicht —
+Verfahrensgestaltung dann nach Haushaltsrecht (§ 55 SäHO) **(zu prüfen)**. Details und die
 oberschwellige Behandlung (§§ 73 ff. VgV): siehe `verfahrensarten.md`, Abschnitt
 „Unterschwelle — Freiberufliche Leistungen“.
 
 | Regelung | Sächsische Vorgabe | Fundstelle | Stand |
 |---|---|---|---|
-| Ausnahme freiberufliche Leistungen | § 1 Abs. 3 SächsVergabeG: keine Anwendung des Gesetzes (und damit der VOL/A-Verfahren) auf freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist; parallel § 1 VOL/A | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 VOL/A: https://www.vergabevorschriften.de/vol-a/1 | 02.07.2026 geprüft (i. d. F. v. 27.04.2019) |
+| Ausnahme freiberufliche Leistungen | § 1 Abs. 3 SächsVergabeG: keine Anwendung des Gesetzes (und damit der VOL/A-Verfahren) auf freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist; § 1 Satz 2 VOL/A schließt freiberufliche Leistungen weitergehend generell aus | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 Satz 2 VOL/A: https://www.vergabevorschriften.de/vol-a/1 | 15.10.2026 geprüft (i. d. F. v. 27.04.2019) |
 | Folge für die Praxis | kein förmliches Verfahren; Wettbewerb durch mehrere Vergleichsangebote, Beachtung von § 7 und § 55 SäHO, Dokumentation der Auswahlentscheidung | SäHO §§ 7, 55: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung | 02.07.2026 geprüft |
 
 ## Nachhaltige, soziale und umweltbezogene Beschaffung

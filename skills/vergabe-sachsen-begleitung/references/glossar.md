@@ -49,18 +49,21 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   §§ 73 ff. VgV (Architekten-/Ingenieurleistungen in der Regel im Verhandlungsverfahren
   mit Teilnahmewettbewerb, § 74 VgV). Unterschwellig gilt in Sachsen ein Sonderweg:
   freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend
-  beschrieben werden kann, sind vom SächsVergabeG und von der VOL/A ausgenommen
-  (§ 1 Abs. 3 SächsVergabeG, § 1 VOL/A) — siehe `verfahrensarten.md`, Abschnitt
+  beschrieben werden kann, sind vom SächsVergabeG ausgenommen (§ 1 Abs. 3
+  SächsVergabeG); die VOL/A nimmt freiberufliche Leistungen sogar generell aus
+  (§ 1 Satz 2 VOL/A) — siehe `verfahrensarten.md`, Abschnitt
   „Unterschwelle — Freiberufliche Leistungen“.
 - **Direktauftrag:** Beschaffung ohne förmliches Vergabeverfahren bei sehr geringem,
-  national/landesrechtlich festgelegtem Auftragswert (unterschwellig, z. B. § 14 UVgO).
+  national/landesrechtlich festgelegtem Auftragswert (unterschwellig, z. B. Bau nach
+  § 3a Abs. 4 VOB/A, § 14 UVgO; in der VOL/A heißt das Pendant „Direktkauf“, § 3 Abs. 6
+  VOL/A).
   Konkrete Wertgrenzen für Sachsen: siehe `wertgrenzen-sachsen.md`.
 - **Verhandlungsvergabe (UVgO) / Freihändige Vergabe (VOL/A, VOB/A Abschnitt 1):**
   unterschwelliges Verfahren ohne förmliche Bekanntmachung, bei dem der Auftraggeber mit
   ausgewählten Unternehmen über Angebot und Bedingungen verhandelt, mit oder ohne
   vorherigen Teilnahmewettbewerb (§ 8 Abs. 1 u. 4, § 12 UVgO). In Sachsen heißt die
   Verfahrensart sowohl für Liefer-/Dienstleistungen (§ 3 Abs. 5 VOL/A) als auch für
-  Bauleistungen (§ 3 Abs. 5 VOB/A Abschnitt 1) „Freihändige Vergabe“; der UVgO-Begriff
+  Bauleistungen (§ 3a Abs. 3 VOB/A Abschnitt 1) „Freihändige Vergabe“; der UVgO-Begriff
   „Verhandlungsvergabe“ ist in Sachsen derzeit nicht einschlägig.
 - **Öffentliche Ausschreibung:** unterschwelliges Verfahren mit öffentlicher
   Bekanntmachung, an dem sich eine unbeschränkte Zahl von Unternehmen beteiligen kann
@@ -136,10 +139,13 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   Vergabekammer. Fristen/Ablauf für Sachsen: siehe `sachsen-spezifika.md`.
 - **Wettbewerbsregister (WRegG):** bundesweites elektronisches Register über
   Wirtschaftsdelikte von Unternehmen beim Bundeskartellamt. Öffentliche Auftraggeber
-  müssen vor Zuschlagserteilung ab einer bestimmten Auftragswertgrenze abfragen, ob für
+  müssen vor Zuschlagserteilung ab einem geschätzten Auftragswert von 50.000 EUR netto
+  abfragen, ob für
   den vorgesehenen Zuschlagsbieter Eintragungen (Ausschlussgründe) vorliegen
-  (§ 6 WRegG). Aktuelle Abfragegrenze: siehe `wertgrenzen-sachsen.md`
-  (Vergabebeschleunigungsgesetz). Die frühere Abfrage des Gewerbezentralregisters
+  (§ 6 Abs. 1 WRegG) — **unabhängig von den EU-Schwellenwerten, also auch
+  unterschwellig** (Sektoren-/Konzessionsgeber erst ab den Schwellenwerten des § 106 GWB);
+  darunter ist die Abfrage freiwillig möglich (§ 6 Abs. 2 WRegG). Fundstelle und Stand:
+  `wertgrenzen-sachsen.md`. Die frühere Abfrage des Gewerbezentralregisters
   (GZR) durch öffentliche Auftraggeber ist seit dem 01.06.2025 vollständig durch das
   Wettbewerbsregister abgelöst (vgl. ABSt Sachsen, Meldung vom 02.06.2025).
 - **Vergabestatistik (VergStatVO):** bundesrechtliche Pflicht, vergebene öffentliche

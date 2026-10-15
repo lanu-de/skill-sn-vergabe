@@ -25,7 +25,8 @@
   und erschöpfend beschreibbar ist? → unterschwellig kein förmliches Verfahren
   (`references/verfahrensarten.md`, Abschnitt „Freiberufliche Leistungen“)
 ☐ Haushaltsrechtliche Grundlage (Wirtschaftlichkeit/Sparsamkeit, Ausschreibungspflicht)
-  beachtet (siehe `vergabe-sachsen-basis`)
+  beachtet (SäHO §§ 7, 55; `references/rechtsquellen.md`, Abschnitt „Haushaltsrechtliche
+  Grundlage der Vergabepflicht (Sachsen)“)
 ☐ Ober- oder Unterschwelle bestimmt anhand `references/schwellenwerte-eu.md`:
   ☐ Oberschwelle ☐ Unterschwelle
 
@@ -82,16 +83,20 @@
   Datenstand 01.07.2026 — vor Nutzung prüfen)
 ☐ Vorabinformation an nicht berücksichtigte Bieter versandt (Vorlage: Skill
   `vergabe-sachsen-dokumente` → `assets/absageschreiben-vorlage.md`) — Datum: [Datum]
-☐ Warte-/Informationsfrist abgelaufen, ohne dass der Auftraggeber bzw. die
-  Nachprüfungsbehörde eine Beanstandung erhalten hat (Fristdauer:
-  `references/sachsen-spezifika.md`, Datenstand 01.07.2026 — vor Nutzung prüfen) —
-  Fristende: [Datum]
+☐ Warte-/Informationsfrist abgelaufen (Fristdauer: `references/sachsen-spezifika.md`,
+  Datenstand 01.07.2026 — vor Nutzung prüfen) — Fristende: [Datum]
+☐ Keine Beanstandung eingegangen — **oder** unterschwellig: Ein Bieter hat vor
+  Fristablauf schriftlich beanstandet, der Beanstandung wurde nicht abgeholfen →
+  Nachprüfungsbehörde unterrichtet am [Datum]; Zuschlag erst, wenn diese nicht innerhalb
+  von 10 Kalendertagen nach Unterrichtung beanstandet; andernfalls ist ihre Auffassung zu
+  beachten (§ 8 Abs. 2 SächsVergabeG) — Ende der Prüffrist: [Datum]
 
 ## Phase 7 — Zuschlag und Dokumentation
 
-☐ Oberschwellig: Wettbewerbsregister für den vorgesehenen Zuschlagsbieter vor
-  Zuschlagserteilung abgefragt (§ 6 WRegG; Abfragegrenze:
-  `references/wertgrenzen-sachsen.md`) — Datum: [Datum]
+☐ Ab der Abfragegrenze (ober- **und** unterschwellig): Wettbewerbsregister für den
+  vorgesehenen Zuschlagsbieter vor Zuschlagserteilung abgefragt (§ 6 Abs. 1 WRegG;
+  Abfragegrenze: `references/wertgrenzen-sachsen.md`; darunter freiwillig, § 6 Abs. 2
+  WRegG) — Datum: [Datum]
 ☐ Zuschlag erteilt — Datum: [Datum]
 ☐ Zuschlagsschreiben versandt (Vorlage: Skill `vergabe-sachsen-dokumente` →
   `assets/zuschlagsschreiben-vorlage.md`)

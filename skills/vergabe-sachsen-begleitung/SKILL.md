@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-begleitung
-description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties.
+description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties. German keywords: Vergabeverfahren durchführen, Ausschreibung begleiten, Ablauf, Checkliste, Zuschlag, Wettbewerbsregister.
 ---
 
 # vergabe-sachsen – Begleitung
@@ -8,7 +8,24 @@ description: Use when a contracting authority in Saxony is carrying out a comple
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
 > Primärquellen (Gesetze, Verordnungen, Verwaltungsvorschriften) und ggf. einer
-> juristischen Beratung im Einzelfall. Alle Angaben ohne Gewähr.
+> juristischen Beratung im Einzelfall. **Ein Anspruch auf Vollständigkeit besteht nicht.
+> Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
+> Ergebnisse liegt beim Nutzer, nicht beim Skill.** Alle Angaben ohne Gewähr.
+
+## Hinweis an den Nutzer (verbindlich)
+
+Schließe deine Antwort mit dem folgenden Satz ab (wörtlich), sobald du
+
+- eine konkrete Verfahrensart empfiehlst,
+- eine Wertgrenze, Frist oder Fundstelle als Grundlage für eine Entscheidung nennst oder
+- ein Vergabedokument erstellst oder ausfüllst:
+
+> *Hinweis: Orientierungshilfe ohne Anspruch auf Vollständigkeit. Die Verantwortung für die
+> rechtliche Richtigkeit und die Verwendung des Ergebnisses liegt bei Ihnen; maßgeblich sind
+> die genannten Primärquellen.*
+
+Bei reinen Begriffsklärungen oder allgemeinen Erläuterungen ohne Entscheidungsbezug entfällt
+der Satz.
 
 ## Überblick
 
@@ -23,7 +40,9 @@ Verfahrensablaufs zusammen: Für die Wahl der Verfahrensart verweist er auf
 Die sieben Phasen unten bilden den **typischen Ablauf eines Vergabeverfahrens** ab
 (Ober- wie Unterschwelle); je Phase wird auf die maßgebliche Referenzdatei und –
 soweit einschlägig – den zuständigen Fachskill verwiesen. Eine schrittweise
-Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
+Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`. Die dort genannten
+Vorlagen gehören zum Skill `vergabe-sachsen-dokumente`, der dafür mitinstalliert sein
+sollte; fehlt er, darauf hinweisen.
 
 ## Phasen
 
@@ -48,7 +67,7 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
    `references/sachsen-spezifika.md` und `references/rechtsquellen.md`.
 
 4. **Bekanntmachung und Fristen** — das Verfahren veröffentlichen (Vergabeplattform
-   des Freistaates Sachsen, bei Bauvergaben zusätzlich die SIB-Plattform;
+   des Freistaates Sachsen, bei Bauvergaben des SIB zusätzlich `sachsen-vergabe.de`;
    oberschwellig zusätzlich EU-Amtsblatt) und die für die gewählte Verfahrensart
    geltende Teilnahme-/Angebotsfrist setzen. Fristentabelle je Verfahrensart:
    `references/fristen.md`; Plattformen: `references/sachsen-spezifika.md`.
@@ -63,15 +82,18 @@ Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`.
 
 6. **Vorabinformation vor Zuschlag** — nicht berücksichtigte Bieter informieren,
    bevor der Vertrag geschlossen wird: unterschwellig **§ 8 SächsVergabeG**
-   (Textform, sächsisches Nachprüfungsverfahren bei Beanstandung, Aufgreifschwelle
+   (Textform; beanstandet ein Bieter vor Fristablauf schriftlich und wird nicht
+   abgeholfen, ist die Nachprüfungsbehörde zu unterrichten, und der Zuschlag ist erst
+   nach Ablauf von deren Prüffrist zulässig — § 8 Abs. 2 SächsVergabeG; Aufgreifschwelle
    nach Auftragswert), oberschwellig **§ 134 GWB** (Warte-/Stillhaltefrist). Die
    konkreten Fristen und Aufgreifschwellen stehen in
    `references/sachsen-spezifika.md`; Vorlage für das Absageschreiben:
    `vergabe-sachsen-dokumente`.
 
-7. **Zuschlag und Dokumentation** — vor dem Zuschlag oberschwellig das
-   **Wettbewerbsregister** für den vorgesehenen Zuschlagsbieter abfragen (§ 6 WRegG;
-   Abfragegrenze: `references/wertgrenzen-sachsen.md`), dann nach Ablauf der
+7. **Zuschlag und Dokumentation** — vor dem Zuschlag ab der Abfragegrenze —
+   **auch unterschwellig** — das **Wettbewerbsregister** für den vorgesehenen
+   Zuschlagsbieter abfragen (§ 6 Abs. 1 WRegG; Abfragegrenze:
+   `references/wertgrenzen-sachsen.md`), dann nach Ablauf der
    Warte-/Informationsfrist den Zuschlag erteilen, das Zuschlagsschreiben versenden,
    die Meldung an die **Vergabestatistik** (VergStatVO; Meldegrenze:
    `references/wertgrenzen-sachsen.md`) übermitteln und den Vergabevermerk
@@ -94,7 +116,7 @@ Sync-Mechanismus überschrieben.
 ## Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
-Nachprüfung und Ergänzungen zum **02.07.2026**. Vor jeder
+Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**. Vor jeder
 verbindlichen Durchführung eines Verfahrens die konkreten Beträge, Fristen und
 Paragrafen in der jeweiligen Referenzdatei prüfen und bei Bedarf gegen die
 amtliche Primärquelle verifizieren (`revosax.sachsen.de` für SächsVergabeG/VOL/A,

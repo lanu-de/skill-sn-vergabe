@@ -88,16 +88,16 @@ Freiberufliche Leistungen sind vergaberechtlich Dienstleistungsaufträge ohne ei
 EU-Schwellenwert (§ 103 Abs. 4 GWB — siehe `schwellenwerte-eu.md`). **Oberschwellig**
 gelten die Sonderregeln der §§ 73 ff. VgV (Architekten- und Ingenieurleistungen in der
 Regel im Verhandlungsverfahren mit Teilnahmewettbewerb, § 74 VgV). **Unterschwellig gilt
-in Sachsen ein Sonderweg:** § 1 Abs. 3 SächsVergabeG und § 1 VOL/A nehmen freiberufliche
+in Sachsen ein Sonderweg:** § 1 Abs. 3 SächsVergabeG nimmt freiberufliche
 Leistungen, deren Aufgabe vorab **nicht eindeutig und erschöpfend beschrieben** werden
-kann, vom förmlichen Vergabeverfahren aus — die VOL/A-Verfahrensarten der Tabelle oben
-gelten für sie **nicht**. Details: `sachsen-spezifika.md`, Abschnitt „Freiberufliche
+kann, vom Gesetz aus; § 1 Satz 2 VOL/A nimmt **alle** freiberuflichen Leistungen aus — die
+VOL/A-Verfahrensarten der Tabelle oben gelten für freiberufliche Leistungen **nicht**. Details: `sachsen-spezifika.md`, Abschnitt „Freiberufliche
 Leistungen (Unterschwelle)“.
 
 | Wertbereich | Leistungsart | Verfahrensart | Kurzbeschreibung / Zulässigkeit | Fundstelle | Stand |
 |---|---|---|---|---|---|
 | Oberschwelle | Freiberufliche Leistungen (u. a. Architekten/Ingenieure) | Verhandlungsverfahren mit Teilnahmewettbewerb (Regelfall) | Sonderregeln der §§ 73 ff. VgV; Vergabe in der Regel im Verhandlungsverfahren mit Teilnahmewettbewerb (§ 74 VgV); im Übrigen gelten die allgemeinen VgV-Verfahren (Tabelle oben). | §§ 73, 74 VgV: https://www.gesetze-im-internet.de/vgv_2016/__74.html | 12.05.2026 / 02.07.2026 geprüft |
-| Unterschwelle | Freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist | **Kein förmliches Vergabeverfahren** (weder VOL/A-Verfahren noch SächsVergabeG) | Ausnahme nach § 1 Abs. 3 SächsVergabeG und § 1 VOL/A. Gleichwohl zu beachten: Haushaltsgrundsätze (§§ 7, 55 SäHO), Vergabe im Wettbewerb (mehrere Vergleichsangebote), Dokumentation; bei grenzüberschreitendem Interesse EU-Binnenmarkt-Grundsätze. Freiberufliche Leistungen mit eindeutig beschreibbarem Gegenstand fallen dagegen unter die VOL/A (Tabelle oben). | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 VOL/A: https://www.vergabevorschriften.de/vol-a/1 ; SäHO: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung | 02.07.2026 geprüft |
+| Unterschwelle | Freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist | **Kein förmliches Vergabeverfahren** (weder VOL/A-Verfahren noch SächsVergabeG) | Ausnahme nach § 1 Abs. 3 SächsVergabeG; § 1 Satz 2 VOL/A schließt freiberufliche Leistungen ohnehin generell aus. Gleichwohl zu beachten: Haushaltsgrundsätze (§§ 7, 55 SäHO), Vergabe im Wettbewerb (mehrere Vergleichsangebote), Dokumentation; bei grenzüberschreitendem Interesse EU-Binnenmarkt-Grundsätze. Freiberufliche Leistungen mit eindeutig beschreibbarem Gegenstand fallen unter das SächsVergabeG (u. a. § 8), nicht aber unter die VOL/A-Verfahren (§ 1 Satz 2 VOL/A) — Verfahrensgestaltung nach Haushaltsrecht **(zu prüfen)**. | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 Satz 2 VOL/A: https://www.vergabevorschriften.de/vol-a/1 ; SäHO: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung | 15.10.2026 geprüft |
 
 ## Hinweise zur Tabelle
 

@@ -1,0 +1,43 @@
+name: Prüfung
+
+# Prüft bei jedem Push und Pull Request: Tests, Fundstellenpflicht, ob die Kopien in
+# skills/*/references/ dem Stand von shared/references/ entsprechen, und ob sich die
+# Installationspakete bauen lassen.
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  pruefung:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements-dev.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Fundstellenpflicht
+        run: python scripts/sync_shared.py check
+
+      - name: Referenzkopien aktuell?
+        run: |
+          python scripts/sync_shared.py sync
+          if [ -n "$(git status --porcelain)" ]; then
+            git status --porcelain
+            echo "::error::skills/*/references/ weicht von shared/references/ ab — bitte 'python scripts/sync_shared.py sync' ausführen und committen."
+            exit 1
+          fi
+
+      - name: Pakete bauen
+        run: python scripts/build_packages.py --out dist

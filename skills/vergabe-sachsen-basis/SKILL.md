@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-basis
-description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills.
+description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills. German keywords: Vergaberecht, Vergabestelle, Kommune, Rechtsfrage, Begriff, Normenhierarchie.
 ---
 
 # vergabe-sachsen – Basis
@@ -8,7 +8,24 @@ description: Use when a public-sector contracting authority in the German Free S
 > ⚠️ **Disclaimer:** Dieser Skill bietet **Orientierung und ersetzt keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
 > Primärquellen (Gesetze, Verordnungen, Verwaltungsvorschriften) und ggf. einer
-> juristischen Beratung im Einzelfall. Alle Angaben ohne Gewähr.
+> juristischen Beratung im Einzelfall. **Ein Anspruch auf Vollständigkeit besteht nicht.
+> Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
+> Ergebnisse liegt beim Nutzer, nicht beim Skill.** Alle Angaben ohne Gewähr.
+
+## Hinweis an den Nutzer (verbindlich)
+
+Schließe deine Antwort mit dem folgenden Satz ab (wörtlich), sobald du
+
+- eine konkrete Verfahrensart empfiehlst,
+- eine Wertgrenze, Frist oder Fundstelle als Grundlage für eine Entscheidung nennst oder
+- ein Vergabedokument erstellst oder ausfüllst:
+
+> *Hinweis: Orientierungshilfe ohne Anspruch auf Vollständigkeit. Die Verantwortung für die
+> rechtliche Richtigkeit und die Verwendung des Ergebnisses liegt bei Ihnen; maßgeblich sind
+> die genannten Primärquellen.*
+
+Bei reinen Begriffsklärungen oder allgemeinen Erläuterungen ohne Entscheidungsbezug entfällt
+der Satz.
 
 ## Überblick
 
@@ -98,7 +115,7 @@ folgende Vorgehensweise:
 ## Datenstand & Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
-Nachprüfung und Ergänzungen zum **02.07.2026** (siehe Spalte „Stand“ in den
+Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026** (siehe Spalte „Stand“ in den
 jeweiligen Tabellen). Einzelne Punkte sind dort ausdrücklich als
 **„(zu prüfen)“** markiert und dürfen nicht ungeprüft als gesichert weitergegeben
 werden – insbesondere die sächsischen Bau-Wertgrenzen und die angekündigte, noch

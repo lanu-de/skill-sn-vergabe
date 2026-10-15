@@ -55,7 +55,7 @@ Preis-Leistungs-Verhältnis im Vergleich zum Zuschlagsbieter].
 Der Vertrag darf gemäß **§ 134 Abs. 2 GWB** frühestens **[Datum, berechnet nach der
 Warte-/Stillhaltefrist gemäß § 134 Abs. 2 GWB — Fristlänge (15 bzw. 10 Kalendertage je nach
 Übermittlungsweg) und Fristbeginn (Absendung dieser Information) vor Nutzung gegen
-`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Oberschwelle“,
+`references/sachsen-spezifika.md`, Abschnitt „Oberschwelle: Vergabekammer des Freistaates Sachsen“,
 prüfen (Stand 01.07.2026)]** geschlossen werden.
 
 Zuständige Nachprüfungsinstanz: Vergabekammer des Freistaates Sachsen bei der
@@ -83,10 +83,11 @@ frühestens **[Datum, berechnet als Absendedatum dieser Information zzgl. der Wa
 `references/sachsen-spezifika.md`)]** geschlossen werden.
 
 Sollten Sie die Nichteinhaltung der Vergabevorschriften beanstanden wollen, teilen Sie dies
-bitte **schriftlich** unter Angabe der Gründe mit. Der Auftraggeber unterrichtet in diesem
+bitte **vor Ablauf der genannten Frist schriftlich** unter Angabe der Gründe mit. Der Auftraggeber unterrichtet in diesem
 Fall die zuständige Nachprüfungsbehörde (§ 8 Abs. 2 SächsVergabeG). Ein Anspruch auf
 Tätigwerden der Nachprüfungsbehörde besteht nach § 8 SächsVergabeG nicht. Einzelheiten:
-`references/sachsen-spezifika.md`, Abschnitt „Rechtsschutz und Nachprüfung — Unterschwelle“.
+`references/sachsen-spezifika.md`, Abschnitt „Unterschwelle: sächsisches Nachprüfungsverfahren nach § 8
+SächsVergabeG“.
 
 ---
 
