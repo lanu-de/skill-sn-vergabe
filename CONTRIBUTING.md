@@ -15,7 +15,8 @@
    aktualisieren.
 2. Fundstellenpflicht prüfen: `python scripts/sync_shared.py check`
 3. In alle Skills übernehmen: `python scripts/sync_shared.py sync`
-4. `CHANGELOG.md` ergänzen und ggf. die Version in `.claude-plugin/plugin.json` erhöhen.
+4. `CHANGELOG.md` ergänzen und ggf. die Version in `.claude-plugin/plugin.json` erhöhen;
+   `sync` überträgt sie automatisch in `metadata.version` aller `SKILL.md`.
 5. Änderungen committen. Die GitHub-Action „Prüfung“ wiederholt Tests, Fundstellen-Check
    und den Abgleich `shared/` ↔ Skills bei jedem Push.
 

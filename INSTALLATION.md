@@ -3,7 +3,9 @@
 Die Skill-Sammlung **vergabe-sachsen** besteht aus vier Skills im offenen
 [Agent-Skills-Format](https://agentskills.io) (`SKILL.md`). Dieses Format verstehen
 inzwischen viele KI-Assistenten — Claude, ChatGPT, GitHub Copilot, Codex, Cursor,
-Gemini CLI u. a. Unterschiedlich ist nur, **wie** die Skills hineinkommen.
+Gemini CLI u. a. Unterschiedlich ist nur, **wie** die Skills hineinkommen. Für Assistenten
+ohne Skill-Unterstützung (z. B. Microsoft 365 Copilot) gibt es ein Wissensbasis-Paket
+(Abschnitt 6).
 
 > ⚠️ **Disclaimer:** Diese Skills bieten Orientierung und ersetzen keine Rechtsberatung.
 > Ein Anspruch auf Vollständigkeit besteht nicht. Die Verantwortung für die (rechtliche)
@@ -21,13 +23,16 @@ Gemini CLI u. a. Unterschiedlich ist nur, **wie** die Skills hineinkommen.
 | Claude **Team/Enterprise** und will Skills für alle bereitstellen | Zentral durch die Administration | [2](#2-für-die-ganze-organisation-claude-team--enterprise) |
 | **Claude Code** (Terminal, IDE, „Code“-Tab der Desktop-App) | `/plugin`-Befehl | [3](#3-claude-code) |
 | **GitHub Copilot, Codex, Cursor, Gemini CLI, OpenCode, Windsurf** u. a. | ein Befehl: `npx skills add …` | [4](#4-andere-ki-assistenten-copilot-codex-cursor-gemini-) |
-| **ChatGPT** | Skills hochladen bzw. als Projekt nachbauen | [5](#5-chatgpt) |
+| **ChatGPT** mit Skills (Business/Enterprise/Edu) | Skills hochladen | [5](#5-chatgpt-mit-skills) |
+| **Microsoft 365 Copilot**, ChatGPT-Projekte/GPTs, **Gemini Gems** u. a. | Wissensbasis-Paket + Anweisungen | [6](#6-assistenten-ohne-skill-unterstützung-wissensbasis) |
 
 Alle Download-Dateien liegen auf der
 [Release-Seite](https://github.com/lanu-de/skill-sn-vergabe/releases/latest):
 
 - **`vergabe-sachsen-….skill`** — je Skill eine Datei zum Hochladen in Claude.
 - **`vergabe-sachsen-….zip`** — dasselbe als gewöhnliches Zip (z. B. für ChatGPT).
+- **`vergabe-sachsen-wissensbasis.zip`** — alle Inhalte als flacher Ordner mit
+  `ANWEISUNGEN.md`, für Assistenten ohne Skill-Unterstützung (Abschnitt 6).
 - **`vergabe-sachsen-alle-skills.zip`** — alle vier Skill-Ordner zusammen, zum
   Entpacken in einen Skill-Ordner (Abschnitte 3 und 4). **Nicht** zum Hochladen
   geeignet — Upload-Dialoge erwarten genau einen Skill pro Datei.
@@ -119,34 +124,34 @@ entpacken:
 
 Viele dieser Programme lesen zusätzlich `~/.agents/skills/` oder `~/.claude/skills/`.
 
-## 5. ChatGPT
+## 5. ChatGPT mit Skills
 
-**a) Als Skills hochladen** (sofern Ihr ChatGPT-Tarif Skills anbietet, derzeit v. a.
-Business/Enterprise/Edu): In ChatGPT unter **Skills → Create → Upload from your
-computer** die vier `.zip`-Dateien von der Release-Seite einzeln hochladen.
+Sofern Ihr ChatGPT-Tarif Skills anbietet (derzeit v. a. Business/Enterprise/Edu): unter
+**Skills → Create → Upload from your computer** die vier `.zip`-Dateien von der
+Release-Seite einzeln hochladen. Ohne Skills: Abschnitt 6.
 
-**b) Als Projekt nachbauen** (für alle Tarife):
+## 6. Assistenten ohne Skill-Unterstützung (Wissensbasis)
 
-1. In ChatGPT ein neues Projekt anlegen (z. B. „Vergabe Sachsen“).
-2. Als Projektdateien hochladen: die sieben Dateien aus `shared/references/`, die vier
-   `SKILL.md` aus `skills/` sowie bei Bedarf die Vorlagen aus
-   `skills/vergabe-sachsen-dokumente/assets/`.
-3. In die Projektanweisungen den Kern der Skills übernehmen, zum Beispiel:
+Viele Assistenten kennen keine Skills, können aber **Dateien als Wissen** und eine
+**Anweisung** aufnehmen — z. B. ein Agent in **Microsoft 365 Copilot** (bzw. Copilot
+Studio), ein **ChatGPT-Projekt** oder **Custom GPT**, ein **Gemini Gem** oder ein
+hauseigenes KI-System. Dafür:
 
-   > Du unterstützt eine Vergabestelle im Freistaat Sachsen. Beantworte Vergabefragen
-   > ausschließlich anhand der hochgeladenen Dateien und nenne immer Fundstelle und
-   > Stand. Wichtig: In Sachsen gilt unterschwellig die VOL/A, nicht die UVgO
-   > („Freihändige Vergabe“ statt „Verhandlungsvergabe“). Als „(zu prüfen)“ markierte
-   > Werte nie als gesichert ausgeben. Du bietest Orientierung und ersetzt keine
-   > Rechtsberatung.
+1. `vergabe-sachsen-wissensbasis.zip` von der
+   [Release-Seite](https://github.com/lanu-de/skill-sn-vergabe/releases/latest)
+   herunterladen und entpacken.
+2. Im Assistenten einen Agenten/ein Projekt/einen Gem anlegen (die Bezeichnungen
+   unterscheiden sich je nach Programm und Version).
+3. Den **Inhalt von `ANWEISUNGEN.md`** in das Feld für Anweisungen kopieren.
+4. **Alle übrigen Dateien** des Ordners als Wissen/Dateien hochladen (bei Microsoft 365
+   Copilot alternativ aus einem SharePoint-Ordner einbinden).
 
-   Zum Teilen im Team lässt sich dasselbe als **Custom GPT** anlegen (Dateien unter
-   „Wissen“, gleiche Anweisungen; erfordert einen Bezahltarif).
+Zum Teilen im Team den fertigen Agenten/GPT/Gem freigeben, statt dass jede Person ihn
+selbst anlegt.
 
-**Einschränkungen von b):** Kein automatisches Erkennen, welcher Skill zuständig ist;
-ChatGPT durchsucht die Dateien stichwortartig, statt sie gezielt vollständig zu lesen —
-Antworten daher immer gegen die genannte Fundstelle prüfen. Aktualisierte Dateien müssen
-manuell neu hochgeladen werden.
+**Einschränkungen:** Diese Assistenten durchsuchen die Dateien eher stichwortartig, statt
+sie gezielt vollständig zu lesen — Antworten daher immer gegen die genannte Fundstelle
+prüfen. Bei einer neuen Version müssen die Dateien manuell neu hochgeladen werden.
 
 ## Hinweis zur Aktualität
 

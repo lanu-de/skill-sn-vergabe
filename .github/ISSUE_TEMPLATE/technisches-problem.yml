@@ -1,5 +1,5 @@
 name: "Technisches Problem"
-description: "Ein Skill funktioniert nicht wie erwartet, Probleme bei Installation, Plugin, Sync-Skript oder Release-Zips."
+description: "Ein Skill funktioniert nicht wie erwartet, Probleme bei Installation, Plugin, Skripten oder Release-Paketen."
 title: "[Technik] "
 labels: ["bug"]
 body:
@@ -9,11 +9,17 @@ body:
       label: Umgebung
       description: Wo tritt das Problem auf?
       options:
-        - Claude Desktop (Skills-Ordner)
+        - claude.ai / Claude Desktop (Plugin oder .skill-Upload)
         - Claude Code (Plugin/Marketplace)
-        - claude.ai (Zip-Upload)
-        - ChatGPT (Projekt / Custom GPT)
-        - scripts/sync_shared.py
+        - GitHub Copilot (VS Code, CLI)
+        - Codex
+        - Cursor
+        - Gemini CLI
+        - ChatGPT (Skills)
+        - Microsoft 365 Copilot (Wissensbasis)
+        - ChatGPT-Projekt / Custom GPT / Gemini Gem (Wissensbasis)
+        - Installation mit npx skills
+        - scripts/sync_shared.py oder scripts/build_packages.py
         - GitHub Actions / Release
         - Sonstiges
     validations:

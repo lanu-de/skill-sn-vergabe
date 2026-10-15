@@ -13,6 +13,11 @@ import zipfile
 from pathlib import Path
 
 ALL_SKILLS_ZIP = "vergabe-sachsen-alle-skills.zip"
+# Paket fuer Assistenten ohne Skill-Unterstuetzung (M365 Copilot, ChatGPT-Projekte, Gemini Gems ...):
+# ein flacher Ordner mit Anweisungen, Leitfaeden (= SKILL.md), Referenztabellen und Vorlagen.
+KNOWLEDGE_ZIP = "vergabe-sachsen-wissensbasis.zip"
+_KNOWLEDGE_DIR = "vergabe-sachsen-wissensbasis"
+_SKILL_PREFIX = "vergabe-sachsen-"
 
 _JUNK_NAMES = {".DS_Store", "Thumbs.db", "desktop.ini"}
 _JUNK_DIRS = {"__pycache__"}
@@ -71,7 +76,44 @@ def build(root: Path, out_dir: Path) -> list[Path]:
     bundle = out_dir / ALL_SKILLS_ZIP
     _write_archive(bundle, skills)
     written.append(bundle)
+    instructions = root / "wissensbasis" / "ANWEISUNGEN.md"
+    if instructions.is_file():
+        target = out_dir / KNOWLEDGE_ZIP
+        _write_flat_archive(target, _knowledge_files(root, skills, instructions))
+        written.append(target)
     return written
+
+
+def _knowledge_files(root: Path, skills: list[Path], instructions: Path) -> dict[str, Path]:
+    """Ordnet Zielnamen im flachen Ordner den Quelldateien zu; doppelte Namen sind ein Fehler."""
+    files: dict[str, Path] = {}
+
+    def add(name: str, src: Path) -> None:
+        if name in files:
+            raise ValueError(f"Wissensbasis: Dateiname {name} kommt mehrfach vor")
+        files[name] = src
+
+    add("ANWEISUNGEN.md", instructions)
+    for skill in skills:
+        short = skill.name[len(_SKILL_PREFIX):] if skill.name.startswith(_SKILL_PREFIX) else skill.name
+        add(f"leitfaden-{short}.md", skill / "SKILL.md")
+        # Skill-eigene Dateien (Vorlagen, Checklisten); references/ kommt einmalig aus shared/.
+        for f in _files(skill):
+            rel = f.relative_to(skill)
+            if rel.parts[0] not in ("SKILL.md", "references"):
+                add(f.name, f)
+    for f in sorted((root / "shared" / "references").glob("*.md")):
+        add(f.name, f)
+    return files
+
+
+def _write_flat_archive(target: Path, files: dict[str, Path]) -> None:
+    with zipfile.ZipFile(target, "w", zipfile.ZIP_DEFLATED) as zf:
+        for name in sorted(files):
+            info = zipfile.ZipInfo(f"{_KNOWLEDGE_DIR}/{name}", _FIXED_DATE)
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = 0o644 << 16
+            zf.writestr(info, files[name].read_bytes())
 
 
 def main(argv: list[str] | None = None) -> int:

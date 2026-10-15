@@ -1,6 +1,10 @@
 ---
 name: vergabe-sachsen-dokumente
 description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template. German keywords – Vergabevermerk, Leistungsbeschreibung, Vorlage, Absageschreiben, Zuschlagsschreiben, Bekanntmachung.
+license: CC-BY-4.0
+metadata:
+  author: LaNU Sachsen
+  version: "0.2.0"
 ---
 
 # vergabe-sachsen – Dokumente
@@ -47,10 +51,10 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
 
 | Dokument | Vorlage | Verfahrensschritt |
 |---|---|---|
-| Vergabevermerk | `assets/vergabevermerk-vorlage.md` | fortlaufende Dokumentation des gesamten Verfahrens, von Beschaffungsentscheidung bis Zuschlag |
-| Leistungsbeschreibung | `assets/leistungsbeschreibung-vorlage.md` | Bestandteil der Vergabeunterlagen, vor Bekanntmachung/Aufforderung zur Angebotsabgabe |
-| Absageschreiben (Vorabinformation) | `assets/absageschreiben-vorlage.md` | Information nicht berücksichtigter Bieter vor Zuschlagserteilung |
-| Zuschlagsschreiben | `assets/zuschlagsschreiben-vorlage.md` | Mitteilung der Zuschlagserteilung an den erfolgreichen Bieter, nach Ablauf der Warte-/Informationsfrist |
+| Vergabevermerk | [assets/vergabevermerk-vorlage.md](assets/vergabevermerk-vorlage.md) | fortlaufende Dokumentation des gesamten Verfahrens, von Beschaffungsentscheidung bis Zuschlag |
+| Leistungsbeschreibung | [assets/leistungsbeschreibung-vorlage.md](assets/leistungsbeschreibung-vorlage.md) | Bestandteil der Vergabeunterlagen, vor Bekanntmachung/Aufforderung zur Angebotsabgabe |
+| Absageschreiben (Vorabinformation) | [assets/absageschreiben-vorlage.md](assets/absageschreiben-vorlage.md) | Information nicht berücksichtigter Bieter vor Zuschlagserteilung |
+| Zuschlagsschreiben | [assets/zuschlagsschreiben-vorlage.md](assets/zuschlagsschreiben-vorlage.md) | Mitteilung der Zuschlagserteilung an den erfolgreichen Bieter, nach Ablauf der Warte-/Informationsfrist |
 
 ## Nutzung
 
@@ -72,10 +76,10 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
      in Sachsen § 8 SächsVergabeG.
    - Die konkreten Fristen, Aufgreifschwellen (Auftragswert, ab dem die sächsische
      Informationspflicht überhaupt greift) und Fundstellen stehen ausschließlich in
-     `references/sachsen-spezifika.md` — dort auch als **„(zu prüfen)“** gekennzeichnete
+     [references/sachsen-spezifika.md](references/sachsen-spezifika.md) — dort auch als **„(zu prüfen)“** gekennzeichnete
      Punkte unbedingt beachten und nicht als gesichert weitergeben.
 4. **Vor jedem verbindlichen Einsatz** die in der jeweiligen Vorlage genannten Fundstellen
-   gegen `references/rechtsquellen.md` und `references/sachsen-spezifika.md` prüfen,
+   gegen [references/rechtsquellen.md](references/rechtsquellen.md) und [references/sachsen-spezifika.md](references/sachsen-spezifika.md) prüfen,
    insbesondere Fristen und Wertgrenzen, da sich diese mit der angekündigten
    SächsVergabeG-Novelle ändern können.
 

@@ -7,6 +7,14 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 ## [Unreleased]
 
 ### Hinzugefügt
+- **Wissensbasis-Paket** `vergabe-sachsen-wissensbasis.zip` im Release: flacher Ordner mit
+  `ANWEISUNGEN.md`, Leitfäden, Nachschlagetabellen und Vorlagen für Assistenten ohne
+  Skill-Unterstützung (Microsoft 365 Copilot, ChatGPT-Projekte/GPTs, Gemini Gems u. a.);
+  INSTALLATION.md Abschnitt 6.
+- Skills nach dem offenen Agent-Skills-Standard: Dateiverweise als Markdown-Links (u. a. für
+  GitHub Copilot in VS Code), Frontmatter um `license` und `metadata` (Autor, Version)
+  ergänzt; `sync` überträgt die Version aus `plugin.json`.
+- README, INSTALLATION und Issue-Vorlage programmneutral (nicht nur Claude).
 - Release-Workflow erzeugt zusätzlich `vergabe-sachsen-alle-skills.zip` (alle vier
   Skill-Ordner in einem Zip, für Claude Code/manuelle Installation; nicht für den
   claude.ai-Einzel-Upload).

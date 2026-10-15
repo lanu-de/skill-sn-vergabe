@@ -31,6 +31,24 @@ def test_sync_removes_orphaned_references(tmp_path: Path):
     assert sorted(p.name for p in dest.iterdir()) == ["neu.md"]
 
 
+def test_sync_writes_plugin_version_into_skill_frontmatter(tmp_path: Path):
+    (tmp_path / "shared" / "references").mkdir(parents=True)
+    (tmp_path / ".claude-plugin").mkdir()
+    (tmp_path / ".claude-plugin" / "plugin.json").write_text('{"version": "1.2.3"}', encoding="utf-8")
+    skill = tmp_path / "skills" / "skill-eins"
+    skill.mkdir(parents=True)
+    (skill / "SKILL.md").write_text(
+        '---\nname: skill-eins\ndescription: x\nmetadata:\n  version: "0.0.0"\n---\n\nversion: "0.0.0" im Text bleibt\n',
+        encoding="utf-8",
+    )
+
+    sync(tmp_path)
+
+    text = (skill / "SKILL.md").read_text(encoding="utf-8")
+    assert 'metadata:\n  version: "1.2.3"\n---' in text
+    assert 'version: "0.0.0" im Text bleibt' in text
+
+
 from scripts.sync_shared import check_fundstellen
 
 
