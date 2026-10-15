@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-begleitung
-description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties. German keywords: Vergabeverfahren durchführen, Ausschreibung begleiten, Ablauf, Checkliste, Zuschlag, Wettbewerbsregister.
+description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties. German keywords – Vergabeverfahren durchführen, Ausschreibung begleiten, Ablauf, Checkliste, Zuschlag, Wettbewerbsregister.
 ---
 
 # vergabe-sachsen – Begleitung

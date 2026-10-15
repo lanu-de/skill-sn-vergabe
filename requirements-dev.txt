@@ -4,3 +4,4 @@
 #   .venv/Scripts/python -m pip install -r requirements-dev.txt   (Windows)
 #   .venv/bin/python  -m pip install -r requirements-dev.txt      (macOS/Linux)
 pytest>=8
+pyyaml>=6
