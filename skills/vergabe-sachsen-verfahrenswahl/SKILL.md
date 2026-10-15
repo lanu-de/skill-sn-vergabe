@@ -82,6 +82,11 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
    für Bauleistungen die VOB/A Abschnitt 1 (siehe `## Sachsen-Besonderheiten`). Die
    konkreten, den jeweiligen Ausnahmeverfahren zugeordneten Wertgrenzen stehen in
    [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
+   Soll ein Verfahren ohne Wettbewerb damit begründet werden, dass nur ein Unternehmen
+   die Leistung erbringen kann, muss eine dokumentierte Markterkundung das Fehlen
+   vernünftiger Alternativen belegen (oberschwellig § 14 Abs. 6 VgV; siehe
+   [references/markterkundung.md](references/markterkundung.md), Zeile „Alleinstellung“, und
+   Skill `vergabe-sachsen-markterkundung`).
 
 5. **Fristen ermitteln.** Zur gewählten Verfahrensart die Mindest- bzw.
    Angemessenheitsfristen für Teilnahmeanträge und Angebote nachschlagen:

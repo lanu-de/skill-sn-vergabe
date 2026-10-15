@@ -56,6 +56,11 @@ sollte; fehlt er, darauf hinweisen.
    Umsatzsteuer) schätzen, ggf. unter Berücksichtigung einer losweisen Vergabe.
    Begriffe: [references/glossar.md](references/glossar.md); Einordnung Ober-/Unterschwelle:
    [references/schwellenwerte-eu.md](references/schwellenwerte-eu.md) und [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
+   Ist der Markt nicht hinreichend bekannt (Lösungen, Preise, Zahl der Anbieter), vorher
+   eine **Markterkundung** durchführen; sie ist praktisch unverzichtbar, wenn später
+   ein Verfahren ohne Wettbewerb mit Alleinstellung begründet werden soll. Rechtsrahmen,
+   Ablauf und Fehlerquellen: [references/markterkundung.md](references/markterkundung.md);
+   Anschreiben und Vermerk liefert der Skill `vergabe-sachsen-markterkundung`.
 
 2. **Verfahrenswahl** — anhand von Wertbereich und Leistungsart die zulässige
    Verfahrensart ermitteln. Die vollständige Herleitung mit Entscheidungsbaum
