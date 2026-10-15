@@ -19,6 +19,26 @@
 5. Änderungen committen. Die GitHub-Action „Prüfung“ wiederholt Tests, Fundstellen-Check
    und den Abgleich `shared/` ↔ Skills bei jedem Push.
 
+## Regeln für `main` (GitHub-Rulesets)
+
+`main` ist geschützt. Die Regeln liegen als Dateien unter `.github/rulesets/` und gelten
+auch für Admins:
+
+- **`main-grundschutz`** (ohne Ausnahme): Änderungen nur per Pull Request; die Prüfung
+  „pruefung“ (GitHub-Action) muss grün sein; kein Force-Push, kein Löschen von `main`.
+- **`main-freigabe`**: Jeder Pull Request braucht eine Freigabe durch den Code-Owner
+  (`.github/CODEOWNERS`). Mitglieder des Teams `vergabe-sachsen-maintainer` dürfen diese
+  Regel nur beim Mergen ihrer eigenen Pull Requests überspringen („Merge without waiting
+  for requirements“) — direkte Pushes bleiben auch für sie gesperrt.
+
+Änderungen an den Regeln zuerst in der JSON-Datei vornehmen und dann einspielen, z. B.:
+
+```
+gh api repos/lanu-de/skill-sn-vergabe/rulesets/<ID> -X PUT --input .github/rulesets/main-freigabe.json
+```
+
+Die IDs zeigt `gh api repos/lanu-de/skill-sn-vergabe/rulesets`.
+
 ## Installationspakete
 
 `python scripts/build_packages.py` baut nach `dist/` je Skill eine `.skill`- und eine
