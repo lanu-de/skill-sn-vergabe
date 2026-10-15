@@ -6,6 +6,8 @@ inzwischen viele KI-Assistenten — Claude, ChatGPT, GitHub Copilot, Codex, Curs
 Gemini CLI u. a. Unterschiedlich ist nur, **wie** die Skills hineinkommen.
 
 > ⚠️ **Disclaimer:** Diese Skills bieten Orientierung und ersetzen keine Rechtsberatung.
+> Ein Anspruch auf Vollständigkeit besteht nicht. Die Verantwortung für die (rechtliche)
+> Richtigkeit und für die Verwendung der Ergebnisse liegt beim Nutzer, nicht bei den Skills.
 
 > 💡 **Am besten immer alle vier Skills installieren.** Sie verweisen aufeinander
 > (z. B. nutzt `vergabe-sachsen-begleitung` die Vorlagen aus

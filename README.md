@@ -8,7 +8,9 @@ Schritt durchführen.
 > ⚠️ **Disclaimer:** Diese Skills bieten **Orientierung und ersetzen keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
 > Primärquellen (Gesetze, Verordnungen, Verwaltungsvorschriften) und ggf. einer
-> juristischen Beratung im Einzelfall. Alle Angaben ohne Gewähr.
+> juristischen Beratung im Einzelfall. **Ein Anspruch auf Vollständigkeit besteht nicht.
+> Die Verantwortung für die (rechtliche) Richtigkeit und für die Verwendung der
+> Ergebnisse liegt beim Nutzer, nicht bei den Skills.** Alle Angaben ohne Gewähr.
 
 ## Zielgruppe
 

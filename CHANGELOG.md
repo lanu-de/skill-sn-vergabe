@@ -20,6 +20,9 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
   WRegG, 50.000 EUR) und **Vergabestatistik** (§ 2 Abs. 2 VergStatVO, über 50.000 EUR) mit
   Fundstelle und Stand.
 - Deutsche Trigger-Wörter in den Skill-Beschreibungen.
+- Disclaimer erweitert (README, INSTALLATION, alle Skills): kein Anspruch auf
+  Vollständigkeit; die Verantwortung für die (rechtliche) Richtigkeit und die Verwendung
+  der Ergebnisse liegt beim Nutzer, nicht bei den Skills.
 
 ### Geändert
 - **INSTALLATION.md neu**: Wegweiser je Programm — claude.ai/Desktop (Plugin-Marketplace
