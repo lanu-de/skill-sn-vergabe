@@ -19,6 +19,9 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
+# Gebaute Installationspakete (scripts/build_packages.py)
+dist/
+
 # Interne Arbeitsartefakte (Fortschritts-Ledger der Ausführung)
 .superpowers/
 

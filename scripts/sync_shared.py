@@ -20,12 +20,19 @@ def skill_dirs(root: Path) -> list[Path]:
 
 
 def sync(root: Path) -> list[Path]:
-    """Kopiert alle *.md aus shared/references/ in <skill>/references/ jedes Skills."""
+    """Kopiert alle *.md aus shared/references/ in <skill>/references/ jedes Skills.
+
+    references/ ist reine Kopie: dort liegende *.md ohne Gegenstueck in shared/ werden entfernt.
+    """
     sources = sorted(shared_references_dir(root).glob("*.md"))
+    names = {src.name for src in sources}
     written: list[Path] = []
     for skill in skill_dirs(root):
         dest_dir = skill / "references"
         dest_dir.mkdir(parents=True, exist_ok=True)
+        for orphan in dest_dir.glob("*.md"):
+            if orphan.name not in names:
+                orphan.unlink()
         for src in sources:
             dest = dest_dir / src.name
             shutil.copyfile(src, dest)
@@ -57,8 +64,9 @@ def check_fundstellen(root: Path) -> list[str]:
             cells = _split_row(line)
             if header is None:
                 header = [c.lower() for c in cells]
-                idx_fund = next((i for i, h in enumerate(header) if "fundstelle" in h), None)
-                idx_stand = next((i for i, h in enumerate(header) if "stand" in h), None)
+                # Exakter Vergleich: „Gegenstand“ oder „Stand in Sachsen“ sind keine Prüfspalten.
+                idx_fund = next((i for i, h in enumerate(header) if h == "fundstelle"), None)
+                idx_stand = next((i for i, h in enumerate(header) if h == "stand"), None)
                 continue
             if _is_separator(cells):
                 continue
