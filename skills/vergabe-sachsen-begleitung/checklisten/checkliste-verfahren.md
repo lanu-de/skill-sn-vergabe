@@ -16,6 +16,13 @@
 ## Phase 1 — Bedarfsermittlung und Schätzung des Auftragswerts
 
 ☐ Beschaffungsbedarf beschrieben: [kurze Bedarfsbeschreibung]
+☐ Markterkundung erforderlich? ☐ nein, Markt bekannt: [Begründung]
+  ☐ ja → durchgeführt und im Markterkundungsvermerk dokumentiert (Skill
+  `vergabe-sachsen-markterkundung`; Rechtsrahmen: `references/markterkundung.md`):
+  ☐ allen Unternehmen dieselben Unterlagen und Fristen ☐ nur unverbindliche
+  Preisangaben erfragt ☐ kein Unternehmen an Vergabeunterlagen beteiligt (sonst:
+  vorbefasste Unternehmen vermerkt) ☐ Ergebnis in Auftragswert und Leistungsbeschreibung
+  übernommen
 ☐ Leistungsart bestimmt: ☐ Liefer-/Dienstleistung ☐ Bauleistung ☐ freiberufliche Leistung
 ☐ Auftragswert (netto, ohne USt.) geschätzt: [Betrag] EUR — inkl. Optionen/
   Vertragsverlängerungen, Losvergabe/Gesamtwert mehrerer Lose, ggf. Rahmenvereinbarung

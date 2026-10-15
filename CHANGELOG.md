@@ -7,6 +7,15 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 ## [Unreleased]
 
 ### Hinzugefügt
+- **Neuer Skill `vergabe-sachsen-markterkundung`**: Markterkundung vor dem Vergabeverfahren
+  planen, Unternehmen anfragen, Antworten auswerten und dokumentieren; Vorlagen
+  `markterkundung-anschreiben-vorlage.md` (Anschreiben, Fragebogen, Antwortbogen) und
+  `markterkundung-vermerk-vorlage.md` (Auswertung, Ergebnis, vorbefasste Unternehmen).
+- `shared/references/markterkundung.md`: Rechtsrahmen ober- und unterschwellig (§ 28, § 7,
+  § 5, § 14 Abs. 6 VgV; § 2 Abs. 3, § 6 Abs. 6 VOL/A; § 2 VOB/A) mit Fundstelle und Stand,
+  Ablauf, Grenzen beim Kontakt mit Unternehmen, häufige Fehler.
+- Begleitung (Phase 1 und Checkliste), Basis (Wegweiser) und Verfahrenswahl (Alleinstellung)
+  verweisen auf die Markterkundung.
 - **Wissensbasis-Paket** `vergabe-sachsen-wissensbasis.zip` im Release: flacher Ordner mit
   `ANWEISUNGEN.md`, Leitfäden, Nachschlagetabellen und Vorlagen für Assistenten ohne
   Skill-Unterstützung (Microsoft 365 Copilot, ChatGPT-Projekte/GPTs, Gemini Gems u. a.);

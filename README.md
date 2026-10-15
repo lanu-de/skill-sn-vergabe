@@ -32,6 +32,7 @@ ohne eigene Vergabestelle.
 | Skill | Zweck |
 |-------|-------|
 | `vergabe-sachsen-basis` | Grundlagen, Nachschlagewerk, Rechtsfragen, Einstieg |
+| `vergabe-sachsen-markterkundung` | Markterkundung vor der Vergabe: Anfrage, Auswertung, Vermerk |
 | `vergabe-sachsen-verfahrenswahl` | Passende Verfahrensart nach Wert & Leistungsart |
 | `vergabe-sachsen-dokumente` | Vergabevermerk, Leistungsbeschreibung, Schreiben u. a. |
 | `vergabe-sachsen-begleitung` | Schritt-für-Schritt durch ein komplettes Verfahren |

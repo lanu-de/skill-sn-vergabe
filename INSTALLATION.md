@@ -1,6 +1,6 @@
 # Installation
 
-Die Skill-Sammlung **vergabe-sachsen** besteht aus vier Skills im offenen
+Die Skill-Sammlung **vergabe-sachsen** besteht aus fünf Skills im offenen
 [Agent-Skills-Format](https://agentskills.io) (`SKILL.md`). Dieses Format verstehen
 inzwischen viele KI-Assistenten — Claude, ChatGPT, GitHub Copilot, Codex, Cursor,
 Gemini CLI u. a. Unterschiedlich ist nur, **wie** die Skills hineinkommen. Für Assistenten
@@ -11,7 +11,7 @@ ohne Skill-Unterstützung (z. B. Microsoft 365 Copilot) gibt es ein Wissensbasis
 > Ein Anspruch auf Vollständigkeit besteht nicht. Die Verantwortung für die (rechtliche)
 > Richtigkeit und für die Verwendung der Ergebnisse liegt beim Nutzer, nicht bei den Skills.
 
-> 💡 **Am besten immer alle vier Skills installieren.** Sie verweisen aufeinander
+> 💡 **Am besten immer alle fünf Skills installieren.** Sie verweisen aufeinander
 > (z. B. nutzt `vergabe-sachsen-begleitung` die Vorlagen aus
 > `vergabe-sachsen-dokumente`). Einzeln funktionieren sie, aber mit Lücken.
 
@@ -33,7 +33,7 @@ Alle Download-Dateien liegen auf der
 - **`vergabe-sachsen-….zip`** — dasselbe als gewöhnliches Zip (z. B. für ChatGPT).
 - **`vergabe-sachsen-wissensbasis.zip`** — alle Inhalte als flacher Ordner mit
   `ANWEISUNGEN.md`, für Assistenten ohne Skill-Unterstützung (Abschnitt 6).
-- **`vergabe-sachsen-alle-skills.zip`** — alle vier Skill-Ordner zusammen, zum
+- **`vergabe-sachsen-alle-skills.zip`** — alle fünf Skill-Ordner zusammen, zum
   Entpacken in einen Skill-Ordner (Abschnitte 3 und 4). **Nicht** zum Hochladen
   geeignet — Upload-Dialoge erwarten genau einen Skill pro Datei.
 
@@ -49,14 +49,14 @@ Team oder Enterprise).
 2. **Add → Add marketplace** wählen und eingeben: `lanu-de/skill-sn-vergabe`
 3. Unter **Discover** das Plugin **vergabe-sachsen** auswählen und **Add** klicken.
 
-Damit sind alle vier Skills auf einmal installiert, und Aktualisierungen kommen
+Damit sind alle fünf Skills auf einmal installiert, und Aktualisierungen kommen
 automatisch über den Marketplace.
 
 **Weg B — `.skill`-Dateien hochladen** (falls Weg A in Ihrem Konto nicht angeboten wird):
 
 1. Unter **Settings → Capabilities** die Code-Ausführung einschalten (Skills setzen sie
    voraus).
-2. Die vier `.skill`-Dateien von der
+2. Die fünf `.skill`-Dateien von der
    [Release-Seite](https://github.com/lanu-de/skill-sn-vergabe/releases/latest)
    herunterladen.
 3. **Customize → Skills → + → Upload a skill** und die erste Datei auswählen.
@@ -86,7 +86,7 @@ In Claude Code (Terminal, VS Code/JetBrains oder „Code“-Tab der Desktop-App)
 Aktualisieren: `/plugin marketplace update vergabe-sachsen`.
 
 **Ohne Plugin-System:** `vergabe-sachsen-alle-skills.zip` herunterladen und den Inhalt
-(die vier Ordner `vergabe-sachsen-…`) direkt nach `~/.claude/skills/` entpacken
+(die fünf Ordner `vergabe-sachsen-…`) direkt nach `~/.claude/skills/` entpacken
 (Windows: `%USERPROFILE%\.claude\skills\`). Danach muss es z. B.
 `~/.claude/skills/vergabe-sachsen-basis/SKILL.md` geben.
 
@@ -108,7 +108,7 @@ Projekt, `-y` überspringt Rückfragen. Aktualisieren: `npx skills update`.
 | Programm | Befehl |
 |---|---|
 | GitHub Copilot CLI | `copilot plugin marketplace add lanu-de/skill-sn-vergabe`, dann `copilot plugin install vergabe-sachsen@vergabe-sachsen` |
-| Gemini CLI | je Skill: `gemini skills install https://github.com/lanu-de/skill-sn-vergabe --path skills/vergabe-sachsen-basis` (ebenso für `-verfahrenswahl`, `-dokumente`, `-begleitung`) |
+| Gemini CLI | je Skill: `gemini skills install https://github.com/lanu-de/skill-sn-vergabe --path skills/vergabe-sachsen-basis` (ebenso für `-markterkundung`, `-verfahrenswahl`, `-dokumente`, `-begleitung`) |
 | Codex | im Chat `$skill-installer` aufrufen und `lanu-de/skill-sn-vergabe` angeben |
 
 **Manuell:** `vergabe-sachsen-alle-skills.zip` in den Skill-Ordner des Programms
@@ -127,7 +127,7 @@ Viele dieser Programme lesen zusätzlich `~/.agents/skills/` oder `~/.claude/ski
 ## 5. ChatGPT mit Skills
 
 Sofern Ihr ChatGPT-Tarif Skills anbietet (derzeit v. a. Business/Enterprise/Edu): unter
-**Skills → Create → Upload from your computer** die vier `.zip`-Dateien von der
+**Skills → Create → Upload from your computer** die fünf `.zip`-Dateien von der
 Release-Seite einzeln hochladen. Ohne Skills: Abschnitt 6.
 
 ## 6. Assistenten ohne Skill-Unterstützung (Wissensbasis)
