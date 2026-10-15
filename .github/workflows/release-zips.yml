@@ -2,7 +2,8 @@ name: Skill-Pakete bei Release
 
 # Baut bei jedem veröffentlichten GitHub-Release je Skill eine .skill- und eine .zip-Datei
 # (Wurzel = Skill-Ordner mit SKILL.md, passend für den Upload auf claude.ai/ChatGPT) sowie
-# das Sammel-Zip aller Skills und hängt sie als Download-Dateien an die Release-Seite an.
+# das Sammel-Zip aller Skills sowie das Wissensbasis-Paket (für Assistenten ohne
+# Skill-Unterstützung) und hängt sie als Download-Dateien an die Release-Seite an.
 
 on:
   release:
