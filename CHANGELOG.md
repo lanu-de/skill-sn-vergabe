@@ -36,6 +36,9 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 - `sync_shared.py sync` entfernt verwaiste Dateien in `skills/*/references/`.
 
 ### Behoben
+- Skill-Kopfdaten: „German keywords:“ machte das YAML-Frontmatter ungültig (Doppelpunkt
+  im Wert) — strenge Programme wie der claude.ai-Upload hätten die Skills abgelehnt. Neuer
+  Test `tests/test_skills_frontmatter.py` prüft das Frontmatter mit einem YAML-Parser.
 - INSTALLATION/README: Claude Desktop (Chat) liest `~/.claude/skills/` **nicht** — die
   bisherige Anleitung funktionierte nur für Claude Code.
 - **Wettbewerbsregister**: Abfragepflicht gilt ab 50.000 EUR auch **unterschwellig**
