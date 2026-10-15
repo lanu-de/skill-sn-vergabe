@@ -36,7 +36,7 @@ der Satz.
 Dieser Skill ist der **Einstiegspunkt** für öffentliche Auftraggeber im Freistaat
 Sachsen (Kommunen, Behörden, öffentliche Einrichtungen), die eine allgemeine oder
 einführende Frage zum Vergaberecht haben: Begriffe, geltende Regelwerke, die
-Normenhierarchie – oder einen Wegweiser zu den drei anderen `vergabe-sachsen`-Skills
+Normenhierarchie – oder einen Wegweiser zu den vier anderen `vergabe-sachsen`-Skills
 benötigen.
 
 Die Vergabepflicht sächsischer Auftraggeber wurzelt **nicht erst im Vergaberecht,
@@ -80,6 +80,7 @@ weiter:
 
 | Anliegen | zuständiger Skill |
 |---|---|
+| Vor der Vergabe den Markt erkunden (Anbieter anfragen, Antworten auswerten, Ergebnis dokumentieren) | `vergabe-sachsen-markterkundung` |
 | Welche Verfahrensart passt zu Auftragswert und Leistungsart? | `vergabe-sachsen-verfahrenswahl` |
 | Ein Vergabedokument erstellen (Vergabevermerk, Leistungsbeschreibung, Schreiben u. a.) | `vergabe-sachsen-dokumente` |
 | Ein konkretes Vergabeverfahren Schritt für Schritt durchführen | `vergabe-sachsen-begleitung` |
@@ -87,7 +88,7 @@ weiter:
 
 ## Rechtsfragen beantworten
 
-Für allgemeine Rechtsfragen, die nicht in einen der drei Fachskills fallen, gilt
+Für allgemeine Rechtsfragen, die nicht in einen der vier Fachskills fallen, gilt
 folgende Vorgehensweise:
 
 1. Frage einordnen: Ober- oder Unterschwelle? Liefer-/Dienstleistung oder
@@ -112,7 +113,7 @@ folgende Vorgehensweise:
    Auftragsberatungsstelle Sachsen (`abstsachsen.de`) — keine Primärquelle,
    Verbindlichkeit nur aus den amtlichen Quellen (siehe
    [references/sachsen-spezifika.md](references/sachsen-spezifika.md)).
-5. Passt die Frage eher zu Verfahrenswahl, Dokumenterstellung oder
+5. Passt die Frage eher zu Markterkundung, Verfahrenswahl, Dokumenterstellung oder
    Verfahrensbegleitung, auf den entsprechenden Skill aus dem Wegweiser
    verweisen, statt die Antwort hier im Detail auszuarbeiten.
 
