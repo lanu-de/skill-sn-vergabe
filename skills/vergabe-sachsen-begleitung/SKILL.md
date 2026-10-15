@@ -1,6 +1,10 @@
 ---
 name: vergabe-sachsen-begleitung
 description: Use when a contracting authority in Saxony is carrying out a complete procurement procedure from needs assessment through award and documentation, and wants step-by-step guidance with checklists and the applicable documentation duties. German keywords – Vergabeverfahren durchführen, Ausschreibung begleiten, Ablauf, Checkliste, Zuschlag, Wettbewerbsregister.
+license: CC-BY-4.0
+metadata:
+  author: LaNU Sachsen
+  version: "0.2.0"
 ---
 
 # vergabe-sachsen – Begleitung
@@ -40,7 +44,7 @@ Verfahrensablaufs zusammen: Für die Wahl der Verfahrensart verweist er auf
 Die sieben Phasen unten bilden den **typischen Ablauf eines Vergabeverfahrens** ab
 (Ober- wie Unterschwelle); je Phase wird auf die maßgebliche Referenzdatei und –
 soweit einschlägig – den zuständigen Fachskill verwiesen. Eine schrittweise
-Checkliste zum Abhaken steht in `checklisten/checkliste-verfahren.md`. Die dort genannten
+Checkliste zum Abhaken steht in [checklisten/checkliste-verfahren.md](checklisten/checkliste-verfahren.md). Die dort genannten
 Vorlagen gehören zum Skill `vergabe-sachsen-dokumente`, der dafür mitinstalliert sein
 sollte; fehlt er, darauf hinweisen.
 
@@ -50,13 +54,13 @@ sollte; fehlt er, darauf hinweisen.
    feststellen, Leistungsart bestimmen (Liefer-/Dienstleistung, Bauleistung,
    freiberufliche Leistung) und den voraussichtlichen Auftragswert (netto, ohne
    Umsatzsteuer) schätzen, ggf. unter Berücksichtigung einer losweisen Vergabe.
-   Begriffe: `references/glossar.md`; Einordnung Ober-/Unterschwelle:
-   `references/schwellenwerte-eu.md` und `references/wertgrenzen-sachsen.md`.
+   Begriffe: [references/glossar.md](references/glossar.md); Einordnung Ober-/Unterschwelle:
+   [references/schwellenwerte-eu.md](references/schwellenwerte-eu.md) und [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
 
 2. **Verfahrenswahl** — anhand von Wertbereich und Leistungsart die zulässige
    Verfahrensart ermitteln. Die vollständige Herleitung mit Entscheidungsbaum
    liefert der Skill `vergabe-sachsen-verfahrenswahl`; die Verfahrensarten-Übersicht
-   selbst steht in `references/verfahrensarten.md`.
+   selbst steht in [references/verfahrensarten.md](references/verfahrensarten.md).
 
 3. **Vergabeunterlagen/Dokumente** — Leistungsbeschreibung, Eignungs- und
    Zuschlagskriterien sowie den (fortlaufend zu führenden) Vergabevermerk anlegen
@@ -64,20 +68,20 @@ sollte; fehlt er, darauf hinweisen.
    `vergabe-sachsen-dokumente`; die zugrunde liegende Dokumentationspflicht (§ 8 VgV/§ 20
    EU VOB/A oberschwellig bzw. § 20 VOB/A/§ 20 VOL/A unterschwellig; ergänzend § 5
    Abs. 1 SächsVergabeG i. V. m. Anlage 1) steht in
-   `references/sachsen-spezifika.md` und `references/rechtsquellen.md`.
+   [references/sachsen-spezifika.md](references/sachsen-spezifika.md) und [references/rechtsquellen.md](references/rechtsquellen.md).
 
 4. **Bekanntmachung und Fristen** — das Verfahren veröffentlichen (Vergabeplattform
    des Freistaates Sachsen, bei Bauvergaben des SIB zusätzlich `sachsen-vergabe.de`;
    oberschwellig zusätzlich EU-Amtsblatt) und die für die gewählte Verfahrensart
    geltende Teilnahme-/Angebotsfrist setzen. Fristentabelle je Verfahrensart:
-   `references/fristen.md`; Plattformen: `references/sachsen-spezifika.md`.
+   [references/fristen.md](references/fristen.md); Plattformen: [references/sachsen-spezifika.md](references/sachsen-spezifika.md).
 
 5. **Angebotswertung** — nach Fristablauf die eingegangenen Angebote werten. In
    Sachsen gilt unterschwellig das **vierstufige Prüfschema des § 5 SächsVergabeG
    i. V. m. Anlage 1**: (1) formale Prüfung, (2) Eignungsprüfung, (3) Prüfung der
    Preisangemessenheit/Auskömmlichkeit, (4) Wirtschaftlichkeitsbewertung und
    Zuschlagsentscheidung. Die konkrete Aufgreifschwelle für Zweifel an der
-   Preisangemessenheit steht in `references/sachsen-spezifika.md`; Vordruck zur
+   Preisangemessenheit steht in [references/sachsen-spezifika.md](references/sachsen-spezifika.md); Vordruck zur
    Dokumentation der Wertung: Vergabevermerk-Vorlage in `vergabe-sachsen-dokumente`.
 
 6. **Vorabinformation vor Zuschlag** — nicht berücksichtigte Bieter informieren,
@@ -87,29 +91,29 @@ sollte; fehlt er, darauf hinweisen.
    nach Ablauf von deren Prüffrist zulässig — § 8 Abs. 2 SächsVergabeG; Aufgreifschwelle
    nach Auftragswert), oberschwellig **§ 134 GWB** (Warte-/Stillhaltefrist). Die
    konkreten Fristen und Aufgreifschwellen stehen in
-   `references/sachsen-spezifika.md`; Vorlage für das Absageschreiben:
+   [references/sachsen-spezifika.md](references/sachsen-spezifika.md); Vorlage für das Absageschreiben:
    `vergabe-sachsen-dokumente`.
 
 7. **Zuschlag und Dokumentation** — vor dem Zuschlag ab der Abfragegrenze —
    **auch unterschwellig** — das **Wettbewerbsregister** für den vorgesehenen
    Zuschlagsbieter abfragen (§ 6 Abs. 1 WRegG; Abfragegrenze:
-   `references/wertgrenzen-sachsen.md`), dann nach Ablauf der
+   [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md)), dann nach Ablauf der
    Warte-/Informationsfrist den Zuschlag erteilen, das Zuschlagsschreiben versenden,
    die Meldung an die **Vergabestatistik** (VergStatVO; Meldegrenze:
-   `references/wertgrenzen-sachsen.md`) übermitteln und den Vergabevermerk
+   [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md)) übermitteln und den Vergabevermerk
    abschließen. Vorlagen: `vergabe-sachsen-dokumente`. Zum Rechtsschutz (Nachprüfung
-   ober- und unterschwellig) siehe `references/sachsen-spezifika.md`.
+   ober- und unterschwellig) siehe [references/sachsen-spezifika.md](references/sachsen-spezifika.md).
 
 Endet das Verfahren ausnahmsweise **ohne Zuschlag (Aufhebung)**, ist das nur aus den
 Gründen des § 63 VgV bzw. § 17 VOB/A / § 17 VOL/A sanktionslos möglich; Bieter sind
 unverzüglich zu unterrichten, die Gründe im Vergabevermerk zu dokumentieren — siehe
-`references/verfahrensarten.md` (Hinweise) und `references/glossar.md` („Aufhebung“).
+[references/verfahrensarten.md](references/verfahrensarten.md) (Hinweise) und [references/glossar.md](references/glossar.md) („Aufhebung“).
 
 ## Checkliste
 
 Eine abhakbare Schritt-für-Schritt-Checkliste über alle sieben Phasen (mit
 Platzhaltern und Verweisen auf die jeweils passende Referenzdatei bzw. den
-passenden Fachskill) steht in `checklisten/checkliste-verfahren.md`. Sie ist eine
+passenden Fachskill) steht in [checklisten/checkliste-verfahren.md](checklisten/checkliste-verfahren.md). Sie ist eine
 **skill-eigene Prozesshilfe** und wird — anders als `references/` — nicht durch den
 Sync-Mechanismus überschrieben.
 

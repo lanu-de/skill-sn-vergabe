@@ -26,3 +26,17 @@ def test_frontmatter_is_valid_yaml_and_follows_standard(skill: Path):
     assert isinstance(fm["description"], str)
     assert 0 < len(fm["description"]) <= 1024
     assert "<" not in fm["description"] and ">" not in fm["description"]
+    # Nur Felder des offenen Agent-Skills-Standards (agentskills.io).
+    assert set(fm) <= {"name", "description", "license", "compatibility", "metadata", "allowed-tools"}
+    assert fm["license"] == "CC-BY-4.0"
+    assert all(isinstance(v, str) for v in fm["metadata"].values())
+
+
+def test_skill_versions_match_plugin_manifest():
+    import json
+
+    version = json.loads((ROOT / ".claude-plugin" / "plugin.json").read_text(encoding="utf-8"))["version"]
+    for skill in SKILLS:
+        assert _frontmatter(skill)["metadata"]["version"] == version, (
+            f"{skill.name}: 'python scripts/sync_shared.py sync' ausführen"
+        )

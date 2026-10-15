@@ -1,6 +1,10 @@
 ---
 name: vergabe-sachsen-basis
 description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills. German keywords – Vergaberecht, Vergabestelle, Kommune, Rechtsfrage, Begriff, Normenhierarchie.
+license: CC-BY-4.0
+metadata:
+  author: LaNU Sachsen
+  version: "0.2.0"
 ---
 
 # vergabe-sachsen – Basis
@@ -61,11 +65,11 @@ ist der häufigste Stolperstein, weil sie dem bundesweiten Regelfall (UVgO) wide
 
 Wo genau das steht und mit welcher amtlichen Fundstelle:
 
-- `references/rechtsquellen.md` – vollständige Normenhierarchie mit Fundstelle und
+- [references/rechtsquellen.md](references/rechtsquellen.md) – vollständige Normenhierarchie mit Fundstelle und
   Rechtsstand je Norm (EU/Bund/Sachsen), inkl. der haushaltsrechtlichen Grundlage.
-- `references/glossar.md` – Kürzel und Begriffe (GWB, VgV, UVgO, VOB/A, VOL/A,
+- [references/glossar.md](references/glossar.md) – Kürzel und Begriffe (GWB, VgV, UVgO, VOB/A, VOL/A,
   SächsVergabeG u. a.).
-- `references/sachsen-spezifika.md` – die genuin sächsischen Besonderheiten (u. a.
+- [references/sachsen-spezifika.md](references/sachsen-spezifika.md) – die genuin sächsischen Besonderheiten (u. a.
   warum VOL/A statt UVgO, Freihändige Vergabe, Vergabebericht vs. Vergabevermerk,
   Nachprüfung, E-Vergabe-Plattform).
 
@@ -92,13 +96,13 @@ folgende Vorgehensweise:
    dem Gedächtnis oder allgemeinem Wissen über Vergaberecht, da sich Sachsen (VOL/A
    statt UVgO) und der aktuelle Rechtsstand (Vergabebeschleunigungsgesetz) vom
    bundesweiten Regelfall unterscheiden können:
-   - `references/glossar.md` – Begriffe und Kürzel.
-   - `references/rechtsquellen.md` – welche Norm gilt, mit amtlicher Fundstelle.
-   - `references/schwellenwerte-eu.md` – aktuelle EU-Schwellenwerte.
-   - `references/wertgrenzen-sachsen.md` – sächsische Wertgrenzen unterschwellig.
-   - `references/verfahrensarten.md` – Verfahrensarten je Wertbereich.
-   - `references/fristen.md` – Fristen je Verfahrensart.
-   - `references/sachsen-spezifika.md` – genuin sächsische Regelungen.
+   - [references/glossar.md](references/glossar.md) – Begriffe und Kürzel.
+   - [references/rechtsquellen.md](references/rechtsquellen.md) – welche Norm gilt, mit amtlicher Fundstelle.
+   - [references/schwellenwerte-eu.md](references/schwellenwerte-eu.md) – aktuelle EU-Schwellenwerte.
+   - [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md) – sächsische Wertgrenzen unterschwellig.
+   - [references/verfahrensarten.md](references/verfahrensarten.md) – Verfahrensarten je Wertbereich.
+   - [references/fristen.md](references/fristen.md) – Fristen je Verfahrensart.
+   - [references/sachsen-spezifika.md](references/sachsen-spezifika.md) – genuin sächsische Regelungen.
 3. **Immer Fundstelle und Stand aus der jeweiligen Referenztabelle mit nennen** –
    nie eine Zahl oder Rechtsaussage ohne Beleg wiedergeben.
 4. Bei verbindlichen Werten (Wertgrenzen, Fristen, Paragrafen) zusätzlich die
@@ -107,7 +111,7 @@ folgende Vorgehensweise:
    als fachliche Prüfquelle für sächsische Praxis- und Wertgrenzenfragen: die
    Auftragsberatungsstelle Sachsen (`abstsachsen.de`) — keine Primärquelle,
    Verbindlichkeit nur aus den amtlichen Quellen (siehe
-   `references/sachsen-spezifika.md`).
+   [references/sachsen-spezifika.md](references/sachsen-spezifika.md)).
 5. Passt die Frage eher zu Verfahrenswahl, Dokumenterstellung oder
    Verfahrensbegleitung, auf den entsprechenden Skill aus dem Wegweiser
    verweisen, statt die Antwort hier im Detail auszuarbeiten.
