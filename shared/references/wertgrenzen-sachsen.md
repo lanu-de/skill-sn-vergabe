@@ -45,7 +45,7 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
 | Verfahren | Leistungsart | Wertgrenze | Fundstelle | Stand |
 |---|---|---|---|---|
 | **Direktkauf** (Beschaffung ohne Vergabeverfahren) | Liefer-/Dienstleistungen (VOL/A, in Sachsen anwendbar) | bis **500 EUR** (netto) als gesetzlicher Grundwert; von Praxisquellen wird für Sachsen ein höherer Direktauftragswert (aumass: 15.000 EUR) genannt, ließ sich aber nicht gegen eine amtliche sächsische Primärquelle belegen — **höherer Wert (zu prüfen)** | § 3 Abs. 6 VOL/A (Ausgabe 2009) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; VOL/A-Text: https://www.vergabevorschriften.de/vol-a/3 | 01.07.2026 (Prüfstand; SächsVergabeG i. d. F. v. 27.04.2019) |
-| **Direktauftrag** (§ 14 UVgO) — *nur nachrichtlich; in Sachsen für Landes-/Kommunalvergaben (noch) nicht einschlägig* | Liefer-/Dienstleistungen (UVgO, in Sachsen nur Bundesauftragsverwaltung) | **1.000 EUR** (netto) Grundwert der UVgO; für die **Bundes**verwaltung befristet auf 15.000 EUR angehoben (bis Inkrafttreten Vergabebeschleunigungsgesetz, längstens 31.12.2027). Für Sachsen mangels UVgO-Einführung **nicht bindend (zu prüfen)** | § 14 UVgO: https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_02022017_IB6261902.htm ; befristete Anhebung Bund BAnz AT 29.12.2025 B1, nachrichtlich: https://www.bundesamtsozialesicherung.de/de/service/rundschreiben/detail/default-8f5b9646a32a23e44bd567d69517b225/ | 01.07.2026 (Prüfstand) |
+| **Direktauftrag** (§ 14 UVgO) — *nur nachrichtlich; in Sachsen für Landes-/Kommunalvergaben (noch) nicht einschlägig* | Liefer-/Dienstleistungen (UVgO, in Sachsen nur Bundesauftragsverwaltung) | **1.000 EUR** (netto) Grundwert der UVgO; für die **Bundes**verwaltung war er befristet auf 15.000 EUR angehoben (BAnz AT 29.12.2025 B1); diese Sonderregelung ist mit Inkrafttreten des Vergabebeschleunigungsgesetzes am 01.07.2026 **ausgelaufen** — seither Direktauftrag Bund bis 50.000 EUR nach § 55 Abs. 2 BHO. Für Sachsen mangels UVgO-Einführung **nicht bindend (zu prüfen)** | § 14 UVgO: https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_02022017_IB6261902.htm ; befristete Anhebung Bund BAnz AT 29.12.2025 B1, nachrichtlich: https://www.bundesamtsozialesicherung.de/de/service/rundschreiben/detail/default-8f5b9646a32a23e44bd567d69517b225/ ; § 55 Abs. 2 BHO: https://www.gesetze-im-internet.de/bho/__55.html | 01.07.2026 (Prüfstand) / 15.10.2026 geprüft (Auslaufen der Bundes-Sonderregelung) |
 | **Freihändige Vergabe** | Liefer-/Dienstleistungen (VOL/A) | bis **25.000 EUR** (netto) | § 4 Abs. 1 Satz 1 SächsVergabeG i. V. m. § 3 Abs. 5 Buchst. i VOL/A: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (SächsVergabeG i. d. F. v. 27.04.2019) |
 | **Beschränkte Ausschreibung ohne Teilnahmewettbewerb** | Liefer-/Dienstleistungen (VOL/A) | Kein fester Euro-Wert im Gesetz; zulässig nach den Tatbeständen des § 3 VOL/A, Obergrenze = EU-Schwelle 216.000 EUR. Ein sächsischer Euro-Grenzwert konnte nicht belegt werden — **fester Wert (zu prüfen)** | § 3 VOL/A (Ausgabe 2009) i. V. m. § 1 Abs. 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 (Prüfstand) |
 | **Beschränkte Ausschreibung mit Teilnahmewettbewerb / Öffentliche Ausschreibung** | Liefer-/Dienstleistungen (VOL/A) | bis zur EU-Schwelle **216.000 EUR** (netto, andere öffentliche Auftraggeber); darüber zwingend EU-weit (Oberschwelle) | EU-Schwelle: `schwellenwerte-eu.md`; § 106 GWB: https://www.gesetze-im-internet.de/gwb/__106.html | 01.07.2026 |
@@ -53,6 +53,8 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
 | **Freihändige Vergabe** | Bau (VOB/A Abschnitt 1) | **25.000 EUR** (netto) als landesgesetzliche Obergrenze nach § 4 SächsVergabeG; die Bundes-VOB/A § 3a Abs. 3 sieht demgegenüber 100.000 EUR vor. Welcher Wert in Sachsen bindet, ist amtlich ungeklärt — **(zu prüfen)** | § 4 Abs. 1 Satz 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; ggü. § 3a Abs. 3 VOB/A (Fassung 2025), BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf | 01.07.2026 (Prüfstand; Widerspruch Landes-/Bundesrecht) |
 | **Beschränkte Ausschreibung ohne Teilnahmewettbewerb** | Bau (VOB/A Abschnitt 1) | bis **150.000 EUR** (netto) nach Bundes-VOB/A; Anwendung in Sachsen über § 1 Abs. 2 SächsVergabeG | § 3a Abs. 2 VOB/A (Fassung 2025), BMWSB-Erlass v. 17.12.2025, BAnz AT 16.12.2025 B7: https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf | 01.01.2026 (VOB/A) / 01.07.2026 (Prüfstand Sachsen) |
 | **Beschränkte Ausschreibung mit Teilnahmewettbewerb / Öffentliche Ausschreibung** | Bau (VOB/A Abschnitt 1) | ohne betragsmäßige Obergrenze bis zur EU-Schwelle **5.404.000 EUR** (netto); darüber zwingend EU-weit (Oberschwelle) | § 3a Abs. 1 VOB/A (Fassung 2025): https://www.vob-online.de/resource/blob/1254604/3b4dac38a2f9e599d649f32a8dae174f/erlass-vom-17-12-2025-data.pdf ; EU-Schwelle: `schwellenwerte-eu.md` | 01.07.2026 |
+| **Wettbewerbsregister-Abfrage** (Pflicht vor Zuschlag) | alle Leistungsarten, ober- **und** unterschwellig (öffentliche Auftraggeber nach § 99 GWB) | ab **50.000 EUR** (netto, geschätzter Auftragswert; bis 30.06.2026: 30.000 EUR); darunter freiwillig (§ 6 Abs. 2 WRegG); Sektoren-/Konzessionsgeber erst ab den Schwellenwerten des § 106 GWB | § 6 Abs. 1 WRegG, geändert durch Art. 4 Vergabebeschleunigungsgesetz (BGBl. 2026 I Nr. 137): https://www.gesetze-im-internet.de/wregg/__6.html | 01.07.2026 (in Kraft) / 15.10.2026 geprüft |
+| **Meldung an die Vergabestatistik** (nach Zuschlag) | alle Leistungsarten, unterschwellig (öffentliche Auftraggeber nach § 99 GWB); oberschwellig gilt § 2 Abs. 1 VergStatVO | Auftragswert **über 50.000 EUR** (netto) | § 2 Abs. 2 Nr. 1 VergStatVO: https://www.gesetze-im-internet.de/vergstatvo/__2.html | 15.10.2026 geprüft |
 
 ## Hinweise zur Tabelle
 
@@ -103,7 +105,10 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   25.000 EUR, während die neue Bundes-VOB/A (§ 3a Abs. 3, nur Verwaltungsvorschrift)
   100.000 EUR vorsieht. Als landesgesetzliche Spezialregelung könnte § 4 SächsVergabeG die
   niedrigere Grenze in Sachsen fortschreiben; zugleich verweist § 1 Abs. 2 SächsVergabeG dynamisch
-  auf die geltende VOB/A. Die **Auftragsberatungsstelle Sachsen (ABSt Sachsen)** stellt zu
+  auf die geltende VOB/A. Hinzu kommt: § 4 Abs. 1 Satz 2 SächsVergabeG verweist noch auf
+  „§ 3 Absatz 5“ VOB/A, den es in der aktuellen VOB/A nicht mehr gibt (heute § 3a Abs. 3);
+  laut Redaktionshinweis in REVOSax „bedarf [der Verweis] daher der Aktualisierung durch den
+  Gesetzgeber“. Die **Auftragsberatungsstelle Sachsen (ABSt Sachsen)** stellt zu
   den neuen VOB/A-Wertgrenzen ausdrücklich fest: „Eine detaillierte Würdigung im
   Zusammenhang mit dem Sächsischen Vergabegesetz steht noch aus.“ Bis zu einer amtlichen
   Klärung bzw. der SächsVergabeG-Novelle ist der maßgebliche Wert **(zu prüfen)** — im
@@ -124,13 +129,18 @@ sächsischen Unterschwellen-Wertgrenzen (siehe Hinweise).
   angestrebt. Im Übrigen betreffen die Änderungen den Oberschwellenbereich (GWB: u. a.
   §§ 97a, 107, 113, 131, 155 ff.; VgV: u. a. §§ 10a, 55, 58) sowie flankierend die Anhebung
   der Abfragegrenze des Wettbewerbsregisters und der Meldegrenze der Vergabestatistik auf
-  jeweils 50.000 EUR. **Für die hier gelisteten sächsischen Unterschwellen-Wertgrenzen ergibt
-  sich aus dem Vergabebeschleunigungsgesetz unmittelbar keine Änderung.** (Quelle u. a.
+  jeweils 50.000 EUR (siehe Tabelle oben). **Für die sächsischen Verfahrens-Wertgrenzen
+  (Direktkauf, Freihändige Vergabe usw.) ergibt sich aus dem Vergabebeschleunigungsgesetz
+  unmittelbar keine Änderung** — wohl aber für die bundesrechtlichen Pflichten, die auch
+  sächsische Unterschwellenvergaben treffen: Wettbewerbsregister-Abfrage (§ 6 Abs. 1 WRegG)
+  und Vergabestatistik (§ 2 Abs. 2 VergStatVO), jeweils ab 50.000 EUR. (Quelle u. a.
   cosinex, 24.04.2026: https://blog.cosinex.de/2026/04/24/vergabebeschleunigung/)
-- **Befristete Sonderregelung (Bund, nachrichtlich):** Die Anhebung des UVgO-Direktauftrags
-  für die **Bundes**verwaltung auf **15.000 EUR** beruht auf einer befristeten abweichenden
-  Verwaltungsvorschrift (BAnz AT 29.12.2025 B1) und gilt bis zum Inkrafttreten der neuen
-  gesetzlichen Regelung, **längstens bis 31.12.2027**. Für Sachsen ohne unmittelbare
+- **Ausgelaufene Sonderregelung (Bund, nachrichtlich):** Die Anhebung des UVgO-Direktauftrags
+  für die **Bundes**verwaltung auf **15.000 EUR** beruhte auf einer befristeten abweichenden
+  Verwaltungsvorschrift (BAnz AT 29.12.2025 B1), die nur bis zum Inkrafttreten der neuen
+  gesetzlichen Regelung galt. Mit dem Vergabebeschleunigungsgesetz (in Kraft 01.07.2026) ist
+  sie **ausgelaufen**; seither gilt für den Bund der Direktauftrag bis 50.000 EUR nach
+  § 55 Abs. 2 BHO (https://www.gesetze-im-internet.de/bho/__55.html). Für Sachsen ohne unmittelbare
   Bedeutung (keine UVgO-Anwendung in der Landesverwaltung).
 - **Laufende Novelle SächsVergabeG.** Die Staatsregierung hat eine Neufassung des
   SächsVergabeG angekündigt (u. a. Einführung der UVgO, Anpassung der Wertgrenzen,

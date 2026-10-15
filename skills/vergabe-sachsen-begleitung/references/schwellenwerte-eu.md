@@ -40,7 +40,7 @@ die niedrigere Bundesbehörden-Schwelle.
   die **Delegierten Verordnungen (EU) 2025/2150, 2025/2151 und 2025/2152** der Kommission
   vom 22.10.2025, veröffentlicht im Amtsblatt der EU am 23.10.2025 (ABl. L, OJ L –
   2025/7079) und wirksam ab **01.01.2026**. National wird dies zusätzlich durch die
-  Bekanntmachung des Bundesministeriums für Wirtschaft und Klimaschutz (BMWK) im
+  Bekanntmachung des Bundesministeriums für Wirtschaft und Energie (BMWE) im
   Bundesanzeiger nachrichtlich veröffentlicht: **BAnz AT 18.12.2025 B4** –
   https://bundesanzeiger.de/pub/publication/zDKvMODHbpcIPpDPapc/content/zDKvMODHbpcIPpDPapc/BAnz%20AT%2018.12.2025%20B4.pdf?inline=
   Die nationale Rechtsgrundlage, auf die diese EU-Werte über eine **dynamische
@@ -56,7 +56,7 @@ die niedrigere Bundesbehörden-Schwelle.
   mit tabellarischer Übersicht) sowie mehrere unabhängige Fachquellen (u. a. Deutscher
   Städte- und Gemeindebund, Vergabeplattform NRW, cosinex) gegengelesen; alle Quellen
   stimmen in den genannten Beträgen überein. **Keiner der Werte ist als „zu prüfen“
-  gekennzeichnet** – alle sieben Zeilen der Tabelle gelten als recherchiert bestätigt
+  gekennzeichnet** – alle sechs Zeilen der Tabelle gelten als recherchiert bestätigt
   (Stand der Prüfung: 01.07.2026).
 - **Änderung zur Vorperiode (2024/2025):** Die Schwellenwerte sind zum 01.01.2026
   gegenüber der Vorperiode leicht **gesunken** (z. B. Bauaufträge von 5.538.000 EUR auf
@@ -73,7 +73,7 @@ die niedrigere Bundesbehörden-Schwelle.
 - **Verhältnis zu `wertgrenzen-sachsen.md`:** Die hier genannten EU-Schwellenwerte
   markieren die Grenze zwischen Ober- und Unterschwellenbereich. Die konkreten
   **nationalen/sächsischen Wertgrenzen unterhalb** dieser Schwellen (z. B. für
-  Direktaufträge, Verhandlungsvergabe ohne Teilnahmewettbewerb) stehen in
+  Direktkauf/Direktauftrag, Freihändige Vergabe) stehen in
   `wertgrenzen-sachsen.md`.
 
 ## Schätzung des Auftragswerts (§ 3 VgV)

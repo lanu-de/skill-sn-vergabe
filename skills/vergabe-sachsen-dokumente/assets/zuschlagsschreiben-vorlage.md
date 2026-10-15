@@ -9,7 +9,10 @@
 berücksichtigten Bietern bereits abgelaufen? Oberschwellig § 134 GWB, unterschwellig in
 Sachsen § 8 SächsVergabeG (sofern Auftragswert oberhalb der Aufgreifschwelle liegt) — siehe
 `assets/absageschreiben-vorlage.md` und `references/sachsen-spezifika.md`. Der Zuschlag darf
-erst **nach** Fristablauf erteilt werden.
+erst **nach** Fristablauf erteilt werden. Hat ein Bieter unterschwellig vor Fristablauf
+schriftlich beanstandet und wurde nicht abgeholfen, darf der Zuschlag erst erteilt werden,
+wenn die unterrichtete Nachprüfungsbehörde nicht innerhalb von 10 Kalendertagen
+beanstandet hat (§ 8 Abs. 2 Satz 2 SächsVergabeG).
 
 ---
 
