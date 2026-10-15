@@ -8,11 +8,52 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ### Hinzugefügt
 - Release-Workflow erzeugt zusätzlich `vergabe-sachsen-alle-skills.zip` (alle vier
-  Skill-Ordner in einem Zip, für Claude Desktop/manuelle Installation; nicht für den
+  Skill-Ordner in einem Zip, für Claude Code/manuelle Installation; nicht für den
   claude.ai-Einzel-Upload).
+- **`.skill`-Dateien** je Skill im Release (Upload in claude.ai/Claude Desktop); Bau aller
+  Pakete über das neue Skript `scripts/build_packages.py` (prüft Frontmatter-`name`,
+  reproduzierbare Archive).
+- GitHub-Action **„Prüfung“** bei Push/PR: Tests, Fundstellen-Check, Abgleich
+  `shared/references/` ↔ Skill-Kopien, Probe-Paketbau. Der Release-Workflow prüft den
+  Abgleich ebenfalls vor dem Packen.
+- `wertgrenzen-sachsen.md`: Tabellenzeilen für **Wettbewerbsregister-Abfrage** (§ 6 Abs. 1
+  WRegG, 50.000 EUR) und **Vergabestatistik** (§ 2 Abs. 2 VergStatVO, über 50.000 EUR) mit
+  Fundstelle und Stand.
+- Deutsche Trigger-Wörter in den Skill-Beschreibungen.
 
 ### Geändert
+- **INSTALLATION.md neu**: Wegweiser je Programm — claude.ai/Desktop (Plugin-Marketplace
+  oder `.skill`-Upload), Team/Enterprise, Claude Code, `npx skills add` für Copilot, Codex,
+  Cursor, Gemini CLI u. a., ChatGPT. README-Kurzfassung angeglichen.
 - Release-Workflow: `actions/checkout` auf v5 (behebt Node-20-Deprecation-Warnung).
+- `sync_shared.py sync` entfernt verwaiste Dateien in `skills/*/references/`.
+
+### Behoben
+- INSTALLATION/README: Claude Desktop (Chat) liest `~/.claude/skills/` **nicht** — die
+  bisherige Anleitung funktionierte nur für Claude Code.
+- **Wettbewerbsregister**: Abfragepflicht gilt ab 50.000 EUR auch **unterschwellig**
+  (§ 6 Abs. 1 WRegG), nicht nur oberschwellig (Begleitung, Checkliste, Glossar).
+- **§ 38 Abs. 3 VgV**: Fristverkürzung nach Vorinformation (15 bzw. 10 Tage) ergänzt; die
+  frühere Aussage, die VgV kenne keine solche Verkürzung, war falsch (`fristen.md`).
+- **§ 1 VOL/A** nimmt *alle* freiberuflichen Leistungen aus, nicht nur nicht beschreibbare;
+  Darstellung in `sachsen-spezifika.md`, `verfahrensarten.md`, Glossar und Verfahrenswahl
+  korrigiert (Folge für beschreibbare Leistungen als „(zu prüfen)“ markiert).
+- **§ 8 Abs. 2 SächsVergabeG**: Ablauf nach Beanstandung (Unterrichtung der
+  Nachprüfungsbehörde, 10 Kalendertage) in Checkliste, Begleitung und Zuschlagsvorlage
+  ergänzt; Absageschreiben nennt die Frist für Beanstandungen.
+- Veralteter Verweis „§ 3 Abs. 5 VOB/A“ durch **§ 3a Abs. 3 VOB/A** ersetzt (inkl.
+  REVOSax-Redaktionshinweis zu § 4 Abs. 1 Satz 2 SächsVergabeG).
+- Entscheidungsbaum Bau (Verfahrenswahl): Zweig „Freihändige Vergabe“ war bei den
+  sächsischen Werten nicht erreichbar; Direktauftrag Bau jetzt „(zu prüfen)“ mit Hinweis.
+- Befristete Bundes-Sonderregelung (UVgO-Direktauftrag 15.000 EUR) als zum 01.07.2026
+  ausgelaufen gekennzeichnet; Ministerium BMWK → BMWE; VgV-Änderung vom 02.09.2026
+  nachrichtlich („(zu prüfen)“).
+- Kleinere Korrekturen: SIB-Plattform nur für Bauvergaben des SIB, Abschnittsverweise im
+  Absageschreiben, Zeilenzahl in `schwellenwerte-eu.md`, UVgO-Begriff
+  „Verhandlungsvergabe“ entfernt, Checkliste verweist nicht mehr skillübergreifend auf
+  den Basis-Skill.
+- `check_fundstellen`: Spalten „Fundstelle“/„Stand“ werden exakt erkannt (vorher wurden
+  u. a. „Gegenstand“ und „Stand in Sachsen“ fälschlich als Stand-Spalte geprüft).
 
 ## [0.2.0] – 2026-07-02
 

@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-dokumente
-description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template.
+description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template. German keywords: Vergabevermerk, Leistungsbeschreibung, Vorlage, Absageschreiben, Zuschlagsschreiben, Bekanntmachung.
 ---
 
 # vergabe-sachsen – Dokumente
@@ -59,7 +59,7 @@ konkreten Verfahrens (inkl. Einsatz dieser Vorlagen zum passenden Verfahrensschr
 ## Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche Nachprüfung
-und Ergänzungen zum **02.07.2026**. Vor jeder verbindlichen
+und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**. Vor jeder verbindlichen
 Verwendung einer Vorlage die konkreten Beträge, Fristen und Paragrafen in der jeweiligen
 Referenzdatei prüfen und bei Bedarf gegen die amtliche Primärquelle verifizieren
 (`revosax.sachsen.de` für SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als
