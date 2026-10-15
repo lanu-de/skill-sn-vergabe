@@ -6,6 +6,8 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+## [0.3.0] – 2026-10-15
+
 ### Hinzugefügt
 - **Neuer Skill `vergabe-sachsen-markterkundung`**: Markterkundung vor dem Vergabeverfahren
   planen, Unternehmen anfragen, Antworten auswerten und dokumentieren; Vorlagen

@@ -4,7 +4,7 @@ description: Use when a public-sector contracting authority in the German Free S
 license: CC-BY-4.0
 metadata:
   author: LaNU Sachsen
-  version: "0.2.0"
+  version: "0.3.0"
 ---
 
 # vergabe-sachsen – Basis
