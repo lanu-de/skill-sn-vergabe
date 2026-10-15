@@ -3,9 +3,14 @@
 from __future__ import annotations
 
 import argparse
+import json
+import re
 import shutil
 import sys
 from pathlib import Path
+
+# (?=\r?$): Dateien koennen lokal CRLF-Zeilenenden haben.
+_FRONTMATTER_VERSION = re.compile(r'^(  version: ")[^"\r\n]*(")(?=\r?$)', re.MULTILINE)
 
 
 def shared_references_dir(root: Path) -> Path:
@@ -37,7 +42,29 @@ def sync(root: Path) -> list[Path]:
             dest = dest_dir / src.name
             shutil.copyfile(src, dest)
             written.append(dest)
+    _sync_versions(root)
     return written
+
+
+def _sync_versions(root: Path) -> None:
+    """Uebertraegt die Version aus .claude-plugin/plugin.json in metadata.version jeder SKILL.md."""
+    manifest = root / ".claude-plugin" / "plugin.json"
+    if not manifest.is_file():
+        return
+    version = json.loads(manifest.read_text(encoding="utf-8"))["version"]
+    for skill in skill_dirs(root):
+        skill_md = skill / "SKILL.md"
+        if not skill_md.is_file():
+            continue
+        raw = skill_md.read_bytes().decode("utf-8")
+        # Nur im Frontmatter ersetzen (zwischen erstem und zweitem ---).
+        parts = raw.split("---", 2)
+        if len(parts) < 3:
+            continue
+        frontmatter = _FRONTMATTER_VERSION.sub(lambda m: f"{m.group(1)}{version}{m.group(2)}", parts[1])
+        updated = "---".join([parts[0], frontmatter, parts[2]])
+        if updated != raw:
+            skill_md.write_bytes(updated.encode("utf-8"))
 
 
 _PLACEHOLDER = {"", "todo", "tbd", "-", "–", "—", "?", "n/a", "offen"}

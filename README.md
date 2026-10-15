@@ -1,9 +1,11 @@
 # vergabe-sachsen – Vergabe-Skills für den Freistaat Sachsen
 
-Eine Sammlung von Claude-Skills, die **öffentliche Auftraggeber im Freistaat Sachsen**
-bei der Durchführung von Vergabeverfahren unterstützt: das richtige Verfahren wählen,
+Eine Sammlung von KI-Skills im offenen [Agent-Skills-Standard](https://agentskills.io), die
+**öffentliche Auftraggeber im Freistaat Sachsen** bei der Durchführung von Vergabeverfahren unterstützt: das richtige Verfahren wählen,
 Vergabedokumente erstellen, Rechtsfragen beantworten und ein Verfahren Schritt für
-Schritt durchführen.
+Schritt durchführen. Die Skills funktionieren mit Claude, ChatGPT, GitHub Copilot, Codex,
+Cursor, Gemini CLI u. a.; für Assistenten ohne Skill-Unterstützung wie Microsoft 365
+Copilot gibt es ein Wissensbasis-Paket.
 
 > ⚠️ **Disclaimer:** Diese Skills bieten **Orientierung und ersetzen keine
 > Rechtsberatung.** Verbindlichkeit ergibt sich ausschließlich aus den geprüften
@@ -46,7 +48,10 @@ Kurzfassung — Schritt für Schritt und für weitere Programme in
 - **Claude Code:** `/plugin marketplace add lanu-de/skill-sn-vergabe` →
   `/plugin install vergabe-sachsen@vergabe-sachsen`.
 - **GitHub Copilot, Codex, Cursor, Gemini CLI u. a.:** `npx skills add lanu-de/skill-sn-vergabe`.
-- **ChatGPT:** Skills-Upload bzw. Nachbau als Projekt.
+- **ChatGPT:** Skills-Upload (Business/Enterprise/Edu).
+- **Microsoft 365 Copilot, ChatGPT-Projekte, Gemini Gems u. a.:**
+  `vergabe-sachsen-wissensbasis.zip` von der Release-Seite — Anweisungen einfügen,
+  Dateien als Wissen hochladen.
 
 ## Rechts-Datenstand und Methodik
 
