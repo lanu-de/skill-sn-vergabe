@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-dokumente
-description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template. German keywords: Vergabevermerk, Leistungsbeschreibung, Vorlage, Absageschreiben, Zuschlagsschreiben, Bekanntmachung.
+description: Use when a contracting authority in Saxony needs to create or draft a procurement document — Vergabevermerk, Leistungsbeschreibung, Eignungs-/Zuschlagskriterien, Bekanntmachungstext, or a Zuschlags-/Absageschreiben — as a fill-in template. German keywords – Vergabevermerk, Leistungsbeschreibung, Vorlage, Absageschreiben, Zuschlagsschreiben, Bekanntmachung.
 ---
 
 # vergabe-sachsen – Dokumente

@@ -50,5 +50,5 @@ automatisch; die Pakete werden an die Release-Seite angehängt.
 
 - Python 3.9+ (nur für `sync`/`check`; nicht nötig, um die Skills zu *benutzen*).
 - Das Sync- und Check-Tool nutzt ausschließlich die Python-Standardbibliothek. Es gibt daher keine
-  Runtime-Dependencies und keine `requirements.txt`; nur pytest für Tests ist nötig, via
+  Runtime-Dependencies und keine `requirements.txt`; nur pytest und PyYAML (Frontmatter-Prüfung) sind für Tests nötig, via
   `requirements-dev.txt`.

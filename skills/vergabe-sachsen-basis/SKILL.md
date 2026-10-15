@@ -1,6 +1,6 @@
 ---
 name: vergabe-sachsen-basis
-description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills. German keywords: Vergaberecht, Vergabestelle, Kommune, Rechtsfrage, Begriff, Normenhierarchie.
+description: Use when a public-sector contracting authority in the German Free State of Saxony (Freistaat Sachsen) has a general or introductory question about public procurement law — terminology, which rules apply (GWB, VgV, UVgO, VOB/A, VOL/A, SächsVergabeG), the norm hierarchy, or needs an entry point to the other vergabe-sachsen skills. German keywords – Vergaberecht, Vergabestelle, Kommune, Rechtsfrage, Begriff, Normenhierarchie.
 ---
 
 # vergabe-sachsen – Basis
