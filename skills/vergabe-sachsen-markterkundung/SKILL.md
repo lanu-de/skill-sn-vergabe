@@ -3,7 +3,8 @@ name: vergabe-sachsen-markterkundung
 description: Use when a contracting authority in Saxony wants to explore the supplier market before a procurement procedure — planning a market consultation, writing the inquiry letter and questionnaire to companies, evaluating their responses, avoiding prior-involvement (Projektant) risks, or documenting the result for the cost estimate and specification. German keywords – Markterkundung, Marktsondierung, Marktkonsultation, Marktabfrage, Anbieter anfragen, Fragebogen, Projektant, Auftragswert schätzen.
 license: CC-BY-4.0
 metadata:
-  author: LaNU Sachsen
+  author: André Tegge
+  publisher: Sächsische Landesstiftung Natur und Umwelt (LaNU)
   version: "0.3.0"
 ---
 

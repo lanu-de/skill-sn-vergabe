@@ -3,7 +3,8 @@ name: vergabe-sachsen-verfahrenswahl
 description: Use when a contracting authority in Saxony must determine which procurement procedure (Verfahrensart) is admissible for a specific need — driven by the estimated contract value, the type of service (Liefer-/Dienstleistung, Bau, freiberuflich), and the applicable thresholds (EU-Schwellenwerte, sächsische Wertgrenzen). German keywords – Verfahrensart, Ausschreibung, Freihändige Vergabe, Direktauftrag, Auftragswert, Wertgrenze, Schwellenwert.
 license: CC-BY-4.0
 metadata:
-  author: LaNU Sachsen
+  author: André Tegge
+  publisher: Sächsische Landesstiftung Natur und Umwelt (LaNU)
   version: "0.3.0"
 ---
 
