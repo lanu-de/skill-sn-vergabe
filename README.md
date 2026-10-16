@@ -76,5 +76,10 @@ Siehe [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Lizenz
 
-[CC BY 4.0](LICENSE). Amtliche Werke/Gesetzestexte sind nach § 5 UrhG gemeinfrei; die
+Herausgeber: [Sächsische Landesstiftung Natur und Umwelt (LaNU)](https://www.lanu.de). Autor: André Tegge.
+
+Lizenziert unter [CC BY 4.0](LICENSE), soweit Schutzrechte bestehen. Erstellt mit Unterstützung eines KI-Assistenten;
+Inhalte beruhen auf den jeweils angegebenen Quellen.
+
+Gesetzes- und Verordnungstexte sind amtliche Werke und gemeinfrei (§ 5 UrhG); die
 Lizenz betrifft die eigene Zusammenstellung, Erklärungen und Vorlagen.

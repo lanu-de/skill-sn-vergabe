@@ -6,6 +6,13 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+### Geändert
+- Herausgeber und Autor angegeben: README-Abschnitt „Lizenz“ mit „Herausgeber: Sächsische
+  Landesstiftung Natur und Umwelt (LaNU). Autor: André Tegge.“, Lizenz „soweit
+  Schutzrechte bestehen“ und Hinweis auf KI-Unterstützung; Skill-Frontmatter einheitlich
+  `metadata.author: André Tegge` und neu `metadata.publisher` (vorher Autor uneinheitlich
+  zwischen Plugin-Manifest und Skills).
+
 ## [0.3.0] – 2026-10-15
 
 ### Hinzugefügt
