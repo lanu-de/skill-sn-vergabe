@@ -6,6 +6,8 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+## [0.3.1] – 2026-10-16
+
 ### Geändert
 - Herausgeber und Autor angegeben: README-Abschnitt „Lizenz“ mit „Herausgeber: Sächsische
   Landesstiftung Natur und Umwelt (LaNU). Autor: André Tegge.“, Lizenz „soweit

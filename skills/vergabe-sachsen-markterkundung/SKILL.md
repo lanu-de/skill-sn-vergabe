@@ -5,7 +5,7 @@ license: CC-BY-4.0
 metadata:
   author: André Tegge
   publisher: Sächsische Landesstiftung Natur und Umwelt (LaNU)
-  version: "0.3.0"
+  version: "0.3.1"
 ---
 
 # vergabe-sachsen – Markterkundung
