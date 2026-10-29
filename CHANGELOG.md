@@ -6,6 +6,8 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+## [0.3.2] – 2026-10-29
+
 ### Geändert
 Antworten des **Justiziariats der LaNU** (29.10.2026) auf die offenen Rechtsfragen
 übernommen. Die Quelle ist in den Referenzdaten jeweils genannt und als interne
