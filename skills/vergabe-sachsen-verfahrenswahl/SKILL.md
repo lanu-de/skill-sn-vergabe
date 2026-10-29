@@ -71,7 +71,8 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
    Unterschwellige freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und
    erschöpfend beschreibbar ist, unterliegen in Sachsen **keinem förmlichen
    Vergabeverfahren** (§ 1 Abs. 3 SächsVergabeG; § 1 Satz 2 VOL/A schließt freiberufliche
-   Leistungen sogar generell aus) — siehe
+   Leistungen sogar generell aus). Ist die Aufgabe dagegen beschreibbar, gilt das
+   SächsVergabeG ohne VOL/A — siehe
    [references/verfahrensarten.md](references/verfahrensarten.md), Abschnitt „Unterschwelle — Freiberufliche
    Leistungen“; oberschwellig gelten die §§ 73 ff. VgV.
 
@@ -110,25 +111,32 @@ und `vergabe-sachsen-begleitung` bei der schrittweisen Durchführung des gewähl
   Wert: [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
 - **Direktkauf.** Für Liefer-/Dienstleistungen existiert unterhalb der Freihändigen
   Vergabe zusätzlich ein Bagatellwert für die Beschaffung ganz ohne förmliches
-  Vergabeverfahren (§ 3 Abs. 6 VOL/A). Konkreter Wert: [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
+  Vergabeverfahren (§ 3 Abs. 6 VOL/A). Eine höhere sächsische Grenze gibt es nicht; in
+  Praxisquellen genannte höhere Werte gelten in Sachsen nicht. Konkreter Wert:
+  [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md).
 - **Bauleistungen = VOB/A Abschnitt 1.** Unterschwellig gilt für Bauleistungen bundesweit
   und auch in Sachsen die VOB/A Abschnitt 1 (Öffentliche Ausschreibung, Beschränkte
-  Ausschreibung, Freihändige Vergabe, Direktauftrag). Die Bau-Wertgrenzen für Direktauftrag
-  und Freihändige Vergabe sind in Sachsen **„(zu prüfen)“** (siehe nächste Punkte).
-- **Freiberufliche Leistungen unterschwellig: kein förmliches Verfahren.** Ist die
-  Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar (typisch: Planungs-,
-  Architekten-, Ingenieur-, Gutachterleistungen mit Lösungsspielraum), greifen weder
-  SächsVergabeG noch VOL/A (§ 1 Abs. 3 SächsVergabeG, § 1 Satz 2 VOL/A); zu beachten
-  bleiben Haushaltsgrundsätze, Wettbewerb durch Vergleichsangebote und Dokumentation —
-  siehe [references/sachsen-spezifika.md](references/sachsen-spezifika.md). Auch freiberufliche Leistungen mit beschreibbarer
-  Aufgabe fallen nicht unter die VOL/A-Verfahren (§ 1 Satz 2 VOL/A), wohl aber unter das
-  SächsVergabeG (u. a. § 8) — Verfahrensgestaltung dann nach Haushaltsrecht **„(zu prüfen)“**.
-- **Bau-Wertgrenze Freihändige Vergabe: Normwiderspruch „(zu prüfen)“.** Zwischen der
-  landesgesetzlichen Grenze des § 4 SächsVergabeG und der zum 01.01.2026 neu gefassten,
-  höheren Grenze der Bundes-VOB/A (§ 3a Abs. 3) besteht ein amtlich noch nicht geklärter
-  Widerspruch. Dieser Punkt ist in [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md) ausdrücklich als
-  **„(zu prüfen)“** gekennzeichnet und darf nicht als gesichert dargestellt werden; im
-  Zweifel ist von der niedrigeren landesgesetzlichen Grenze auszugehen.
+  Ausschreibung, Freihändige Vergabe, Direktauftrag) — aber nur, soweit das SächsVergabeG
+  nichts anderes bestimmt (§ 1 Abs. 2). Für Freihändige Vergabe und Direktauftrag bestimmt
+  § 4 SächsVergabeG etwas anderes (nächster Punkt).
+- **Bau: § 4 SächsVergabeG deckelt Freihändige Vergabe und Direktauftrag.** Nach
+  Auffassung des Justiziariats der LaNU (29.10.2026) gilt für die Freihändige Vergabe von
+  Bauleistungen die landesgesetzliche Grenze des § 4 SächsVergabeG, nicht die höhere Grenze
+  des § 3a Abs. 3 VOB/A; der veraltete Verweis auf „§ 3 Abs. 5 VOB/A“ ändert daran nichts.
+  Der Direktauftrag (§ 3a Abs. 4 VOB/A) ist auf dieselbe Grenze gedeckelt; auch für ihn
+  sind wegen Wirtschaftlichkeit und Sparsamkeit in der Regel **drei oder mehr Angebote**
+  einzuholen. Die Grenze der Beschränkten Ausschreibung ohne Teilnahmewettbewerb (§ 3a
+  Abs. 2 VOB/A) gilt uneingeschränkt. Werte und Begründung:
+  [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md). Die Auffassung ist
+  eine interne Rechtsauffassung, keine amtliche Klärung; das so offen sagen.
+- **Freiberufliche Leistungen unterschwellig: zwei Fälle.** Ist die Aufgabe vorab nicht
+  eindeutig und erschöpfend beschreibbar (typisch: Planungs-, Architekten-, Ingenieur-,
+  Gutachterleistungen mit Lösungsspielraum), greifen weder SächsVergabeG noch VOL/A (§ 1
+  Abs. 3 SächsVergabeG, § 1 Satz 2 VOL/A); zu beachten bleiben Haushaltsgrundsätze,
+  Vergleichsangebote in einer dem Auftragswert angemessenen Zahl und Dokumentation
+  mindestens nach § 20 VOL/A. Ist die Aufgabe **beschreibbar**, gilt das SächsVergabeG
+  (insbesondere §§ 4, 5, 8), die VOL/A wegen § 1 Satz 2 VOL/A aber nicht; das Verfahren
+  richtet sich nach der SäHO — siehe [references/sachsen-spezifika.md](references/sachsen-spezifika.md).
 
 ## Kleiner Entscheidungsbaum
 
@@ -148,6 +156,9 @@ Auftragswert (netto) geschätzt (Schritt 1)
     │                                                              (§ 1 Abs. 3 SächsVergabeG,
     │                                                              § 1 VOL/A; Haushaltsrecht,
     │                                                              Vergleichsangebote)
+    ├─ freiberufliche Leistung, Aufgabe beschreibbar?          → SächsVergabeG ohne VOL/A
+    │                                                              (§§ 4, 5, 8 SächsVergabeG;
+    │                                                              Verfahren nach SäHO)
     ├─ Liefer-/Dienstleistung → VOL/A
     │   ├─ ≤ Bagatellwert Direktkauf (§ 3 Abs. 6 VOL/A)?      → Direktkauf
     │   ├─ ≤ Wertgrenze Freihändige Vergabe (§ 4 SächsVergabeG)? → Freihändige Vergabe
@@ -156,31 +167,33 @@ Auftragswert (netto) geschätzt (Schritt 1)
     │                                                              Ausschreibung bei Ausnahme-
     │                                                              tatbestand (§ 3 VOL/A)
     └─ Bau → VOB/A Abschnitt 1
-        ├─ ≤ Wertgrenze Direktauftrag
-        │   (§ 3a Abs. 4 VOB/A – „(zu prüfen)“, s. u.)?          → Direktauftrag
         ├─ ≤ Wertgrenze Freihändige Vergabe
-        │   (§ 4 SächsVergabeG vs. § 3a Abs. 3 VOB/A
-        │   – „(zu prüfen)“, s. u.)?                             → Freihändige Vergabe
-        └─ sonst                                                → Öffentliche/Beschränkte
-                                                                     Ausschreibung (§ 3a VOB/A)
+        │   (§ 4 SächsVergabeG; deckelt auch den
+        │   Direktauftrag nach § 3a Abs. 4 VOB/A)?               → Direktauftrag (mit in der
+        │                                                              Regel 3+ Angeboten) oder
+        │                                                              Freihändige Vergabe
+        ├─ ≤ Wertgrenze Beschränkte Ausschreibung
+        │   ohne Teilnahmewettbewerb (§ 3a Abs. 2 VOB/A)?        → Beschränkte Ausschreibung
+        │                                                              ohne Teilnahmewettbewerb
+        └─ sonst                                                → Öffentliche Ausschreibung/
+                                                                     Beschränkte Ausschreibung mit
+                                                                     Teilnahmewettbewerb (§ 3a VOB/A)
 ```
 
-**Achtung Bau-Zweig:** Die Prüfreihenfolge setzt voraus, dass die Direktauftragsgrenze
-*unter* der Grenze der Freihändigen Vergabe liegt. Das trifft nach Bundes-VOB/A zu, in
-Sachsen aber nicht ohne Weiteres: Die landesgesetzliche Grenze der Freihändigen Vergabe
-(§ 4 SächsVergabeG) liegt unter der Direktauftragsgrenze der Bundes-VOB/A, und für den
-Direktauftrag wird eine Deckelung auf die § 4-Grenze vertreten. Beide Bau-Wertgrenzen
-sind deshalb **„(zu prüfen)“** — vor einer Festlegung [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md)
-(Zeilen Direktauftrag und Freihändige Vergabe Bau sowie Abschnitt „Ungeklärter
-Widerspruch“) lesen und die Unsicherheit offen benennen, statt eine Verfahrensart als
-gesichert auszugeben.
+**Hinweis Bau-Zweig:** In Sachsen fallen die Grenzen für Direktauftrag und Freihändige
+Vergabe bei Bauleistungen zusammen, weil § 4 SächsVergabeG beide deckelt (Justiziariat der
+LaNU, 29.10.2026; Werte in [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md)).
+Unterhalb dieser Grenze ist auch beim Direktauftrag Wettbewerb über mehrere Angebote
+herzustellen. In der LaNU wird auch unterhalb der Grenzen oft öffentlich ausgeschrieben, wenn
+kein ausreichender Bieterkreis bekannt ist oder mehr Wettbewerb wirtschaftlicher ist.
 
 ## Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche Nachprüfung
-und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**. Vor jeder verbindlichen
+und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**, Antworten des
+Justiziariats der LaNU zu den offenen Rechtsfragen zum **29.10.2026**. Vor jeder verbindlichen
 Auskunft die konkreten Beträge und Fristen in der jeweiligen Referenzdatei prüfen und bei
 Bedarf gegen die amtliche Primärquelle verifizieren (`revosax.sachsen.de` für
 SächsVergabeG/VOL/A, `gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)“**
-markierte Punkte – insbesondere die sächsischen Bau-Wertgrenzen bei der Freihändigen
-Vergabe – nicht ungeprüft als gesichert weitergeben.
+markierte Punkte nicht ungeprüft als gesichert weitergeben. Bei Angaben, die auf der
+Auffassung des Justiziariats der LaNU beruhen, die Quelle nennen.

@@ -92,17 +92,18 @@ sollte; fehlt er, darauf hinweisen.
 
 6. **Vorabinformation vor Zuschlag** — nicht berücksichtigte Bieter informieren,
    bevor der Vertrag geschlossen wird: unterschwellig **§ 8 SächsVergabeG**
-   (Textform; beanstandet ein Bieter vor Fristablauf schriftlich und wird nicht
-   abgeholfen, ist die Nachprüfungsbehörde zu unterrichten, und der Zuschlag ist erst
-   nach Ablauf von deren Prüffrist zulässig — § 8 Abs. 2 SächsVergabeG; Aufgreifschwelle
-   nach Auftragswert), oberschwellig **§ 134 GWB** (Warte-/Stillhaltefrist). Die
+   (Textform; die Frist läuft ab **Zugang** beim Bieter; beanstandet ein Bieter vor
+   Fristablauf in **Schriftform** — eine einfache E-Mail genügt nicht — und wird nicht
+   abgeholfen, ist die Nachprüfungsbehörde zu unterrichten, für die LaNU das **SMUL**, und
+   der Zuschlag ist erst nach Ablauf von deren Prüffrist zulässig — § 8 Abs. 2
+   SächsVergabeG; Aufgreifschwelle nach Auftragswert), oberschwellig **§ 134 GWB** (Warte-/Stillhaltefrist). Die
    konkreten Fristen und Aufgreifschwellen stehen in
    [references/sachsen-spezifika.md](references/sachsen-spezifika.md); Vorlage für das Absageschreiben:
    `vergabe-sachsen-dokumente`.
 
 7. **Zuschlag und Dokumentation** — vor dem Zuschlag ab der Abfragegrenze —
    **auch unterschwellig** — das **Wettbewerbsregister** für den vorgesehenen
-   Zuschlagsbieter abfragen (§ 6 Abs. 1 WRegG; Abfragegrenze:
+   Zuschlagsbieter abfragen (§ 6 Abs. 1 WRegG; Abfragegrenze und Hinweis zu Losen:
    [references/wertgrenzen-sachsen.md](references/wertgrenzen-sachsen.md)), dann nach Ablauf der
    Warte-/Informationsfrist den Zuschlag erteilen, das Zuschlagsschreiben versenden,
    die Meldung an die **Vergabestatistik** (VergStatVO; Meldegrenze:
@@ -126,10 +127,11 @@ Sync-Mechanismus überschrieben.
 ## Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
-Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**. Vor jeder
+Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**, Antworten
+des Justiziariats der LaNU zu offenen Rechtsfragen zum **29.10.2026**. Vor jeder
 verbindlichen Durchführung eines Verfahrens die konkreten Beträge, Fristen und
 Paragrafen in der jeweiligen Referenzdatei prüfen und bei Bedarf gegen die
 amtliche Primärquelle verifizieren (`revosax.sachsen.de` für SächsVergabeG/VOL/A,
 `gesetze-im-internet.de` für GWB/VgV). Als **„(zu prüfen)“** markierte Punkte —
-insbesondere die angekündigte SächsVergabeG-Novelle und die sächsischen
-Bau-Wertgrenzen — nicht ungeprüft als gesichert weitergeben.
+insbesondere die angekündigte SächsVergabeG-Novelle und die Wettbewerbsregister-Abfrage
+bei Losen — nicht ungeprüft als gesichert weitergeben.

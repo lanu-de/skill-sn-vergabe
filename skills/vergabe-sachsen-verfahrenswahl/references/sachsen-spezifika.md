@@ -7,8 +7,9 @@
 > ⚠️ **Rechtslage in Sachsen im Umbruch.** Das derzeit geltende **Sächsische Vergabegesetz
 > (SächsVergabeG)** stammt inhaltlich aus dem Jahr 2013 (rechtsbereinigte Fassung vom
 > 27.04.2019). Eine **Novelle ist angekündigt** (Einführung der UVgO, Tariftreue/
-> Vergabemindestentgelt, soziale und ökologische Kriterien, Anpassung der Wertgrenzen); ein
-> Inkrafttreten war zum Prüfstand **01.07.2026 nicht bestätigt**. Alle mit **„(zu prüfen)“**
+> Vergabemindestentgelt, soziale und ökologische Kriterien, Anpassung der Wertgrenzen); der
+> Entwurf wurde 2024 vom Kabinett zur Anhörung freigegeben, seither ist der Fortgang offen
+> (Stand **29.10.2026**, Justiziariat der LaNU). Alle mit **„(zu prüfen)“**
 > gekennzeichneten Angaben sind vor verbindlicher Verwendung durch eine fachkundige Person
 > gegen die amtliche Primärquelle (REVOSax, LDS/Vergabekammer, SMWA) zu verifizieren. Alle
 > Beträge sind **Nettobeträge** (ohne Umsatzsteuer).
@@ -36,7 +37,9 @@ GWB-Bekanntmachung vom 15.07.2005. Seit der Vergaberechtsmodernisierung 2016 ent
 diese Vorschriften **§ 103 GWB** (öffentliche Aufträge) bzw. **§ 106 GWB** (Schwellenwerte);
 über die Formulierung „in der jeweils geltenden Fassung“ wirkt der Verweis dynamisch fort.
 Der Gesetzestext wurde an die neue GWB-Nummerierung **nicht angepasst** — bei der Auslegung
-ist die aktuelle GWB-Nummerierung heranzuziehen.
+ist die aktuelle GWB-Nummerierung heranzuziehen. Das Justiziariat der LaNU bestätigt
+(29.10.2026): Der Verweis auf § 100 Abs. 1 GWB a. F. ist bis zur Novelle als Verweis auf
+die Schwellenwerte des heutigen **§ 106 GWB** zu lesen.
 
 ### Paragrafenüberblick SächsVergabeG (Regelungsinhalt)
 
@@ -111,27 +114,47 @@ Wertungsstufe zu berücksichtigen (Trennung von Eignungs- und Zuschlagsprüfung)
 
 ## Freiberufliche Leistungen (Unterschwelle) — sächsischer Sonderweg
 
-**§ 1 Abs. 3 SächsVergabeG** nimmt Leistungen, die im Rahmen einer **freiberuflichen
-Tätigkeit** erbracht werden und deren Aufgabe **vorab nicht eindeutig und erschöpfend
-beschrieben** werden kann (typisch: Planungs-, Architekten-, Ingenieur- und
-Gutachterleistungen mit Lösungsspielraum), vom Anwendungsbereich des Gesetzes aus; die
-**VOL/A nimmt in § 1 Satz 2 sogar sämtliche freiberuflichen Leistungen aus** (ohne
-Beschränkung auf nicht beschreibbare Aufgaben). Unterschwellig ist für solche Leistungen in
-Sachsen daher **kein förmliches Vergabeverfahren** vorgeschrieben. Es gelten die
-Haushaltsgrundsätze (Wirtschaftlichkeit/Sparsamkeit, § 7 SäHO; Vertragsgrundsätze,
-§ 55 SäHO), das Gebot der Vergabe im Wettbewerb (Einholung mehrerer Vergleichsangebote,
-Dokumentation) sowie bei eindeutigem grenzüberschreitendem Interesse die
-EU-Binnenmarkt-Grundsätze. Freiberufliche Leistungen mit **eindeutig und erschöpfend
-beschreibbarem** Gegenstand fallen zwar unter das SächsVergabeG (u. a. § 8), die
-VOL/A-Verfahren gelten wegen § 1 Satz 2 VOL/A jedoch auch für sie nicht —
-Verfahrensgestaltung dann nach Haushaltsrecht (§ 55 SäHO) **(zu prüfen)**. Details und die
-oberschwellige Behandlung (§§ 73 ff. VgV): siehe `verfahrensarten.md`, Abschnitt
+Prüfung in zwei Schritten (Auffassung des Justiziariats der LaNU, 29.10.2026):
+
+1. **Gilt das SächsVergabeG?** **§ 1 Abs. 3 SächsVergabeG** nimmt eine Leistung nur aus,
+   wenn **beide** Bedingungen erfüllt sind: (a) sie wird im Rahmen einer **freiberuflichen
+   Tätigkeit** erbracht oder im Wettbewerb mit freiberuflich Tätigen angeboten, **und**
+   (b) ihr Gegenstand ist eine Aufgabe, deren Lösung **vorab nicht eindeutig und
+   erschöpfend beschrieben** werden kann (typisch: Planungs-, Architekten-, Ingenieur- und
+   Gutachterleistungen mit Lösungsspielraum). Fehlt eine der beiden Bedingungen, gilt das
+   SächsVergabeG — und über § 1 Abs. 2 grundsätzlich auch die VOL/A.
+2. **Gilt die VOL/A?** **§ 1 Satz 2 VOL/A** nimmt Leistungen von freiberuflich Tätigen
+   und von Anbietern im Wettbewerb mit ihnen **generell** aus. Für solche Leistungen gilt
+   daher das SächsVergabeG **ohne** VOL/A; die Verfahrensgestaltung richtet sich nach der
+   SäHO. Für Leistungen von Nicht-Freiberuflern gilt die VOL/A.
+
+Daraus ergeben sich drei Fälle:
+
+- **Freiberuflich, Aufgabe nicht beschreibbar:** weder SächsVergabeG noch VOL/A; **kein
+  förmliches Vergabeverfahren**. Es gelten die Haushaltsgrundsätze (Wirtschaftlichkeit/
+  Sparsamkeit, § 7 SäHO; Vertragsgrundsätze, § 55 SäHO) und das Gebot der Vergabe im
+  Wettbewerb sowie bei eindeutigem grenzüberschreitendem Interesse die
+  EU-Binnenmarkt-Grundsätze. Verbindliche Vorgaben zur Zahl der Vergleichsangebote oder zur
+  Dokumentation gibt es nicht; eine Verwaltungsvorschrift zu § 55 SäHO besteht nach
+  Kenntnis des Justiziariats nicht. Die **Zahl der Vergleichsangebote** soll im Verhältnis
+  zum Auftragswert stehen; für die **Dokumentation** genügt es jedenfalls, die
+  Dokumentationsvorschriften der VOL/A (§ 20 VOL/A) einzuhalten.
+- **Freiberuflich, Aufgabe beschreibbar** (z. B. Gutachten mit festem Leistungsbild):
+  **SächsVergabeG gilt, VOL/A nicht.** Anzuwenden sind insbesondere § 4 (Wertgrenze der
+  freihändigen Vergabe), § 5 (Prüfschema) und § 8 (Informationspflicht); im Übrigen
+  Verfahrensgestaltung nach SäHO.
+- **Nicht freiberuflich:** SächsVergabeG und VOL/A gelten (Regelfall).
+
+Die Regelungen zum sachlichen und persönlichen Geltungsbereich sind auch in der
+Inhouse-Vergabeschulung der ABSt Sachsen für die LaNU dargestellt (Folien 35–42).
+Oberschwellige Behandlung (§§ 73 ff. VgV): siehe `verfahrensarten.md`, Abschnitt
 „Unterschwelle — Freiberufliche Leistungen“.
 
 | Regelung | Sächsische Vorgabe | Fundstelle | Stand |
 |---|---|---|---|
-| Ausnahme freiberufliche Leistungen | § 1 Abs. 3 SächsVergabeG: keine Anwendung des Gesetzes (und damit der VOL/A-Verfahren) auf freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist; § 1 Satz 2 VOL/A schließt freiberufliche Leistungen weitergehend generell aus | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 Satz 2 VOL/A: https://www.vergabevorschriften.de/vol-a/1 | 15.10.2026 geprüft (i. d. F. v. 27.04.2019) |
-| Folge für die Praxis | kein förmliches Verfahren; Wettbewerb durch mehrere Vergleichsangebote, Beachtung von § 7 und § 55 SäHO, Dokumentation der Auswahlentscheidung | SäHO §§ 7, 55: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung | 02.07.2026 geprüft |
+| Ausnahme freiberufliche Leistungen | § 1 Abs. 3 SächsVergabeG: keine Anwendung des Gesetzes nur, wenn die Leistung freiberuflich (oder im Wettbewerb mit Freiberuflern) erbracht wird **und** ihre Aufgabe vorab nicht eindeutig und erschöpfend beschreibbar ist; § 1 Satz 2 VOL/A schließt freiberufliche Leistungen generell aus | § 1 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; § 1 Satz 2 VOL/A: https://www.vergabevorschriften.de/vol-a/1 ; Auffassung Justiziariat der LaNU | 29.10.2026 (Justiziariat der LaNU; i. d. F. v. 27.04.2019) |
+| Beschreibbare freiberufliche Leistung | SächsVergabeG gilt (§§ 4, 5, 8), VOL/A nicht; Verfahrensgestaltung nach SäHO | § 1 Abs. 2, 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; Auffassung Justiziariat der LaNU | 29.10.2026 (Justiziariat der LaNU) |
+| Nicht beschreibbare freiberufliche Leistung | kein förmliches Verfahren; Vergleichsangebote in einer dem Auftragswert angemessenen Zahl; Beachtung von § 7 und § 55 SäHO; Dokumentation mindestens nach den Vorgaben der VOL/A (§ 20); keine Verwaltungsvorschrift zu § 55 SäHO | SäHO §§ 7, 55: https://www.revosax.sachsen.de/vorschrift/4270-Saechsische-Haushaltsordnung ; § 20 VOL/A: https://www.vergabevorschriften.de/vol-a/20 ; Auffassung Justiziariat der LaNU | 29.10.2026 (Justiziariat der LaNU) |
 
 ## Nachhaltige, soziale und umweltbezogene Beschaffung
 
@@ -218,13 +241,30 @@ erteilt werden, wenn die Nachprüfungsbehörde **nicht innerhalb von 10 Kalender
 Unterrichtung beanstandet. Ein **Anspruch des Bieters auf Tätigwerden** der Behörde besteht
 **nicht** (kein subjektives Recht wie oberschwellig). **Nachprüfungsbehörde** ist die
 **Aufsichtsbehörde**, bei **kreisangehörigen Gemeinden und Zweckverbänden die
-Landesdirektion Sachsen**, bei Zuwendungsempfängern die Bewilligungsbehörde.
+Landesdirektion Sachsen**, bei Zuwendungsempfängern die Bewilligungsbehörde. **Für
+Vergaben der LaNU ist Nachprüfungsbehörde das SMUL** (Justiziariat der LaNU, 29.10.2026).
+
+Ergänzend nach Auffassung des Justiziariats der LaNU (29.10.2026; die Darstellung des
+Ablaufs oben hat es als zutreffend und vollständig bestätigt):
+
+- **Fristbeginn:** Die Frist von 10 Kalendertagen nach § 8 Abs. 1 beginnt mit dem
+  **Zugang** der Information beim Bieter, nicht mit der Absendung. Für die Fristberechnung
+  daher einen nachweisbaren Übermittlungsweg wählen und den Zugang dokumentieren.
+- **Form der Beanstandung:** § 8 verlangt eine **schriftliche** Beanstandung, also
+  **Schriftform** (§ 126 BGB, eigenhändige Unterschrift). **Nicht ausreichend** sind eine
+  einfache E-Mail und auch ein eingescanntes, unterschriebenes Schreiben als Anhang einer
+  einfachen E-Mail. Die Schriftform kann nach § 126a BGB durch die **elektronische Form**
+  ersetzt werden (Dokument mit **qualifizierter elektronischer Signatur**). Eine Nachricht
+  über die E-Vergabe-Plattform genügt nur, wenn sie qualifiziert elektronisch signiert ist
+  oder über einen sicheren Übertragungsweg eingeht.
 
 | Ebene / Frist | Regelung | Fundstelle | Stand |
 |---|---|---|---|
 | Anwendungsbereich Unterschwelle | § 8 gilt nur oberhalb 75.000 EUR (Bau) bzw. 50.000 EUR (Liefer-/Dienstleistungen); darunter keine Informations-/Nachprüfungspflicht | § 8 Abs. 3 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 | Beanstandung → Unterrichtung der Nachprüfungsbehörde | Auftraggeber unterrichtet die Nachprüfungsbehörde; Zuschlag erst nach Ablauf von **10 Kalendertagen** ohne Beanstandung; kein Anspruch des Bieters auf Tätigwerden | § 8 Abs. 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
-| Zuständige Nachprüfungsbehörde | Aufsichtsbehörde; bei kreisangehörigen Gemeinden/Zweckverbänden die Landesdirektion Sachsen; bei Zuwendungsempfängern die Bewilligungsbehörde | § 8 Abs. 2 Satz 4 u. 5 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
+| Zuständige Nachprüfungsbehörde | Aufsichtsbehörde; bei kreisangehörigen Gemeinden/Zweckverbänden die Landesdirektion Sachsen; bei Zuwendungsempfängern die Bewilligungsbehörde; **für die LaNU das SMUL** | § 8 Abs. 2 Satz 4 u. 5 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; Auffassung Justiziariat der LaNU (LaNU → SMUL) | 29.10.2026 (Justiziariat der LaNU; i. d. F. v. 27.04.2019) |
+| Fristbeginn Vorabinformation | Frist von 10 Kalendertagen ab **Zugang** der Information beim Bieter | § 8 Abs. 1 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; Auffassung Justiziariat der LaNU | 29.10.2026 (Justiziariat der LaNU) |
+| Form der Beanstandung | **Schriftform** (§ 126 BGB) oder elektronische Form mit qualifizierter elektronischer Signatur (§ 126a BGB); einfache E-Mail (auch mit Scan) genügt nicht; Plattform-Nachricht nur bei QES oder sicherem Übertragungsweg | § 8 Abs. 2 SächsVergabeG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz ; §§ 126, 126a BGB: https://www.gesetze-im-internet.de/bgb/__126a.html ; Auffassung Justiziariat der LaNU | 29.10.2026 (Justiziariat der LaNU) |
 | Kosten des Nachprüfungsverfahrens | Gebühr **mindestens 100 EUR**, soll **1.000 EUR** nicht überschreiten; keine Kosten zulasten eines zu Recht rügenden Bieters | § 8 Abs. 4 SächsVergabeG i. V. m. SächsVwKG: https://www.revosax.sachsen.de/vorschrift/12749-Saechsisches-Vergabegesetz | 01.07.2026 geprüft (i. d. F. v. 27.04.2019) |
 
 ## E-Vergabe-Plattform Sachsen
@@ -296,8 +336,9 @@ Zwei ähnlich klingende, aber verschiedene Institute — nicht verwechseln:
   `glossar.md`, `rechtsquellen.md` und `wertgrenzen-sachsen.md` dargestellt.
 - **Einziger genuin sächsischer Betrag** ist die **25.000-EUR-Grenze der freihändigen
   Vergabe** (§ 4 SächsVergabeG); alle übrigen Euro-Grenzen der Verfahrensarten stammen aus
-  VOL/A bzw. VOB/A (Bundesrecht) und gelten über § 1 Abs. 2 SächsVergabeG. Details und der
-  ungeklärte Widerspruch zu den ab 01.01.2026 angehobenen VOB/A-Wertgrenzen: siehe
+  VOL/A bzw. VOB/A (Bundesrecht) und gelten über § 1 Abs. 2 SächsVergabeG. Die
+  25.000-EUR-Grenze geht nach Auffassung des Justiziariats der LaNU den ab 01.01.2026
+  angehobenen VOB/A-Wertgrenzen für freihändige Vergabe und Direktauftrag vor; Details:
   `wertgrenzen-sachsen.md`.
 - **Keine geltende SächsVergabeDVO.** Durch § 11 SächsVergabeG außer Kraft gesetzt; so
   auch in `glossar.md` und `rechtsquellen.md` vermerkt.

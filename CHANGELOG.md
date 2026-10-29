@@ -6,6 +6,31 @@ Versionierung nach [SemVer](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+### Geändert
+Antworten des **Justiziariats der LaNU** (29.10.2026) auf die offenen Rechtsfragen
+übernommen. Die Quelle ist in den Referenzdaten jeweils genannt und als interne
+Rechtsauffassung gekennzeichnet, nicht als amtliche Klärung.
+- **Bau-Wertgrenzen:** Freihändige Vergabe bis 25.000 EUR (§ 4 SächsVergabeG geht § 3a
+  Abs. 3 VOB/A vor; veralteter Verweis unschädlich). Direktauftrag ebenfalls auf 25.000 EUR
+  gedeckelt, in der Regel mit drei oder mehr Angeboten. Beschränkte Ausschreibung ohne
+  Teilnahmewettbewerb (150.000 EUR) gilt uneingeschränkt. „(zu prüfen)“ entfällt;
+  Entscheidungsbaum der Verfahrenswahl um die Beschränkte Ausschreibung ergänzt.
+- **Direktkauf Liefer-/Dienstleistungen:** 500 EUR; die in Praxisquellen genannten
+  15.000 EUR gelten in Sachsen nicht.
+- **Freiberufliche Leistungen:** Prüfung in zwei Schritten (§ 1 Abs. 3 SächsVergabeG, § 1
+  Satz 2 VOL/A). Bei beschreibbarer Aufgabe gilt das SächsVergabeG (§§ 4, 5, 8) ohne
+  VOL/A, Verfahren nach SäHO. Bei nicht beschreibbarer Aufgabe: Zahl der
+  Vergleichsangebote nach Auftragswert, Dokumentation mindestens nach § 20 VOL/A.
+- **§ 8 SächsVergabeG:** Frist läuft ab Zugang beim Bieter; Beanstandung nur in
+  Schriftform oder mit qualifizierter elektronischer Signatur (einfache E-Mail genügt
+  nicht); Nachprüfungsbehörde für die LaNU ist das SMUL. Absageschreiben, Zuschlagsschreiben
+  und Checkliste angepasst.
+- **Wettbewerbsregister:** Zuwendungsempfänger nur bei § 99 Nr. 4 GWB abfragepflichtig;
+  bei Losen vorläufig Gesamtwert je Bestbieter, weiter „(zu prüfen)“.
+- Verweis auf § 100 Abs. 1 GWB a. F. als § 106 GWB bestätigt; Stand der
+  SächsVergabeG-Novelle; VgV-Änderung vom 02.09.2026 als Folgeänderung eingeordnet.
+- Wissensbasis-Anweisungen und README auf den neuen Stand gebracht.
+
 ## [0.3.1] – 2026-10-16
 
 ### Geändert

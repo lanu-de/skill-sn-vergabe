@@ -5,7 +5,7 @@
 > genannten Fristen, Wertgrenzen und Aufgreifschwellen vor verbindlichem Einsatz
 > gegen `references/sachsen-spezifika.md`, `references/wertgrenzen-sachsen.md`,
 > `references/schwellenwerte-eu.md` und `references/fristen.md` prüfen
-> (Datenstand 01.07.2026, Ergänzungen 02.07.2026; als **„(zu prüfen)“** markierte
+> (Datenstand 01.07.2026, Ergänzungen 02.07.2026 und 29.10.2026; als **„(zu prüfen)“** markierte
 > Punkte dort beachten und nicht ungeprüft als gesichert weitergeben).
 
 **Verfahren:** [Aktenzeichen/Bezeichnung] | **Auftraggeber:** [Bezeichnung] |
@@ -29,7 +29,8 @@
   (Schätzregeln: `references/schwellenwerte-eu.md`, Abschnitt „Schätzung des
   Auftragswerts“)
 ☐ Sonderfall geprüft: freiberufliche Leistung, deren Aufgabe vorab nicht eindeutig
-  und erschöpfend beschreibbar ist? → unterschwellig kein förmliches Verfahren
+  und erschöpfend beschreibbar ist? → unterschwellig kein förmliches Verfahren;
+  bei beschreibbarer Aufgabe SächsVergabeG ohne VOL/A, Verfahren nach SäHO
   (`references/verfahrensarten.md`, Abschnitt „Freiberufliche Leistungen“)
 ☐ Haushaltsrechtliche Grundlage (Wirtschaftlichkeit/Sparsamkeit, Ausschreibungspflicht)
   beachtet (SäHO §§ 7, 55; `references/rechtsquellen.md`, Abschnitt „Haushaltsrechtliche
@@ -90,11 +91,15 @@
   Datenstand 01.07.2026 — vor Nutzung prüfen)
 ☐ Vorabinformation an nicht berücksichtigte Bieter versandt (Vorlage: Skill
   `vergabe-sachsen-dokumente` → `assets/absageschreiben-vorlage.md`) — Datum: [Datum]
+☐ Unterschwellig: Zugang der Information beim Bieter nachgewiesen (Frist nach § 8
+  SächsVergabeG läuft ab Zugang, nicht ab Absendung) — Zugang am: [Datum]
 ☐ Warte-/Informationsfrist abgelaufen (Fristdauer: `references/sachsen-spezifika.md`,
   Datenstand 01.07.2026 — vor Nutzung prüfen) — Fristende: [Datum]
 ☐ Keine Beanstandung eingegangen — **oder** unterschwellig: Ein Bieter hat vor
-  Fristablauf schriftlich beanstandet, der Beanstandung wurde nicht abgeholfen →
-  Nachprüfungsbehörde unterrichtet am [Datum]; Zuschlag erst, wenn diese nicht innerhalb
+  Fristablauf in Schriftform beanstandet (unterschrieben auf Papier oder elektronisch
+  mit qualifizierter elektronischer Signatur; einfache E-Mail genügt nicht), der
+  Beanstandung wurde nicht abgeholfen → Nachprüfungsbehörde (für die LaNU: SMUL)
+  unterrichtet am [Datum]; Zuschlag erst, wenn diese nicht innerhalb
   von 10 Kalendertagen nach Unterrichtung beanstandet; andernfalls ist ihre Auffassung zu
   beachten (§ 8 Abs. 2 SächsVergabeG) — Ende der Prüffrist: [Datum]
 
@@ -103,7 +108,7 @@
 ☐ Ab der Abfragegrenze (ober- **und** unterschwellig): Wettbewerbsregister für den
   vorgesehenen Zuschlagsbieter vor Zuschlagserteilung abgefragt (§ 6 Abs. 1 WRegG;
   Abfragegrenze: `references/wertgrenzen-sachsen.md`; darunter freiwillig, § 6 Abs. 2
-  WRegG) — Datum: [Datum]
+  WRegG; bei Losen Gesamtwert der Lose je Bestbieter — „(zu prüfen)“) — Datum: [Datum]
 ☐ Zuschlag erteilt — Datum: [Datum]
 ☐ Zuschlagsschreiben versandt (Vorlage: Skill `vergabe-sachsen-dokumente` →
   `assets/zuschlagsschreiben-vorlage.md`)
@@ -112,7 +117,7 @@
 ☐ Vergabevermerk abgeschlossen und archiviert
 ☐ Bei Rüge/Nachprüfungsantrag: zuständige Stelle geprüft (Vergabekammer des
   Freistaates Sachsen oberschwellig; Nachprüfungsbehörde/Aufsichtsbehörde
-  unterschwellig — `references/sachsen-spezifika.md`)
+  unterschwellig, für die LaNU das SMUL — `references/sachsen-spezifika.md`)
 
 ## Sonderfall — Aufhebung des Verfahrens (nur falls kein Zuschlag erteilt wird)
 
@@ -125,5 +130,5 @@
 ---
 
 *Checkliste abgeschlossen am [Datum] durch [Name, Funktion]. Datenstand der
-referenzierten Werte: 01.07.2026 (Ergänzungen 02.07.2026) — als „(zu prüfen)“
+referenzierten Werte: 01.07.2026 (Ergänzungen 02.07.2026 und 29.10.2026) — als „(zu prüfen)“
 markierte Punkte in den Referenzdateien vor Verwendung gesondert verifizieren.*

@@ -66,8 +66,10 @@ verwenden, woraus der **Grundsatz der Öffentlichen Ausschreibung** folgt. Für 
   (SächsVergabeG) darauf verweist bzw. abweicht.
 - Zur laufenden Novellierung des sächsischen Vergaberechts: Die Staatsregierung hatte
   2024 einen Entwurf zur Neufassung des SächsVergabeG in die Anhörung gegeben; eine
-  Verabschiedung war für die zu Ende gehende Wahlperiode nicht vorgesehen. Ob und wann
-  eine Neufassung in Kraft tritt, ist zu beobachten und bei Bedarf hier nachzutragen.
+  Verabschiedung war für die zu Ende gehende Wahlperiode nicht vorgesehen. Seitdem gibt es
+  zum Fortgang kaum Informationen; vermutlich ist die Abstimmung zwischen den Ressorts
+  nicht abgeschlossen (Justiziariat der LaNU, 29.10.2026). Ob und wann eine Neufassung in
+  Kraft tritt, ist zu beobachten und bei Bedarf hier nachzutragen.
 - **Fachliche Prüfquelle (keine Primärquelle):** Ergänzend zu den amtlichen
   Primärquellen empfiehlt sich für sächsische Praxis- und Wertgrenzenfragen die
   **Auftragsberatungsstelle Sachsen (ABSt Sachsen)**, das sächsische Kompetenzzentrum

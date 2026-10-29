@@ -51,7 +51,8 @@ Rechtsquellen-Kürzel und amtlichen Bezeichnungen sind jedoch gegen die Primärq
   freiberufliche Leistungen, deren Aufgabe vorab nicht eindeutig und erschöpfend
   beschrieben werden kann, sind vom SächsVergabeG ausgenommen (§ 1 Abs. 3
   SächsVergabeG); die VOL/A nimmt freiberufliche Leistungen sogar generell aus
-  (§ 1 Satz 2 VOL/A) — siehe `verfahrensarten.md`, Abschnitt
+  (§ 1 Satz 2 VOL/A). Bei beschreibbarer Aufgabe gilt daher das SächsVergabeG ohne
+  VOL/A — siehe `verfahrensarten.md`, Abschnitt
   „Unterschwelle — Freiberufliche Leistungen“.
 - **Direktauftrag:** Beschaffung ohne förmliches Vergabeverfahren bei sehr geringem,
   national/landesrechtlich festgelegtem Auftragswert (unterschwellig, z. B. Bau nach
