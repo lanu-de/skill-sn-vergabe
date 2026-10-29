@@ -116,8 +116,9 @@ von 10 Kalendertagen** für die Angebotsfrist, im Übrigen ebenfalls den Angemes
   Primärquelle geprüft am 15.10.2026.)
 - **Nachtrag 15.10.2026:** Die VgV wurde zuletzt durch Art. 1 der Verordnung vom 02.09.2026
   (BGBl. 2026 I Nr. 250) geändert. Der Wortlaut der §§ 15, 16, 38 VgV entspricht am
-  15.10.2026 den Tabellenwerten; die übrigen Inhalte dieser Änderungsverordnung sind noch
-  nicht ausgewertet **(zu prüfen)**.
+  15.10.2026 den Tabellenwerten. Nach Auskunft des Justiziariats der LaNU (29.10.2026) ist
+  die Änderung eine **Folgeänderung**: Die VgV verweist nun auf die aktuelle Fassung der
+  VOB/A statt auf die Vorgängerfassung. Inhaltlich ändert sich für die Fristen nichts.
 - **Elektronische Verkürzung wirkt nicht kumulativ mit der Dringlichkeitsfrist.** In §§ 15–17
   VgV verweist die Verkürzungsregel für die elektronische Übermittlung ausdrücklich auf die
   „Frist gemäß Absatz 2“ bzw. „Absatz 5“ (die reguläre Grundfrist), nicht auf die

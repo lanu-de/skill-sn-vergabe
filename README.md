@@ -56,11 +56,14 @@ Kurzfassung — Schritt für Schritt und für weitere Programme in
 
 ## Rechts-Datenstand und Methodik
 
-**Geprüft zum:** 01.07.2026, inhaltliche Nachprüfung und Ergänzungen zum 02.07.2026, Korrekturen zum 15.10.2026 —
-siehe Spalte „Stand“ in den Referenzdaten unter `shared/references/`. Einzelne
-landesrechtliche Punkte sind als „(zu prüfen)“ markiert (v. a. sächsische
-Bau-Wertgrenzen und die angekündigte SächsVergabeG-Novelle mit
-Tariftreue/Vergabemindestentgelt).
+**Geprüft zum:** 01.07.2026, inhaltliche Nachprüfung und Ergänzungen zum 02.07.2026, Korrekturen zum 15.10.2026,
+Antworten des Justiziariats der LaNU zu offenen Rechtsfragen zum 29.10.2026 —
+siehe Spalte „Stand“ in den Referenzdaten unter `shared/references/`. Die sächsischen
+Bau-Wertgrenzen, freiberufliche Leistungen und § 8 SächsVergabeG beruhen insoweit auf der
+Auffassung des Justiziariats der LaNU (interne Rechtsauffassung, keine amtliche Klärung).
+Einzelne landesrechtliche Punkte bleiben als „(zu prüfen)“ markiert (v. a. die angekündigte
+SächsVergabeG-Novelle mit Tariftreue/Vergabemindestentgelt und die Wettbewerbsregister-Abfrage
+bei Losen).
 
 **Methodik:** Die Referenzdaten wurden mit Unterstützung von Claude (Anthropic,
 Modell Claude Fable 5) recherchiert und gegen die in den Dateien genannten amtlichen

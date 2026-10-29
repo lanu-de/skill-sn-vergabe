@@ -121,10 +121,13 @@ folgende Vorgehensweise:
 ## Datenstand & Aktualität
 
 Der Datenstand der `references/`-Dateien ist der **01.07.2026**, inhaltliche
-Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026** (siehe Spalte „Stand“ in den
-jeweiligen Tabellen). Einzelne Punkte sind dort ausdrücklich als
+Nachprüfung und Ergänzungen zum **02.07.2026**, Korrekturen zum **15.10.2026**, Antworten
+des Justiziariats der LaNU zu offenen Rechtsfragen zum **29.10.2026** (siehe Spalte „Stand“ in den
+jeweiligen Tabellen). Aussagen, die auf dieser internen Rechtsauffassung beruhen (u. a.
+sächsische Bau-Wertgrenzen, freiberufliche Leistungen, § 8 SächsVergabeG), mit dieser
+Quelle nennen. Einzelne Punkte sind ausdrücklich als
 **„(zu prüfen)“** markiert und dürfen nicht ungeprüft als gesichert weitergegeben
-werden – insbesondere die sächsischen Bau-Wertgrenzen und die angekündigte, noch
+werden – insbesondere die angekündigte, noch
 nicht in Kraft getretene Novelle des SächsVergabeG (u. a. mögliche UVgO-Einführung,
 Tariftreue/Vergabemindestentgelt). Vor jeder verbindlichen Auskunft: Stand in der
 jeweiligen Referenzdatei prüfen und bei Bedarf gegen die amtliche Primärquelle

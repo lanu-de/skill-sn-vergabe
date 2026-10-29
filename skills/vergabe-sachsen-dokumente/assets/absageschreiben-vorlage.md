@@ -78,12 +78,18 @@ Zuschlagsbieters]** zu erteilen.
 **Grund der Nichtberücksichtigung Ihres Angebots:** [konkreter, einzelfallbezogener Grund].
 
 Diese Mitteilung erfolgt gemäß **§ 8 Abs. 1 SächsVergabeG** in Textform. Der Vertrag darf
-frühestens **[Datum, berechnet als Absendedatum dieser Information zzgl. der Wartefrist von
-10 Kalendertagen gemäß § 8 SächsVergabeG (Stand 01.07.2026 — vor Nutzung prüfen; siehe
-`references/sachsen-spezifika.md`)]** geschlossen werden.
+frühestens **10 Kalendertage nach Zugang dieser Information** bei Ihnen geschlossen werden.
+
+[Hinweis für die Vergabestelle, vor Versand löschen: Die Frist läuft ab Zugang beim
+Bieter, nicht ab Absendung (Auffassung Justiziariat der LaNU, 29.10.2026; siehe
+`references/sachsen-spezifika.md`). Übermittlungsweg mit Zugangsnachweis wählen und das
+Zugangsdatum in der Akte festhalten.]
 
 Sollten Sie die Nichteinhaltung der Vergabevorschriften beanstanden wollen, teilen Sie dies
-bitte **vor Ablauf der genannten Frist schriftlich** unter Angabe der Gründe mit. Der Auftraggeber unterrichtet in diesem
+bitte **vor Ablauf der genannten Frist schriftlich** unter Angabe der Gründe mit. Die
+Beanstandung bedarf der **Schriftform**: ein eigenhändig unterschriebenes Schreiben oder ein
+elektronisches Dokument mit qualifizierter elektronischer Signatur. Eine einfache E-Mail,
+auch mit eingescanntem unterschriebenem Schreiben, genügt nicht. Der Auftraggeber unterrichtet in diesem
 Fall die zuständige Nachprüfungsbehörde (§ 8 Abs. 2 SächsVergabeG). Ein Anspruch auf
 Tätigwerden der Nachprüfungsbehörde besteht nach § 8 SächsVergabeG nicht. Einzelheiten:
 `references/sachsen-spezifika.md`, Abschnitt „Unterschwelle: sächsisches Nachprüfungsverfahren nach § 8
